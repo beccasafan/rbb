@@ -1,0 +1,24 @@
+{% assign concert = include.concert %}
+<li class="item">
+    <div class="itemContainer">
+        <div class="imgContainer">
+            <div class="imgWrapper" data-equalizer-watch="image">
+                {% if concert.images %}
+                    {% assign concertImage = concert.images[0] %}
+                    <a href="{{ concert.url }}">
+                        <img src="{{ url }}/content/media/{{ concert.url }}/{{ concertImage }}" />
+                    </a>
+                {% else %}
+                    <a href="{{ concert.url }}">
+                        <img src="{{ url }}/content/media/no-image.jpg" />
+                    </a>
+                {% endif %}        
+            </div>
+        </div>
+        <div class="text-center">
+            <div><a href="{{ concert.url }}">{{ concert.title }}</a></div>
+            <div>{{ concert.date | date: "%A" }}</div>
+            <div class="date">{{ concert.date | date: "%Y-%m-%d" }}</div>
+        </div>
+    </div>
+</li>

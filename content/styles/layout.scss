@@ -1,0 +1,114 @@
+body {
+    background:#DDD; 
+    padding: 1em;
+}
+
+body:before {
+    top: 0; 
+    bottom: 0; 
+    left: 0; 
+    right: 0;
+    background: url('../media/background2.jpg');
+    opacity: 0.5;
+    position: fixed;
+    z-index: -1; 
+    content: "";
+    background-size: 100% 100%;
+}
+
+
+
+nav.top-bar {
+    .name {
+        a {
+            width: 100%;
+        }
+        @media (max-width: 319px) {
+            .tiniest {
+                display: block;
+            }
+            .not-tiniest {
+                display: none;
+            }
+        }
+        @media (min-width: 320px) {
+            .tiniest {
+                display: none;
+            }
+            .not-tiniest {
+                display: block;
+            }
+        }
+        .not-tiniest {
+            @media (min-width: 385px) and (max-width: 419px) {
+                font-size: .9em;
+            }
+            @media (min-width: 350px) and (max-width: 384px) {
+                font-size: .8em;
+            }
+            @media (min-width: 320px) and (max-width: 349px) {
+                font-size: .7em;
+            }
+        }
+    }
+}
+
+#container {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 1em;
+
+    hr {
+        border-color: #BBB;
+    }
+
+    [class*="block-grid-"] {
+        &.text-center {
+            font-size: 0;
+
+            > li {
+                float: none;
+                display: inline-block;
+                vertical-align: top;
+            }
+        }
+    }
+
+    .images {
+        .imgWrapper {
+            img {
+                max-width: 100%;
+                max-height: 200px;
+            }
+        }
+    }
+
+    button.small, .button.small {
+        @media (max-width: 385px) {
+            padding: 0.875rem .8rem .9375rem .8rem;
+        }
+    }
+
+    #concerts, #props {
+        .item {
+            .itemContainer {
+                padding: 20px;
+                border: 2px solid #EFEFEF;
+                border-radius: 10px;
+
+                .imgWrapper {
+                    margin-bottom: 20px;
+                    position: relative;
+                    overflow: hidden;
+
+                    img {
+                        width: 100%;
+                    }
+                }
+
+                .date {
+                    font-size: .85em;
+                }
+            }
+        }
+    }
+}

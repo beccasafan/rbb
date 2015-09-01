@@ -1,0 +1,8 @@
+---
+title:  Detroit
+date:   2015-08-29
+props: ['bowtie', 'toothbrush']
+images: [both-front.jpg, both-front-2.jpg, both-side.jpg, sb-front.jpg]
+---
+
+This is a section of text. Any amount of text can go here. The text here could describe what is going on in the fandom and any speculation. After the fact, the text could be modified to add any revelations that occur about the meaning.

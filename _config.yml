@@ -1,0 +1,45 @@
+# Site settings
+
+title: 1D Rainbow Bondage Bear and Sugar Bear
+description: 1D Rainbow Bondage Bear and Sugar Bear
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: beccasafan
+github_username:  beccasafan
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+exclude: ["old"]
+
+collections:
+  props:
+    output: true
+
+sass:
+  sass_dir: content/styles/
+
+host: 0.0.0.0
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "concert"
+      permalink: "concerts/:year/:month/:title"
+  -
+    scope:
+      path: ""
+      type: props
+    values:
+      permalink: "props/:path/"
+      layout: prop
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"

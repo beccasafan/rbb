@@ -1,0 +1,22 @@
+{% assign prop = include.prop %}
+<li class="item">
+    <div class="itemContainer">
+        <div class="imgContainer">
+            <div class="imgWrapper" data-equalizer-watch="image">
+                {% if prop.images %}
+                    {% assign propImage = prop.images[0] %}
+                    <a href="{{ prop.url }}">
+                        <img src="{{ url }}/content/media/{{ prop.url }}/{{ propImage }}" />
+                    </a>
+                {% else %}
+                    <a href="{{ prop.url }}">
+                        <img src="{{ url }}/content/media/no-image.jpg" />
+                    </a>
+                {% endif %}        
+            </div>
+        </div>
+        <div class="text-center">
+            <div><a href="{{ prop.url }}">{{ prop.title }}</a></div>
+        </div>
+    </div>
+</li>

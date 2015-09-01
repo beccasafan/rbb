@@ -1,0 +1,16 @@
+---
+title: Props
+---
+<div class="page">
+    <div class="text-center">
+        <h2>{{ page.title }}</h2>
+    </div>
+
+    <div id="props">
+        <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+            {% for prop in site.props %}
+                {% include prop.html prop = post %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>

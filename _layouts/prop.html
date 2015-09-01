@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="page">
+    <div class="text-center">
+        <h2>{{ page.title }}</h2>
+    </div>
+
+    <div class="images">
+        {% if page.images %}
+            <div class="row">
+                <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4 text-center">
+                    {% for img in page.images %}
+                        {% include bear-image.html img=img %}
+                    {% endfor %}
+                </ul>
+            </div>
+        {% else %}
+            <p>Images have not been added for this prop yet. {% include contribute.html %}</p>
+        {% endif %}
+    </div>
+
+    <hr>
+
+    <div id="concerts">
+
+    </div>
+
+    {% assign propContent = content | strip_newlines %}
+    {% if propContent != empty %}
+        {{ propContent }}
+    {% else %}
+        <p>Nothing has been entered for this prop yet. If you would like to contribute, contact beccasafan on <a href="https://twitter.com/beccasafan">Twitter</a> or <a href="http://beccasafan.tumblr.com">Tumblr</a></p>
+    {% endif %}
+</div>

@@ -1,0 +1,17 @@
+<html>
+    {% include head.html %}
+
+    <body>
+        {% include preframe.html %}
+
+        <div id="container" class="row">
+            <div class="small-12 columns">
+                <div class="row">
+                    {{ content }}
+                </div>
+
+                {% include postframe.html %}
+            </div>
+        </div>
+    </body>
+</html>
