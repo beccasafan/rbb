@@ -5,18 +5,18 @@
             <div class="imgWrapper" data-equalizer-watch="image">
                 {% if prop.images %}
                     {% assign propImage = prop.images[0] %}
-                    <a href="{{ prop.url }}">
-                        <img src="{{ url }}/content/media/{{ prop.url }}/{{ propImage }}" />
+                    <a href="{{ site.baseurl}}/{{ prop.url }}">
+                        <img src="{{ site.baseurl }}/content/media/{{ prop.url }}/{{ propImage }}" />
                     </a>
                 {% else %}
-                    <a href="{{ prop.url }}">
-                        <img src="{{ url }}/content/media/no-image.jpg" />
+                    <a href="{{ site.baseurl }}/{{ prop.url }}">
+                        <img src="{{ site.baseurl }}/content/media/no-image.jpg" />
                     </a>
                 {% endif %}        
             </div>
         </div>
         <div class="text-center">
-            <div><a href="{{ prop.url }}">{{ prop.title }}</a></div>
+            <div><a href="{{ site.baseurl }}/{{ prop.url }}">{{ prop.title }}</a></div>
         </div>
     </div>
 </li>

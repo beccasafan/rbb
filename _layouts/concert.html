@@ -33,9 +33,9 @@ layout: default
                     {% assign foundUrl = site.props | where:"relative_path", propPath | map:"url" %}
                     {% if foundUrl != empty %}
                         {% assign foundTitle = site.props | where:"relative_path", propPath | map:"title" %}
-                        <a href="{{ foundUrl }}" class="button small round {% cycle 'default', 'success' %}">{{ foundTitle }}</a>
+                        <a href="{{ site.baseurl }}/{{ foundUrl }}" class="button small round {% cycle 'default', 'success' %}">{{ foundTitle }}</a>
                     {% else %}
-                        <a href="{{ url }}/props/{{ prop }}" class="button small round {% cycle 'default', 'success' %}">{{ prop }}</a>
+                        <a href="{{ site.baseurl }}/props/{{ prop }}" class="button small round {% cycle 'default', 'success' %}">{{ prop }}</a>
                     {% endif %}
                 {% endfor %}
             {% endif %}
