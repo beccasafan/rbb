@@ -19,6 +19,7 @@ module Jekyll
     def generate(site)
       key = "props"
       allProps = ::Jekyll::Itafroma::PostGroupsGenerator.new.post_key_hash(site, key, [])
+      site.config["allprops"] = allProps.map{ |p| p[0] }
       if site.layouts.key? "prop"
         dir = site.config['prop_dir'] || key
         existingProps = site.collections[key].docs.map{ |d| d.basename_without_ext }
