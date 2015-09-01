@@ -19,7 +19,7 @@ title: Concerts
                 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
             {% endif %}
 
-            {% include concert.html concert=post %}
+            {% include concert.html concert=post element="li" %}
 
             {% if forloop.last %}
                 </ul>

@@ -1,5 +1,5 @@
 {% assign concert = include.concert %}
-<li class="item">
+<{{include.element}} class="item">
     <div class="itemContainer">
         <div class="imgContainer">
             <div class="imgWrapper" data-equalizer-watch="image">
@@ -21,4 +21,4 @@
             <div class="date">{{ concert.date | date: "%Y-%m-%d" }}</div>
         </div>
     </div>
-</li>
+</{{include.element}}>

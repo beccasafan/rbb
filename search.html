@@ -1,0 +1,22 @@
+---
+title: Search
+---
+<div id="search">
+    <ul id="props" class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+        {% for prop in site.allprops %}
+            <li class="prop">
+                <div class="switch">
+                    <input id="{{ prop }}Switch" type="checkbox" />
+                    <label for="{{ prop}}Switch"></label>
+                </div>
+                <div class="label secondary"><label for="{{prop}}Switch">{{ prop }}</label></div>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <ul id="concerts" class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
+        {% for post in site.posts %}
+            <li class="isotope {% for prop in post.props %} {{prop}}{%endfor%}">{% include concert.html concert=post element="div" %}</li>
+        {% endfor %}
+    </ul>
+</div>

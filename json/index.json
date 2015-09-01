@@ -2,6 +2,7 @@
 layout: null
 ---
 {
+    "baseurl" : "{{site.baseurl}}",
     "posts": [
         {% for post in site.posts %}
             {
