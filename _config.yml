@@ -19,6 +19,7 @@ collections:
 
 sass:
   sass_dir: content/styles/
+  style: compressed
 
 host: 0.0.0.0
 
