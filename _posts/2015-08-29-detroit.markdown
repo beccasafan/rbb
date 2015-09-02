@@ -1,7 +1,7 @@
 ---
 title:  Detroit
 date:   2015-08-29
-props: ['bowtie', 'toothbrush']
+props: [bowtie, toothbrush, cigar]
 images: [both-front.jpg, both-front-2.jpg, both-side.jpg, sb-front.jpg]
 ---
 
