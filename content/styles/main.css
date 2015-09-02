@@ -7785,4 +7785,7 @@ nav.top-bar .name a {
       line-height: 2rem; }
   #container #search .prop {
     line-height: 2rem;
-    font-size: 1rem; }
+    font-size: 1rem;
+    margin: 0 .5rem; }
+    #container #search .prop:first-child {
+      margin: 0 .5rem 0 0; }
