@@ -67,6 +67,8 @@
                     
                         "toothpaste",
                     
+                        "bible",
+                    
                         "green-happy-sticker",
                     
                         "blue-happy-sticker"
@@ -2152,6 +2154,23 @@
                     
                     "title": "Toothpaste",
                     "url": "/rbb/props/toothpaste/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Bible",
+                    "url": "/rbb/props/bible/",
                     "images": [
                         
                             ""
