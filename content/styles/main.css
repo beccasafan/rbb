@@ -7737,6 +7737,9 @@ nav.top-bar .name a {
 @media (min-width: 320px) and (max-width: 349px) {
   nav.top-bar .name .not-tiniest {
     font-size: .7em; } }
+@media (min-width: 641px) and (max-width: 665px) {
+  nav.top-bar .top-bar-section li:not(.has-form) a:not(.button) {
+    padding: 0 .7rem; } }
 
 #container {
   background-color: rgba(255, 255, 255, 0.4);

@@ -20,7 +20,9 @@
                     
                         "bowtie",
                     
-                        "toothbrush"
+                        "toothbrush",
+                    
+                        "cigar"
                     
                 ]
             },
@@ -62,6 +64,23 @@
                 
                     "title": "toothbrush",
                     "url": "/rbb/props/toothbrush"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Cigar",
+                    "url": "/rbb/props/cigar/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
                 
             }
 
