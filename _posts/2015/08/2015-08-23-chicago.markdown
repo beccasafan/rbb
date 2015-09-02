@@ -2,4 +2,5 @@
 title: Chicago
 date: 2015-08-23
 images: [both-front.jpg, rbb.jpg]
+props: [rbb, sb, black-boots, rainbow-tutu, white-robe, silver-sparkly-fedora, black-white-fedora, studded-black-choker, aviators, rockstar-gold-necklace, $-gold-necklace, watch, staff, cigar, baby-bottle, flower-lights, champagne-flute, diamond-bedazzled-kanye-glasses, money, green-surprised-sticker, blue-sad-sticker, freddie-mustache]
 ---
