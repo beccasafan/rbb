@@ -28,7 +28,8 @@ layout: default
         {% assign tagsLength = page.tags | size %}
         {% if propsLength > 0 or tagsLength > 0 %}
             {% if propsLength > 0 %}
-                {% for prop in page.props %}
+                {% assign props = page.props | sort %}
+                {% for prop in props %}
                     {% assign propPath = "_props/" | append:prop | append:".markdown" %}
                     {% assign foundUrl = site.props | where:"relative_path", propPath | map:"url" %}
                     {% if foundUrl != empty %}

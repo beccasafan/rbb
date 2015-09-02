@@ -23,14 +23,25 @@ layout: default
 
     <hr>
 
-    <div id="concerts">
-
-    </div>
-
     {% assign propContent = content | strip_newlines %}
     {% if propContent != empty %}
         {{ propContent }}
     {% else %}
         <p>Nothing has been entered for this prop yet. {% include contribute.html %}</p>
     {% endif %}
+
+    <hr>
+
+    <div id="concerts">
+        <div class="text-center">
+            <h3>Concerts</h3>
+        </div>
+        <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+            {% for post in site.posts %}
+                {% if post.props contains page.prop %}
+                    {% include concert.html concert=post element="li" %}
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
 </div>

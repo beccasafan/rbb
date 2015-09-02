@@ -19,7 +19,8 @@ title: Search
         </div>
     </div>
     <p id="props">
-        {% for prop in site.allprops %}
+        {% assign props = site.allprops | sort %}
+        {% for prop in props %}
             <label class="prop label secondary">{{ prop }}</label>
         {% endfor %}
     </p>

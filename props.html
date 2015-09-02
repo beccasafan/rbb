@@ -8,7 +8,8 @@ title: Props
 
     <div id="props">
         <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-            {% for prop in site.allprops %}
+            {% assign props = site.allprops | sort %}
+            {% for prop in props %}
                 {% include prop.html prop = post %}
             {% endfor %}
         </ul>
