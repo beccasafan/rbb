@@ -1,22 +1,28 @@
 {% assign prop = include.prop %}
+{% assign propPath = "_props/" | append:prop | append:".markdown" %}
+{% assign foundUrl = site.props | where:"relative_path", propPath | map:"url" %}
+{% if foundUrl != empty %}
+    {% assign propTitle = site.props | where:"relative_path", propPath | map:"title" %}
+    {% assign propImages = site.props | where:"relative_path", propPath | map:"images" %}
+    {% assign propImage = propImages[0] %}
+    {% assign propUrl = foundUrl %}
+{% else %}
+    {% assign propTitle = prop %}
+    {% assign propImage = site.baseurl | append:"/content/media/no-image.jpg" %}
+    {% assign propUrl = site.baseurl | append:"/props/" | append:prop %}
+{% endif %}
+
 <li class="item">
     <div class="itemContainer">
         <div class="imgContainer">
             <div class="imgWrapper" data-equalizer-watch="image">
-                {% if prop.images %}
-                    {% assign propImage = prop.images[0] %}
-                    <a href="{{ site.baseurl}}/{{ prop.url }}">
-                        <img src="{{ site.baseurl }}/content/media/{{ prop.url }}/{{ propImage }}" />
-                    </a>
-                {% else %}
-                    <a href="{{ site.baseurl }}/{{ prop.url }}">
-                        <img src="{{ site.baseurl }}/content/media/no-image.jpg" />
-                    </a>
-                {% endif %}        
+                <a href="{{ propUrl }}">
+                    <img src="{{ propImage }}" />
+                </a>
             </div>
         </div>
         <div class="text-center">
-            <div><a href="{{ site.baseurl }}/{{ prop.url }}">{{ prop.title }}</a></div>
+            <div><a href="{{ propUrl }}">{{ propTitle }}</a></div>
         </div>
     </div>
 </li>
