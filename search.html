@@ -21,7 +21,16 @@ title: Search
     <p id="props" class="text-center">
         {% assign props = site.allprops | sort %}
         {% for prop in props %}
-            <label class="prop label secondary">{{ prop }}</label>
+            {% assign propPath = "_props/" | append:prop | append:".markdown" %}
+            {% assign foundProps = site.props | where:"relative_path", propPath %}
+            {% assign foundSize = foundProps | size %}
+            {% if foundSize > 0 %}
+                {% assign foundProp = foundProps[0] %}
+                {% assign propTitle = foundProp.title %}
+            {% else %}
+                {% assign propTitle = prop %}
+            {% endif %}
+            <label class="prop label secondary">{{ propTitle }}</label>
         {% endfor %}
     </p>
 
