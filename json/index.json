@@ -7,8 +7,18 @@
                 "url": "/rbb/concerts/2015/09/philadelphia",
                 "images": [
                     
+                        "both-front.jpg"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "sb",
+                    
+                        "book",
+                    
+                        "green-happy-sticker"
                     
                 ]
             },
@@ -18,8 +28,32 @@
                 "url": "/rbb/concerts/2015/08/detroit",
                 "images": [
                     
+                        "both-front.jpg",
+                    
+                        "both-front-2.jpg",
+                    
+                        "both-side.jpg",
+                    
+                        "sb-front.jpg"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "sb",
+                    
+                        "green-happy-sticker",
+                    
+                        "blue-happy-sticker",
+                    
+                        "toothbrush",
+                    
+                        "toothpaste",
+                    
+                        "bible",
+                    
+                        "watch"
                     
                 ]
             },
@@ -554,6 +588,96 @@
         
     ],
     "props": [
+        
+            {
+                
+                
+                
+                    "title": "rbb",
+                    "url": "/rbb/props/rbb"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "sb",
+                    "url": "/rbb/props/sb"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "green-happy-sticker",
+                    "url": "/rbb/props/green-happy-sticker"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "blue-happy-sticker",
+                    "url": "/rbb/props/blue-happy-sticker"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "toothbrush",
+                    "url": "/rbb/props/toothbrush"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "toothpaste",
+                    "url": "/rbb/props/toothpaste"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "bible",
+                    "url": "/rbb/props/bible"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "watch",
+                    "url": "/rbb/props/watch"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "book",
+                    "url": "/rbb/props/book"
+                
+            }
+
         
     ]
 }

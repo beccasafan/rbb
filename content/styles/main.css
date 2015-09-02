@@ -7767,7 +7767,8 @@ nav.top-bar .name a {
       position: relative;
       overflow: hidden; }
       #container #concerts .item .itemContainer .imgWrapper img, #container #props .item .itemContainer .imgWrapper img {
-        width: 100%; }
+        width: 100%;
+        max-height: 200px; }
     #container #concerts .item .itemContainer .date, #container #props .item .itemContainer .date {
       font-size: .85em; }
   #container #search #mode .columns {
