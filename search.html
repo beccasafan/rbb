@@ -2,17 +2,27 @@
 title: Search
 ---
 <div id="search">
-    <ul id="props" class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+    <p>Click the prop(s) to include in your search.</p>
+    <div id="mode" class="row">
+        <div class="small-12 medium-6 columns">
+            <div class="switch">
+                <input id="searchAnd" type="radio" name="search" checked value="and">
+                <label for="searchAnd"></label>
+            </div>
+            <div class="label secondary"><label for="searchAnd">match all selected props</label></div>
+        </div>
+        <div class="small-12 medium-6 columns">
+            <div class="switch">
+                <input id="searchOr" type="radio" name="search" value="or">
+                <label for="searchOr"></label>
+            </div>&nbsp;<div class="label secondary"><label for="searchOr">match any selected prop</label></div>
+        </div>
+    </div>
+    <p id="props">
         {% for prop in site.allprops %}
-            <li class="prop">
-                <div class="switch">
-                    <input id="{{ prop }}Switch" type="checkbox" />
-                    <label for="{{ prop}}Switch"></label>
-                </div>
-                <div class="label secondary"><label for="{{prop}}Switch">{{ prop }}</label></div>
-            </li>
+            <span class="prop label secondary">{{ prop }}</span>
         {% endfor %}
-    </ul>
+    </p>
 
     <ul id="concerts" class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
         {% for post in site.posts %}
