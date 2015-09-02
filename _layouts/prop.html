@@ -36,9 +36,15 @@ layout: default
         <div class="text-center">
             <h3>Concerts</h3>
         </div>
+            {% if page.prop %}
+                {% assign prop = page.prop %}
+            {% else %}
+                {% assign propFolder = "_" | append:page.collection | append:"/" %}
+                {% assign prop = page.relative_path | replace:propFolder,"" | replace:".markdown","" %}
+            {% endif %}
         <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
             {% for post in site.posts %}
-                {% if post.props contains page.prop %}
+                {% if post.props contains prop %}
                     {% include concert.html concert=post element="li" %}
                 {% endif %}
             {% endfor %}

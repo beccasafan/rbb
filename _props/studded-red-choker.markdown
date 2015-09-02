@@ -1,0 +1,3 @@
+---
+title: Studded Red Choker
+---

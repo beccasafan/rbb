@@ -1,15 +1,20 @@
 {% assign prop = include.prop %}
 {% assign propPath = "_props/" | append:prop | append:".markdown" %}
-{% assign foundUrl = site.props | where:"relative_path", propPath | map:"url" %}
-{% if foundUrl != empty %}
-    {% assign propTitle = site.props | where:"relative_path", propPath | map:"title" %}
-    {% assign propImages = site.props | where:"relative_path", propPath | map:"images" %}
-    {% assign propImage = propImages[0] %}
-    {% assign propUrl = foundUrl %}
+{% assign foundProps = site.props | where:"relative_path", propPath %}
+{% assign foundSize = foundProps | size %}
+{% if foundSize > 0 %}
+    {% assign foundProp = foundProps[0] %}
+    {% assign propTitle = foundProp.title %}
+    {% if foundProp.images %}
+        {% assign propImage = foundProp.images[0] %}
+    {% else %}
+        {% capture propImage %}{{site.baseurl}}/content/media/no-image.jpg{%endcapture%}
+    {% endif %}
+    {% capture propUrl %}{{site.baseurl}}/{{foundProp.url}}{% endcapture %}
 {% else %}
     {% assign propTitle = prop %}
-    {% assign propImage = site.baseurl | append:"/content/media/no-image.jpg" %}
-    {% assign propUrl = site.baseurl | append:"/props/" | append:prop %}
+    {% capture propUrl %}{{site.baseurl}}/props/{{prop}}{%endcapture%}
+    {% capture propImage %}{{site.baseurl}}/content/media/no-image.jpg{%endcapture%}
 {% endif %}
 
 <li class="item">

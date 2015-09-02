@@ -1,0 +1,3 @@
+---
+title: Black & White Fedora
+---
