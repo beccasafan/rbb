@@ -34,7 +34,9 @@
                     
                         "both-side.jpg",
                     
-                        "sb-front.jpg"
+                        "sb-front.jpg",
+                    
+                        "both-happy-stickers.jpg"
                     
                 ],
                 "props": [
@@ -63,6 +65,10 @@
                 "url": "/rbb/concerts/2015/08/cleveland",
                 "images": [
                     
+                        "both-front.jpg",
+                    
+                        "both-side.jpg"
+                    
                 ],
                 "props": [
                     
@@ -73,6 +79,8 @@
                 "title": "Milwaukee",
                 "url": "/rbb/concerts/2015/08/milwaukee",
                 "images": [
+                    
+                        "both-front.jpg"
                     
                 ],
                 "props": [
@@ -85,6 +93,10 @@
                 "url": "/rbb/concerts/2015/08/chicago",
                 "images": [
                     
+                        "both-front.jpg",
+                    
+                        "rbb.jpg"
+                    
                 ],
                 "props": [
                     
@@ -95,6 +107,12 @@
                 "title": "Toronto",
                 "url": "/rbb/concerts/2015/08/toronto",
                 "images": [
+                    
+                        "both-front.jpg",
+                    
+                        "both-side-left.png",
+                    
+                        "both-side-right.png"
                     
                 ],
                 "props": [
@@ -107,6 +125,10 @@
                 "url": "/rbb/concerts/2015/08/columbus",
                 "images": [
                     
+                        "both-front.png",
+                    
+                        "both-side.png"
+                    
                 ],
                 "props": [
                     
@@ -117,6 +139,8 @@
                 "title": "Baltimore",
                 "url": "/rbb/concerts/2015/08/baltimore",
                 "images": [
+                    
+                        "both-front.png"
                     
                 ],
                 "props": [
@@ -129,6 +153,8 @@
                 "url": "/rbb/concerts/2015/08/east-rutherford",
                 "images": [
                     
+                        "both-front.png"
+                    
                 ],
                 "props": [
                     
@@ -139,6 +165,8 @@
                 "title": "Pittsburgh",
                 "url": "/rbb/concerts/2015/08/pittsburgh",
                 "images": [
+                    
+                        "both-front.png"
                     
                 ],
                 "props": [
