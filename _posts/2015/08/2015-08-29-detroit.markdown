@@ -1,6 +1,6 @@
 ---
 title: Detroit
 date: 2015-08-29
-images: [both-front.jpg, both-front-2.jpg, both-side.jpg, sb-front.jpg]
+images: [both-front.jpg, both-front-2.jpg, both-side.jpg, sb-front.jpg, both-happy-stickers.jpg]
 props: [rbb, sb, green-happy-sticker, blue-happy-sticker, toothbrush, toothpaste, bible, watch]
 ---

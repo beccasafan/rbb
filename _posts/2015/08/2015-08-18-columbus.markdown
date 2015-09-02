@@ -1,4 +1,5 @@
 ---
 title: Columbus
 date: 2015-08-18
+images: [both-front.png, both-side.png]
 ---

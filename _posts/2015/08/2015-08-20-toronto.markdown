@@ -1,4 +1,5 @@
 ---
 title: Toronto
 date: 2015-08-20
+images: [both-front.jpg, both-side-left.png, both-side-right.png]
 ---
