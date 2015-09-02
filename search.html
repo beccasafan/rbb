@@ -18,16 +18,18 @@ title: Search
             </div>&nbsp;<div class="label secondary"><label for="searchOr">match any selected prop</label></div>
         </div>
     </div>
-    <p id="props">
+    <p id="props" class="text-center">
         {% assign props = site.allprops | sort %}
         {% for prop in props %}
             <label class="prop label secondary">{{ prop }}</label>
         {% endfor %}
     </p>
 
-    <ul id="concerts" class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
-        {% for post in site.posts %}
-            <li class="isotope {% for prop in post.props %} {{prop}}{%endfor%}">{% include concert.html concert=post element="div" %}</li>
-        {% endfor %}
-    </ul>
+    <div data-equalizer="title">
+        <ul id="concerts" class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
+            {% for post in site.posts %}
+                <li class="isotope {% for prop in post.props %} {{prop}}{%endfor%}">{% include concert.html concert=post element="div" %}</li>
+            {% endfor %}
+        </ul>
+    </div>
 </div>
