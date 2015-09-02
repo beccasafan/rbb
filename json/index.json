@@ -158,6 +158,38 @@
                 ],
                 "props": [
                     
+                        "rbb",
+                    
+                        "sb",
+                    
+                        "black-lace-up-boots",
+                    
+                        "black-boots",
+                    
+                        "rainbow-tutu",
+                    
+                        "bondage-gear",
+                    
+                        "batman-costume",
+                    
+                        "silver-sparkly-fedora",
+                    
+                        "studded-red-choker",
+                    
+                        "aviators",
+                    
+                        "astro-turf",
+                    
+                        "mushrooms",
+                    
+                        "flowers",
+                    
+                        "blue-box",
+                    
+                        "freddie-mustache",
+                    
+                        "blue-sad-sticker"
+                    
                 ]
             },
         
@@ -170,6 +202,44 @@
                     
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "sb",
+                    
+                        "black-lace-up-boots",
+                    
+                        "black-boots",
+                    
+                        "sparkly-bowtie",
+                    
+                        "rainbow-tutu",
+                    
+                        "rainbow-tshirt",
+                    
+                        "bondage-gear",
+                    
+                        "gold-crown",
+                    
+                        "silver-sparkly-fedora",
+                    
+                        "aviators",
+                    
+                        "rainbow-hair-extensions",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "staff",
+                    
+                        "pointer-stick",
+                    
+                        "flowers",
+                    
+                        "blue-box",
+                    
+                        "freddie-mustache",
+                    
+                        "green-happy-sticker"
                     
                 ]
             },
@@ -641,8 +711,218 @@
                 
                 
                 
+                    "title": "black-lace-up-boots",
+                    "url": "/rbb/props/black-lace-up-boots"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "black-boots",
+                    "url": "/rbb/props/black-boots"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "sparkly-bowtie",
+                    "url": "/rbb/props/sparkly-bowtie"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "rainbow-tutu",
+                    "url": "/rbb/props/rainbow-tutu"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "rainbow-tshirt",
+                    "url": "/rbb/props/rainbow-tshirt"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "bondage-gear",
+                    "url": "/rbb/props/bondage-gear"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "gold-crown",
+                    "url": "/rbb/props/gold-crown"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "silver-sparkly-fedora",
+                    "url": "/rbb/props/silver-sparkly-fedora"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "aviators",
+                    "url": "/rbb/props/aviators"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "rainbow-hair-extensions",
+                    "url": "/rbb/props/rainbow-hair-extensions"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "pink-hello-kitty-chair",
+                    "url": "/rbb/props/pink-hello-kitty-chair"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "staff",
+                    "url": "/rbb/props/staff"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "pointer-stick",
+                    "url": "/rbb/props/pointer-stick"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "flowers",
+                    "url": "/rbb/props/flowers"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "blue-box",
+                    "url": "/rbb/props/blue-box"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "freddie-mustache",
+                    "url": "/rbb/props/freddie-mustache"
+                
+            },
+
+        
+            {
+                
+                
+                
                     "title": "green-happy-sticker",
                     "url": "/rbb/props/green-happy-sticker"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "batman-costume",
+                    "url": "/rbb/props/batman-costume"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "studded-red-choker",
+                    "url": "/rbb/props/studded-red-choker"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "astro-turf",
+                    "url": "/rbb/props/astro-turf"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "mushrooms",
+                    "url": "/rbb/props/mushrooms"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "blue-sad-sticker",
+                    "url": "/rbb/props/blue-sad-sticker"
                 
             },
 
