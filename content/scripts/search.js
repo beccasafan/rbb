@@ -7,14 +7,14 @@ $("input[type=radio]", "#search").on("change", function() {
     doSearch();
 });
 
-
-$("#search #concerts").isotope({
-    itemSelector: ".isotope",
-    layoutMode: "masonry"
+imagesLoaded("#search #concerts", function() {
+    $("#search #concerts").isotope({
+        itemSelector: ".isotope",
+        layoutMode: "masonry"
+    });
 });
 
 function toggleStatus(element) {
-    console.log(element);
     var $this = $(element);
     if ($this.hasClass("success")) {
         $this.removeClass("success").addClass("secondary");
