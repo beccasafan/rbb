@@ -7740,7 +7740,7 @@ nav.top-bar .name a {
 
 #container {
   background-color: rgba(255, 255, 255, 0.4);
-  padding: 1em; }
+  padding: 3em 1em 1em 1em; }
   #container hr {
     border-color: #BBB; }
   #container [class*="block-grid-"].text-center {
@@ -7767,3 +7767,19 @@ nav.top-bar .name a {
         width: 100%; }
     #container #concerts .item .itemContainer .date, #container #props .item .itemContainer .date {
       font-size: .85em; }
+  #container #search #mode .columns {
+    font-size: 0;
+    line-height: 0; }
+    #container #search #mode .columns > div {
+      display: inline-block;
+      font-size: 1rem;
+      line-height: 2rem;
+      vertical-align: top; }
+    #container #search #mode .columns .label {
+      padding-top: 0;
+      padding-bottom: 0; }
+    #container #search #mode .columns label {
+      line-height: 2rem; }
+  #container #search .prop {
+    line-height: 2rem;
+    font-size: 1rem; }

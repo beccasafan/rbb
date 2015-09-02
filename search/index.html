@@ -35,16 +35,84 @@
         <div id="container" class="row">
             <div class="small-12 columns">
                 <div class="row">
-                    <p>This page isn’t <em>quite</em> ready. Check back in a day or so!</p>
+                    <div id="search">
+    <p>Click the prop(s) to include in your search.</p>
+    <div id="mode" class="row">
+        <div class="small-12 medium-6 columns">
+            <div class="switch">
+                <input id="searchAnd" type="radio" name="search" checked value="and">
+                <label for="searchAnd"></label>
+            </div>
+            <div class="label secondary"><label for="searchAnd">match all selected props</label></div>
+        </div>
+        <div class="small-12 medium-6 columns">
+            <div class="switch">
+                <input id="searchOr" type="radio" name="search" value="or">
+                <label for="searchOr"></label>
+            </div>&nbsp;<div class="label secondary"><label for="searchOr">match any selected prop</label></div>
+        </div>
+    </div>
+    <p id="props">
+        
+            <span class="prop label secondary">bowtie</span>
+        
+            <span class="prop label secondary">toothbrush</span>
+        
+    </p>
 
-<p>Want to know which concerts a certain prop has shown up? This page will tell you!</p>
-
+    <ul id="concerts" class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
+        
+            <li class="isotope  bowtie toothbrush">
+<div class="item">
+    <div class="itemContainer">
+        <div class="imgContainer">
+            <div class="imgWrapper" data-equalizer-watch="image">
+                
+                    
+                    <a href="/rbb//concerts/2015/08/detroit">
+                        <img src="/rbb/content/media//concerts/2015/08/detroit/both-front.jpg" />
+                    </a>
+                        
+            </div>
+        </div>
+        <div class="text-center">
+            <div><a href="/rbb//concerts/2015/08/detroit">Detroit</a></div>
+            <div>Saturday</div>
+            <div class="date">2015-08-29</div>
+        </div>
+    </div>
+</div></li>
+        
+            <li class="isotope ">
+<div class="item">
+    <div class="itemContainer">
+        <div class="imgContainer">
+            <div class="imgWrapper" data-equalizer-watch="image">
+                
+                    <a href="/rbb//concerts/2015/08/cleveland">
+                        <img src="/rbb/content/media/no-image.jpg" />
+                    </a>
+                        
+            </div>
+        </div>
+        <div class="text-center">
+            <div><a href="/rbb//concerts/2015/08/cleveland">Cleveland</a></div>
+            <div>Thursday</div>
+            <div class="date">2015-08-27</div>
+        </div>
+    </div>
+</div></li>
+        
+    </ul>
+</div>
                 </div>
 
                 <script src="/rbb/content/scripts/vendor/jquery.js"></script>
+<script src="/rbb/content/scripts/lodash.min.js"></script>
 <script src="/rbb/content/scripts/lightbox.min.js"></script>
 <script src="/rbb/content/scripts/vendor/fastclick.js"></script>
 <script src="/rbb/content/scripts/foundation.min.js"></script>
+<script src="/rbb/content/scripts/isotope.pkgd.min.js"></script>
 <script>
     Foundation.global.namespace = "";
     $(document).foundation({equalizer: { equalize_on_stack: true}});
@@ -53,6 +121,7 @@
         alwaysShowNavOnTouchDevices: true
     });
 </script>
+<script src="/rbb/content/scripts/search.js"></script>
             </div>
         </div>
     </body>

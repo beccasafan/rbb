@@ -1,0 +1,70 @@
+{
+    "baseurl" : "/rbb",
+    "posts": [
+        
+            {
+                "title": "Detroit",
+                "url": "/rbb/concerts/2015/08/detroit",
+                "images": [
+                    
+                        "both-front.jpg",
+                    
+                        "both-front-2.jpg",
+                    
+                        "both-side.jpg",
+                    
+                        "sb-front.jpg"
+                    
+                ],
+                "props": [
+                    
+                        "bowtie",
+                    
+                        "toothbrush"
+                    
+                ]
+            },
+        
+            {
+                "title": "Cleveland",
+                "url": "/rbb/concerts/2015/08/cleveland",
+                "images": [
+                    
+                ],
+                "props": [
+                    
+                ]
+            }
+        
+    ],
+    "props": [
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Bowtie",
+                    "url": "/rbb/props/bowtie/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "toothbrush",
+                    "url": "/rbb/props/toothbrush"
+                
+            }
+
+        
+    ]
+}

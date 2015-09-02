@@ -55,7 +55,7 @@ nav.top-bar {
 
 #container {
     background-color: rgba(255, 255, 255, 0.4);
-    padding: 1em;
+    padding: 3em 1em 1em 1em;
 
     hr {
         border-color: #BBB;
@@ -109,6 +109,32 @@ nav.top-bar {
                     font-size: .85em;
                 }
             }
+        }
+    }
+
+    #search {
+        #mode .columns {
+            font-size: 0;
+            line-height: 0;
+
+            > div {
+                display: inline-block;
+                font-size: 1rem;
+                line-height: 2rem;
+                vertical-align: top;
+            }
+            .label {
+                padding-top: 0;
+                padding-bottom: 0;
+            }
+            label {
+                line-height: 2rem;
+            }
+        }
+
+        .prop {
+            line-height: 2rem;
+            font-size: 1rem;
         }
     }
 }
