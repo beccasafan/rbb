@@ -1,4 +1,6 @@
 ---
 title: Indianapolis
 date: 2015-07-31
+images: [both-front.png]
+props: [rbb, sb, rainbow-tutu, rainbow-tshirt, red-chucks, pink-boots, bondage-gear, sombrero, gold-crown, studded-red-choker, aviators, pink-bono-glasses, sparkly-star-stick, astroturf, mushrooms, trumpet, pointer-stick, freddie-mustache]
 ---

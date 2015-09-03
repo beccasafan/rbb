@@ -1,4 +1,6 @@
 ---
 title: Seattle
 date: 2015-07-15
+images: [bears-missing.png]
+props: [horse, pink-hello-kitty-chair]
 ---

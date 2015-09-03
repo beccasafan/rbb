@@ -1,0 +1,3 @@
+---
+title: Yellow Happy Sticker
+---
