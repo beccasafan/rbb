@@ -1,4 +1,5 @@
 ---
 title: Melbourne
 date: 2015-02-14
+images: [front.png, side.png]
 ---

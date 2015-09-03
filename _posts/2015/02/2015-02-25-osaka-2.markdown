@@ -1,4 +1,5 @@
 ---
 title: Osaka
 date: 2015-02-25
+images: [front.png]
 ---

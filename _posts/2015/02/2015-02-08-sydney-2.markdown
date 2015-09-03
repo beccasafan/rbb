@@ -1,4 +1,5 @@
 ---
 title: Sydney
 date: 2015-02-08
+images: [side.png]
 ---
