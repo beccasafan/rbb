@@ -1,6 +1,6 @@
 ---
 title: Buffalo
 date: 2015-09-03
-images: [both-side.jpg, side-picture.jpg, watch-closeup.jpg]
-props: [rbb, sb, green-happy-sticker, blue-happy-sticker, gold-crown, tiara, pink-hello-kitty-chair, flower-lights, freddie-mustache, aviators, rainbow-hair-extensions, judy-garland, picture-frame, watch, groucho-marx-glasses, horse, harley-jacket, ken-dodd]
+images: [both-front.jpg, both-side.jpg, side-picture.jpg, watch-closeup.jpg]
+props: [rbb, sb, green-happy-sticker, blue-happy-sticker, gold-crown, tiara, rainbow-is-my-favorite-color-shirt, pink-hello-kitty-chair, flower-lights, freddie-mustache, aviators, rainbow-hair-extensions, judy-garland, picture-frame, watch, groucho-marx-glasses, horse, harley-jacket, ken-dodd]
 ---
