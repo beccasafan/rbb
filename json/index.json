@@ -40,7 +40,13 @@
                     
                         "watch",
                     
-                        "book"
+                        "groucho-marx-glasses",
+                    
+                        "horse",
+                    
+                        "harley-jacket",
+                    
+                        "ken-dodd"
                     
                 ]
             },
@@ -3737,6 +3743,40 @@
                     
                     "title": "Picture Frame",
                     "url": "/rbb/props/picture-frame/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Groucho Marx Glasses",
+                    "url": "/rbb/props/groucho-marx-glasses/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Ken Dodd",
+                    "url": "/rbb/props/ken-dodd/",
                     "images": [
                         
                             ""
