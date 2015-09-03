@@ -1252,8 +1252,26 @@
                 "url": "/rbb/concerts/2015/04/cape-town",
                 "images": [
                     
+                        "side.png"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "black-lace-up-boots",
+                    
+                        "freddie-mercury-shirt",
+                    
+                        "bear-boxers",
+                    
+                        "black-teddie-mercury-hat",
+                    
+                        "aviators",
+                    
+                        "mic",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -1532,6 +1550,108 @@
                 
                     
                     
+                    "title": "Freddie Mercury Shirt",
+                    "url": "/rbb/props/freddie-mercury-shirt/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Bear Boxers",
+                    "url": "/rbb/props/bear-boxers/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Black Teddie Mercury Hat",
+                    "url": "/rbb/props/black-teddie-mercury-hat/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Aviators",
+                    "url": "/rbb/props/aviators/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Mic",
+                    "url": "/rbb/props/mic/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Freddie Mustache",
+                    "url": "/rbb/props/freddie-mustache/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
                     "title": "Harley Jacket",
                     "url": "/rbb/props/harley-jacket/",
                     "images": [
@@ -1600,42 +1720,8 @@
                 
                     
                     
-                    "title": "Aviators",
-                    "url": "/rbb/props/aviators/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
                     "title": "Pink Hello Kitty Chair",
                     "url": "/rbb/props/pink-hello-kitty-chair/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Freddie Mustache",
-                    "url": "/rbb/props/freddie-mustache/",
                     "images": [
                         
                             ""
@@ -1874,23 +1960,6 @@
                     
                     "title": "Sparkly Star Stick",
                     "url": "/rbb/props/sparkly-star-stick/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Black Teddie Mercury Hat",
-                    "url": "/rbb/props/black-teddie-mercury-hat/",
                     "images": [
                         
                             ""
@@ -2775,23 +2844,6 @@
                     
                     "title": "Blue Happy Sticker",
                     "url": "/rbb/props/blue-happy-sticker/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Bear Boxers",
-                    "url": "/rbb/props/bear-boxers/",
                     "images": [
                         
                             ""
