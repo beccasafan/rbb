@@ -30,7 +30,7 @@ title: Search
             {% else %}
                 {% assign propTitle = prop %}
             {% endif %}
-            <label class="prop label secondary">{{ propTitle }}</label>
+            <label class="prop label secondary" data-prop="{{ prop }}">{{ propTitle }}</label>
         {% endfor %}
     </p>
 
