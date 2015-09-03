@@ -105,9 +105,10 @@ nav.top-bar {
                     margin-bottom: 20px;
                     position: relative;
                     overflow: hidden;
+                    text-align: center;
 
                     img {
-                        width: 100%;
+                        max-width: 100%;
                         max-height: 200px;
                     }
                 }
