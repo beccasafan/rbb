@@ -13,7 +13,9 @@
                     
                         "side-picture.jpg",
                     
-                        "watch-closeup.jpg"
+                        "watch-closeup.jpg",
+                    
+                        "phone-closeup.jpg"
                     
                 ],
                 "props": [
@@ -54,7 +56,9 @@
                     
                         "harley-jacket",
                     
-                        "ken-dodd"
+                        "ken-dodd",
+                    
+                        "sony-phone"
                     
                 ]
             },
@@ -3785,6 +3789,23 @@
                     
                     "title": "Ken Dodd",
                     "url": "/rbb/props/ken-dodd/",
+                    "images": [
+                        
+                            "main.jpg"
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Sony Phone",
+                    "url": "/rbb/props/sony-phone/",
                     "images": [
                         
                             "main.jpg"
