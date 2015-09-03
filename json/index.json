@@ -935,8 +935,38 @@
                 "url": "/rbb/concerts/2015/06/helsinki",
                 "images": [
                     
+                        "both-front.png",
+                    
+                        "both-side.png",
+                    
+                        "both-back.png"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "sb",
+                    
+                        "black-lace-up-boots",
+                    
+                        "bondage-gear",
+                    
+                        "fireman-costume",
+                    
+                        "fireman-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "pearl-necklace",
+                    
+                        "aviators",
+                    
+                        "earrings",
+                    
+                        "fire-extinguisher-and-sign",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -946,8 +976,42 @@
                 "url": "/rbb/concerts/2015/06/gothenburg",
                 "images": [
                     
+                        "both-front.png",
+                    
+                        "both-side.png"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "sb",
+                    
+                        "camo-shorts",
+                    
+                        "black-lace-up-boots",
+                    
+                        "harley-jacket",
+                    
+                        "leather-chaps",
+                    
+                        "rainbow-tshirt",
+                    
+                        "bondage-gear",
+                    
+                        "black-teddie-mercury-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "aviators",
+                    
+                        "rainbow-peace-sign-necklace",
+                    
+                        "pearl-necklace",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -957,8 +1021,44 @@
                 "url": "/rbb/concerts/2015/06/oslo",
                 "images": [
                     
+                        "both-side.png",
+                    
+                        "both-back.png"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "sb",
+                    
+                        "camo-shorts",
+                    
+                        "black-lace-up-boots",
+                    
+                        "harley-jacket",
+                    
+                        "leather-chaps",
+                    
+                        "rainbow-tshirt",
+                    
+                        "bondage-gear",
+                    
+                        "black-devil-horned-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "aviators",
+                    
+                        "rainbow-peace-sign-necklace",
+                    
+                        "pearl-necklace",
+                    
+                        "handcuffs",
+                    
+                        "sparkly-star-stick",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -968,8 +1068,44 @@
                 "url": "/rbb/concerts/2015/06/horsens",
                 "images": [
                     
+                        "both-side.png"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "sb",
+                    
+                        "camo-shorts",
+                    
+                        "black-lace-up-boots",
+                    
+                        "harley-jacket",
+                    
+                        "leather-chaps",
+                    
+                        "rainbow-tshirt",
+                    
+                        "bondage-gear",
+                    
+                        "camo-hat",
+                    
+                        "black-cowboy-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "pearl-necklace",
+                    
+                        "earrings",
+                    
+                        "aviators",
+                    
+                        "rainbow-peace-sign-necklace",
+                    
+                        "rainbow-hair-extensions",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -979,8 +1115,42 @@
                 "url": "/rbb/concerts/2015/06/brussels",
                 "images": [
                     
+                        "both-side.png",
+                    
+                        "both-back.png",
+                    
+                        "both-front.png"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "sb",
+                    
+                        "camo-shorts",
+                    
+                        "black-lace-up-boots",
+                    
+                        "harley-jacket",
+                    
+                        "leather-chaps",
+                    
+                        "rainbow-tshirt",
+                    
+                        "bondage-gear",
+                    
+                        "camo-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "earrings",
+                    
+                        "rainbow-peace-sign-necklace",
+                    
+                        "rainbow-hair-extensions",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -990,15 +1160,43 @@
                 "url": "/rbb/concerts/2015/06/vienna",
                 "images": [
                     
+                        "side.png"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "camo-shorts",
+                    
+                        "white-shirt",
+                    
+                        "black-lace-up-boots",
+                    
+                        "harley-jacket",
+                    
+                        "leather-chaps",
+                    
+                        "camo-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "aviators",
+                    
+                        "rainbow-peace-sign-necklace",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "money",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
         
             {
                 "title": "Cardiff",
-                "url": "/rbb/concerts/2015/06/cardiff",
+                "url": "/rbb/concerts/2015/06/cardiff-2",
                 "images": [
                     
                 ],
@@ -1009,11 +1207,31 @@
         
             {
                 "title": "Cardiff",
-                "url": "/rbb/concerts/2015/06/cardiff",
+                "url": "/rbb/concerts/2015/06/cardiff-1",
                 "images": [
+                    
+                        "front.png"
                     
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "black-lace-up-boots",
+                    
+                        "harley-jacket",
+                    
+                        "leather-chaps",
+                    
+                        "camo-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "aviators",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -1297,23 +1515,6 @@
                 
                     
                     
-                    "title": "Sugar Bear",
-                    "url": "/rbb/props/sb/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
                     "title": "Black Lace-Up Boots",
                     "url": "/rbb/props/black-lace-up-boots/",
                     "images": [
@@ -1365,42 +1566,8 @@
                 
                     
                     
-                    "title": "Bondage Gear",
-                    "url": "/rbb/props/bondage-gear/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Black Teddie Mercury Hat",
-                    "url": "/rbb/props/black-teddie-mercury-hat/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Tiara",
-                    "url": "/rbb/props/tiara/",
+                    "title": "Camo Hat",
+                    "url": "/rbb/props/camo-hat/",
                     "images": [
                         
                             ""
@@ -1450,25 +1617,8 @@
                 
                     
                     
-                    "title": "Pearl Necklace",
-                    "url": "/rbb/props/pearl-necklace/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Horse",
-                    "url": "/rbb/props/horse/",
+                    "title": "Pink Hello Kitty Chair",
+                    "url": "/rbb/props/pink-hello-kitty-chair/",
                     "images": [
                         
                             ""
@@ -1501,8 +1651,76 @@
                 
                     
                     
-                    "title": "Black Boots",
-                    "url": "/rbb/props/black-boots/",
+                    "title": "Camo Shorts",
+                    "url": "/rbb/props/camo-shorts/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "White Shirt",
+                    "url": "/rbb/props/white-shirt/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Rainbow Peace Sign Necklace",
+                    "url": "/rbb/props/rainbow-peace-sign-necklace/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Money",
+                    "url": "/rbb/props/money/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Sugar Bear",
+                    "url": "/rbb/props/sb/",
                     "images": [
                         
                             ""
@@ -1520,6 +1738,261 @@
                     
                     "title": "Rainbow T-Shirt",
                     "url": "/rbb/props/rainbow-tshirt/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Bondage Gear",
+                    "url": "/rbb/props/bondage-gear/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Earrings",
+                    "url": "/rbb/props/earrings/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Rainbow Hair Extensions",
+                    "url": "/rbb/props/rainbow-hair-extensions/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Black Cowboy Hat",
+                    "url": "/rbb/props/black-cowboy-hat/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Pearl Necklace",
+                    "url": "/rbb/props/pearl-necklace/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Black Devil-Horned Hat",
+                    "url": "/rbb/props/black-devil-horned-hat/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Handcuffs",
+                    "url": "/rbb/props/handcuffs/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Sparkly Star Stick",
+                    "url": "/rbb/props/sparkly-star-stick/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Black Teddie Mercury Hat",
+                    "url": "/rbb/props/black-teddie-mercury-hat/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Fireman Costume",
+                    "url": "/rbb/props/fireman-costume/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Fireman Hat",
+                    "url": "/rbb/props/fireman-hat/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Fire Extinguisher and Sign",
+                    "url": "/rbb/props/fire-extinguisher-and-sign/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Tiara",
+                    "url": "/rbb/props/tiara/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Horse",
+                    "url": "/rbb/props/horse/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Black Boots",
+                    "url": "/rbb/props/black-boots/",
                     "images": [
                         
                             ""
@@ -1569,59 +2042,8 @@
                 
                     
                     
-                    "title": "Earrings",
-                    "url": "/rbb/props/earrings/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Pink Hello Kitty Chair",
-                    "url": "/rbb/props/pink-hello-kitty-chair/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
                     "title": "Heeled Black Boots",
                     "url": "/rbb/props/heeled-black-boots/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "White Shirt",
-                    "url": "/rbb/props/white-shirt/",
                     "images": [
                         
                             ""
@@ -2079,23 +2501,6 @@
                 
                     
                     
-                    "title": "Sparkly Star Stick",
-                    "url": "/rbb/props/sparkly-star-stick/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
                     "title": "Pointer Stick",
                     "url": "/rbb/props/pointer-stick/",
                     "images": [
@@ -2132,23 +2537,6 @@
                     
                     "title": "Silver Sparkly Fedora",
                     "url": "/rbb/props/silver-sparkly-fedora/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Rainbow Hair Extensions",
-                    "url": "/rbb/props/rainbow-hair-extensions/",
                     "images": [
                         
                             ""
@@ -2642,23 +3030,6 @@
                     
                     "title": "Diamond Bedazzled Kanye Glasses",
                     "url": "/rbb/props/diamond-bedazzled-kanye-glasses/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Money",
-                    "url": "/rbb/props/money/",
                     "images": [
                         
                             ""
