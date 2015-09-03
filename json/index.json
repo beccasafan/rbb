@@ -1278,7 +1278,7 @@
         
             {
                 "title": "Johannesburg",
-                "url": "/rbb/concerts/2015/03/johannesburg",
+                "url": "/rbb/concerts/2015/03/johannesburg-2",
                 "images": [
                     
                 ],
@@ -1289,11 +1289,19 @@
         
             {
                 "title": "Johannesburg",
-                "url": "/rbb/concerts/2015/03/johannesburg",
+                "url": "/rbb/concerts/2015/03/johannesburg-1",
                 "images": [
+                    
+                        "far.png"
                     
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "black-lace-up-boots",
+                    
+                        "pink-hello-kitty-chair"
                     
                 ]
             },
@@ -1311,18 +1319,36 @@
         
             {
                 "title": "Manila",
-                "url": "/rbb/concerts/2015/03/manila",
+                "url": "/rbb/concerts/2015/03/manila-2",
                 "images": [
+                    
+                        "side.png"
                     
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "black-lace-up-boots",
+                    
+                        "tux",
+                    
+                        "studded-black-choker",
+                    
+                        "black-hat",
+                    
+                        "aviators",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "pipe"
                     
                 ]
             },
         
             {
                 "title": "Manila",
-                "url": "/rbb/concerts/2015/03/manila",
+                "url": "/rbb/concerts/2015/03/manila-1",
                 "images": [
                     
                 ],
@@ -1358,15 +1384,37 @@
                 "url": "/rbb/concerts/2015/03/singapore",
                 "images": [
                     
+                        "front.png"
+                    
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "pink-bathrobe",
+                    
+                        "socks",
+                    
+                        "shower-cap",
+                    
+                        "studded-black-choker",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "towel",
+                    
+                        "toothbrush",
+                    
+                        "rubber-ducky",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
         
             {
                 "title": "Tokyo",
-                "url": "/rbb/concerts/2015/03/tokyo",
+                "url": "/rbb/concerts/2015/03/tokyo-4",
                 "images": [
                     
                 ],
@@ -1377,7 +1425,7 @@
         
             {
                 "title": "Tokyo",
-                "url": "/rbb/concerts/2015/03/tokyo",
+                "url": "/rbb/concerts/2015/03/tokyo-3",
                 "images": [
                     
                 ],
@@ -1533,8 +1581,229 @@
                 
                     
                     
+                    "title": "Pink Bathrobe",
+                    "url": "/rbb/props/pink-bathrobe/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Socks",
+                    "url": "/rbb/props/socks/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Shower Cap",
+                    "url": "/rbb/props/shower-cap/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Studded Black Choker",
+                    "url": "/rbb/props/studded-black-choker/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Pink Hello Kitty Chair",
+                    "url": "/rbb/props/pink-hello-kitty-chair/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Towel",
+                    "url": "/rbb/props/towel/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Toothbrush",
+                    "url": "/rbb/props/toothbrush/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Rubber Ducky",
+                    "url": "/rbb/props/rubber-ducky/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Freddie Mustache",
+                    "url": "/rbb/props/freddie-mustache/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
                     "title": "Black Lace-Up Boots",
                     "url": "/rbb/props/black-lace-up-boots/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Tux",
+                    "url": "/rbb/props/tux/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Black Hat",
+                    "url": "/rbb/props/black-hat/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Aviators",
+                    "url": "/rbb/props/aviators/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Pipe",
+                    "url": "/rbb/props/pipe/",
                     "images": [
                         
                             ""
@@ -1601,42 +1870,8 @@
                 
                     
                     
-                    "title": "Aviators",
-                    "url": "/rbb/props/aviators/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
                     "title": "Mic",
                     "url": "/rbb/props/mic/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Freddie Mustache",
-                    "url": "/rbb/props/freddie-mustache/",
                     "images": [
                         
                             ""
@@ -1688,40 +1923,6 @@
                     
                     "title": "Camo Hat",
                     "url": "/rbb/props/camo-hat/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Studded Black Choker",
-                    "url": "/rbb/props/studded-black-choker/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Pink Hello Kitty Chair",
-                    "url": "/rbb/props/pink-hello-kitty-chair/",
                     "images": [
                         
                             ""
@@ -3252,23 +3453,6 @@
                     
                     "title": "US Marine Corps Costume",
                     "url": "/rbb/props/us-marine-corps-costume/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Toothbrush",
-                    "url": "/rbb/props/toothbrush/",
                     "images": [
                         
                             ""
