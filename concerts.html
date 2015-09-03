@@ -16,24 +16,30 @@ title: Concerts
             {% if forloop.first %}
                 <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
                 <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }}</h3>
-                <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
+                <div data-equalizer="title">
+                    <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
             {% endif %}
 
             {% include concert.html concert=post element="li" %}
 
             {% if forloop.last %}
-                </ul>
+                    </ul>
+                </div>
             {% else %}
                 {% if this_year != next_year %}
-                </ul>
+                    </ul>
+                </div>
                 <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
                 <h3 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
-                <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
+                <div data-equalizer="title">
+                    <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
                 {% else %}    
                     {% if this_month != next_month %}
-                    </ul>
+                        </ul>
+                    </div>
                     <h3 id="{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
-                    <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
+                    <div data-equalizer="title">
+                        <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
                     {% endif %}
                 {% endif %}
             {% endif %}

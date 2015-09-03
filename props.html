@@ -6,8 +6,8 @@ title: Props
         <h2>{{ page.title }}</h2>
     </div>
 
-    <div id="props">
-        <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+    <div id="props" data-equalizer="image">
+        <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="title">
             {% assign props = site.allprops | sort %}
             {% for prop in props %}
                 {% include prop.html prop = post %}
