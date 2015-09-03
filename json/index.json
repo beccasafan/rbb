@@ -1695,8 +1695,15 @@
                 
                 
                 
-                    "title": "rainbow-is-my-favorite-color-shirt",
-                    "url": "/rbb/props/rainbow-is-my-favorite-color-shirt"
+                    
+                    
+                    "title": "Rainbow Is My Favorite Color Shirt",
+                    "url": "/rbb/props/rainbow-is-my-favorite-color-shirt/",
+                    "images": [
+                        
+                            "main.png"
+                        
+                    ]
                 
             },
 
@@ -1790,8 +1797,15 @@
                 
                 
                 
-                    "title": "black-flat-brim-hat",
-                    "url": "/rbb/props/black-flat-brim-hat"
+                    
+                    
+                    "title": "Black Flat-Brim Hat",
+                    "url": "/rbb/props/black-flat-brim-hat/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
                 
             },
 
@@ -1919,8 +1933,15 @@
                 
                 
                 
-                    "title": "rainbow-suspenders",
-                    "url": "/rbb/props/rainbow-suspenders"
+                    
+                    
+                    "title": "Rainbow Suspenders",
+                    "url": "/rbb/props/rainbow-suspenders/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
                 
             },
 
