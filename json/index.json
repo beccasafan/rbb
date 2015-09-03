@@ -139,7 +139,7 @@
                     
                         "studded-black-choker",
                     
-                        "necklace",
+                        "pearl-necklace",
                     
                         "aviators",
                     
@@ -161,7 +161,9 @@
                     
                         "blue-happy-sticker",
                     
-                        "green-surprised-sticker"
+                        "green-surprised-sticker",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -2793,23 +2795,6 @@
                     
                     "title": "Silver Sparkly Crown",
                     "url": "/rbb/props/silver-sparkly-crown/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Necklace",
-                    "url": "/rbb/props/necklace/",
                     "images": [
                         
                             ""

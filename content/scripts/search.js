@@ -25,9 +25,8 @@ function toggleStatus(element) {
 
 function doSearch() {
     var checkedProps = $("#search .prop.success");
-    var terms = checkedProps.text();
+    var terms = _.map(checkedProps, function(p) { return "." + $(p).data("prop"); })
     var joiner = $("#mode :radio:checked").val() == "and" ? "" : ", ";
-    var filterString = _.map(checkedProps, function(match) { return "." + $(match).text(); }).join(joiner);
-    console.log(filterString);
+    var filterString = terms.join(joiner);
     $("#search #concerts").isotope({filter: filterString });
 }
