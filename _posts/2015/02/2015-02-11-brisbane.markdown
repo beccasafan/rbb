@@ -2,4 +2,5 @@
 title: Brisbane
 date: 2015-02-11
 images: [below.png, far.png]
+props: [rbb, camo-shorts, black-lace-up-boots, rainbow-is-my-favorite-color-shirt, studded-black-choker, studded-armband, earrings, aviators, freddie-mustache]
 ---
