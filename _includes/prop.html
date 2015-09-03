@@ -6,7 +6,7 @@
     {% assign foundProp = foundProps[0] %}
     {% assign propTitle = foundProp.title %}
     {% if foundProp.images %}
-        {% assign propImage = foundProp.images[0] %}
+        {% capture propImage %}{{site.baseurl}}/content/media/props/{{prop}}/{{ foundProp.images[0] }}{% endcapture %}
     {% else %}
         {% capture propImage %}{{site.baseurl}}/content/media/no-image.jpg{%endcapture%}
     {% endif %}
