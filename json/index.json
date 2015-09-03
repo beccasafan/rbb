@@ -522,7 +522,7 @@
                     
                         "staff",
                     
-                        "pointer-stick",
+                        "pink-pointer-hand",
                     
                         "flowers",
                     
@@ -577,7 +577,7 @@
                     
                         "trumpet",
                     
-                        "pointer-stick",
+                        "pink-pointer-hand",
                     
                         "freddie-mustache"
                     
@@ -2501,8 +2501,8 @@
                 
                     
                     
-                    "title": "Pointer Stick",
-                    "url": "/rbb/props/pointer-stick/",
+                    "title": "Pink Pointer Hand",
+                    "url": "/rbb/props/pink-pointer-hand/",
                     "images": [
                         
                             ""
@@ -3081,23 +3081,6 @@
                     
                     "title": "Skateboard",
                     "url": "/rbb/props/skateboard/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Pink Pointer Hand",
-                    "url": "/rbb/props/pink-pointer-hand/",
                     "images": [
                         
                             ""
