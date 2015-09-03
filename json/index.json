@@ -7,7 +7,11 @@
                 "url": "/rbb/concerts/2015/09/philadelphia",
                 "images": [
                     
-                        "both-front.jpg"
+                        "both-front.jpg",
+                    
+                        "both-side.jpg",
+                    
+                        "side-with-third-bear.jpg"
                     
                 ],
                 "props": [
@@ -16,9 +20,31 @@
                     
                         "sb",
                     
-                        "book",
+                        "bondage-gear",
                     
-                        "green-happy-sticker"
+                        "harley-jacket",
+                    
+                        "sparkly-bowtie",
+                    
+                        "studded-black-choker",
+                    
+                        "black-teddie-mercury-hat",
+                    
+                        "aviators",
+                    
+                        "silver-sparkly-crown",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "green-happy-sticker",
+                    
+                        "red-happy-sticker",
+                    
+                        "freddie-mustache",
+                    
+                        "third-bear",
+                    
+                        "bette-davis"
                     
                 ]
             },
@@ -2184,15 +2210,28 @@
                 
                 
                 
-                    
-                    
-                    "title": "Book",
-                    "url": "/rbb/props/book/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
+                    "title": "red-happy-sticker",
+                    "url": "/rbb/props/red-happy-sticker"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "third-bear",
+                    "url": "/rbb/props/third-bear"
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "bette-davis",
+                    "url": "/rbb/props/bette-davis"
                 
             }
 
