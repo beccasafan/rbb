@@ -32,7 +32,15 @@
                     
                         "aviators",
                     
-                        "rainbow-hair-extensions"
+                        "rainbow-hair-extensions",
+                    
+                        "judy-garland",
+                    
+                        "picture-frame",
+                    
+                        "watch",
+                    
+                        "book"
                     
                 ]
             },
@@ -3695,6 +3703,40 @@
                     
                     "title": "Bette Davis",
                     "url": "/rbb/props/bette-davis/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Judy Garland",
+                    "url": "/rbb/props/judy-garland/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Picture Frame",
+                    "url": "/rbb/props/picture-frame/",
                     "images": [
                         
                             ""
