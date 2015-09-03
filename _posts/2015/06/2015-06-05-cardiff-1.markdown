@@ -1,0 +1,6 @@
+---
+title: Cardiff
+date: 2015-06-05
+images: [front.png]
+props: [rbb, black-lace-up-boots, harley-jacket, leather-chaps, camo-hat, studded-black-choker, aviators, pink-hello-kitty-chair, freddie-mustache]
+---

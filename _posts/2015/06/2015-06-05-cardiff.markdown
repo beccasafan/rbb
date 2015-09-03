@@ -1,4 +1,0 @@
----
-title: Cardiff
-date: 2015-06-05
----

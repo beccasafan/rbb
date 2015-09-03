@@ -1,4 +1,6 @@
 ---
 title: Vienna
 date: 2015-06-10
+images: [side.png]
+props: [rbb, camo-shorts, white-shirt, black-lace-up-boots, harley-jacket, leather-chaps, camo-hat, studded-black-choker, aviators, rainbow-peace-sign-necklace, pink-hello-kitty-chair, money, freddie-mustache]
 ---

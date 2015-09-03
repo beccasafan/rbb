@@ -1,4 +1,6 @@
 ---
 title: Helsinki
 date: 2015-06-27
+images: [both-front.png, both-side.png, both-back.png]
+props: [rbb, sb, black-lace-up-boots, bondage-gear, fireman-costume, fireman-hat, studded-black-choker, pearl-necklace, aviators, earrings, fire-extinguisher-and-sign, freddie-mustache]
 ---

@@ -1,4 +1,6 @@
 ---
 title: Horsens
 date: 2015-06-16
+images: [both-side.png]
+props: [rbb, sb, camo-shorts, black-lace-up-boots, harley-jacket, leather-chaps, rainbow-tshirt, bondage-gear, camo-hat, black-cowboy-hat, studded-black-choker, pearl-necklace, earrings, aviators, rainbow-peace-sign-necklace, rainbow-hair-extensions, freddie-mustache]
 ---

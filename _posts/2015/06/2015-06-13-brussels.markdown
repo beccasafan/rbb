@@ -1,4 +1,6 @@
 ---
 title: Brussels
 date: 2015-06-13
+images: [both-side.png, both-back.png, both-front.png]
+props: [rbb, sb, camo-shorts, black-lace-up-boots, harley-jacket, leather-chaps, rainbow-tshirt, bondage-gear, camo-hat, studded-black-choker, earrings, rainbow-peace-sign-necklace, rainbow-hair-extensions, freddie-mustache]
 ---
