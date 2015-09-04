@@ -386,7 +386,11 @@
                     
                         "green-happy-sticker",
                     
-                        "freddie-mustache"
+                        "freddie-mustache",
+                    
+                        "divine-eyebrows",
+                    
+                        "red-angry-sticker"
                     
                 ]
             },
@@ -439,7 +443,9 @@
                     
                         "blue-happy-sticker",
                     
-                        "green-happy-sticker"
+                        "green-happy-sticker",
+                    
+                        "divine-eyebrows"
                     
                 ]
             },
@@ -484,7 +490,9 @@
                     
                         "flamingo",
                     
-                        "green-happy-sticker"
+                        "green-happy-sticker",
+                    
+                        "divine-eyebrows"
                     
                 ]
             },
@@ -3380,6 +3388,23 @@
                 
                     
                     
+                    "title": "Divine Eyebrows",
+                    "url": "/rbb/props/divine-eyebrows/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
                     "title": "Wonder Woman Costume",
                     "url": "/rbb/props/wonder-woman-costume/",
                     "images": [
@@ -3557,6 +3582,16 @@
                             ""
                         
                     ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    "title": "red-angry-sticker",
+                    "url": "/rbb/props/red-angry-sticker"
                 
             },
 
