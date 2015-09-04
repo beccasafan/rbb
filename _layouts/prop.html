@@ -50,4 +50,9 @@ layout: default
             {% endfor %}
         </ul>
     </div>
+
+    {% if page.purchaseLink %}
+        <hr>
+        <p>View the product page for <a href="{{ page.purchaseLink }}">this item</a></p>
+    {% endif %}
 </div>
