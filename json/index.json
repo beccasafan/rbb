@@ -1516,6 +1516,22 @@
                 ],
                 "props": [
                     
+                        "rbb",
+                    
+                        "black-lace-up-boots",
+                    
+                        "cape",
+                    
+                        "pink-bandana",
+                    
+                        "studded-black-choker",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "chop-sticks",
+                    
+                        "freddie-mustache"
+                    
                 ]
             },
         
@@ -1528,6 +1544,22 @@
                     
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "black-lace-up-boots",
+                    
+                        "cape",
+                    
+                        "pink-bandana",
+                    
+                        "studded-black-choker",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "chop-sticks",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -1543,6 +1575,26 @@
                     
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "camo-shorts",
+                    
+                        "black-lace-up-boots",
+                    
+                        "white-shirt",
+                    
+                        "black-teddie-mercury-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "studded-armband",
+                    
+                        "aviators",
+                    
+                        "freddie-mustache",
+                    
+                        "pink-hello-kitty-chair"
                     
                 ]
             },
@@ -1583,6 +1635,34 @@
                     
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "camo-shorts",
+                    
+                        "black-lace-up-boots",
+                    
+                        "black-flat-brim-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "studded-armband",
+                    
+                        "aviators",
+                    
+                        "diamond-bedazzled-kanye-glasses",
+                    
+                        "rockstar-gold-necklace",
+                    
+                        "$-gold-necklace",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "staff",
+                    
+                        "cell-phone",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -1671,6 +1751,26 @@
                 ],
                 "props": [
                     
+                        "rbb",
+                    
+                        "camo-shorts",
+                    
+                        "white-shirt",
+                    
+                        "black-lace-up-boots",
+                    
+                        "camo-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "studded-armband",
+                    
+                        "earrings",
+                    
+                        "aviators",
+                    
+                        "freddie-mustache"
+                    
                 ]
             },
         
@@ -1683,6 +1783,26 @@
                     
                 ],
                 "props": [
+                    
+                        "rbb",
+                    
+                        "camo-shorts",
+                    
+                        "black-lace-up-boots",
+                    
+                        "white-shirt",
+                    
+                        "camo-hat",
+                    
+                        "studded-black-choker",
+                    
+                        "studded-armband",
+                    
+                        "earrings",
+                    
+                        "aviators",
+                    
+                        "freddie-mustache"
                     
                 ]
             }
@@ -1747,11 +1867,28 @@
                 
                     
                     
-                    "title": "Rainbow Is My Favorite Color Shirt",
-                    "url": "/rbb/props/rainbow-is-my-favorite-color-shirt/",
+                    "title": "White Shirt",
+                    "url": "/rbb/props/white-shirt/",
                     "images": [
                         
-                            "main.png"
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Camo Hat",
+                    "url": "/rbb/props/camo-hat/",
+                    "images": [
+                        
+                            ""
                         
                     ]
                 
@@ -1837,6 +1974,23 @@
                     "images": [
                         
                             ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Rainbow Is My Favorite Color Shirt",
+                    "url": "/rbb/props/rainbow-is-my-favorite-color-shirt/",
+                    "images": [
+                        
+                            "main.png"
                         
                     ]
                 
@@ -1951,6 +2105,23 @@
                 
                     
                     
+                    "title": "Cell Phone",
+                    "url": "/rbb/props/cell-phone/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
                     "title": "Sparkly Bowtie",
                     "url": "/rbb/props/sparkly-bowtie/",
                     "images": [
@@ -1987,6 +2158,74 @@
                     
                     "title": "Rainbow Suspenders",
                     "url": "/rbb/props/rainbow-suspenders/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Black Teddie Mercury Hat",
+                    "url": "/rbb/props/black-teddie-mercury-hat/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Cape",
+                    "url": "/rbb/props/cape/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Pink Bandana",
+                    "url": "/rbb/props/pink-bandana/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Chop Sticks",
+                    "url": "/rbb/props/chop-sticks/",
                     "images": [
                         
                             ""
@@ -2176,24 +2415,7 @@
                     "url": "/rbb/props/bear-boxers/",
                     "images": [
                         
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Black Teddie Mercury Hat",
-                    "url": "/rbb/props/black-teddie-mercury-hat/",
-                    "images": [
-                        
-                            ""
+                            "main.jpg"
                         
                     ]
                 
@@ -2242,40 +2464,6 @@
                     
                     "title": "Leather Chaps",
                     "url": "/rbb/props/leather-chaps/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "Camo Hat",
-                    "url": "/rbb/props/camo-hat/",
-                    "images": [
-                        
-                            ""
-                        
-                    ]
-                
-            },
-
-        
-            {
-                
-                
-                
-                    
-                    
-                    "title": "White Shirt",
-                    "url": "/rbb/props/white-shirt/",
                     "images": [
                         
                             ""
