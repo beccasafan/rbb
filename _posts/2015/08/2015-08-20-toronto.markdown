@@ -3,4 +3,6 @@ title: Toronto
 date: 2015-08-20
 images: [both-front.jpg, both-side-left.png, both-side-right.png]
 props: [rbb, sb, black-boots, rainbow-tutu, bondage-gear, bear-boxers, harley-jacket, rainbow-tshirt, silver-sparkly-fedora, studded-black-choker, aviators, toilet, toilet-paper, toilet-bowl-brush, pail, lysol, blue-happy-sticker, green-happy-sticker, freddie-mustache]
+imageCredits: 
+    CanuckLarrie: https://twitter.com/CanuckLarrie/status/634481638873952256
 ---
