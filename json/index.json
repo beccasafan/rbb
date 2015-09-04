@@ -3324,7 +3324,7 @@
                     "url": "/rbb/props/batman-costume/",
                     "images": [
                         
-                            ""
+                            "main.jpg"
                         
                     ]
                 
@@ -3590,8 +3590,15 @@
                 
                 
                 
-                    "title": "red-angry-sticker",
-                    "url": "/rbb/props/red-angry-sticker"
+                    
+                    
+                    "title": "Red Angry Sticker",
+                    "url": "/rbb/props/red-angry-sticker/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
                 
             },
 
