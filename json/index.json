@@ -7,6 +7,8 @@
                 "url": "/rbb//concerts/2015/09/montreal",
                 "images": [
                     
+                        "both-front.jpg",
+                    
                         "blurry.jpg"
                     
                 ],
@@ -28,7 +30,11 @@
                     
                         "book",
                     
-                        "blue-happy-sticker"
+                        "blue-happy-sticker",
+                    
+                        "blue-box",
+                    
+                        "picture-frame"
                     
                 ]
             },
