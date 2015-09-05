@@ -1,10 +1,10 @@
 {
-    "baseurl" : "/rbb",
+    "baseurl" : "/rbb/",
     "posts": [
         
             {
                 "title": "Montreal",
-                "url": "/rbb/concerts/2015/09/montreal",
+                "url": "/rbb//concerts/2015/09/montreal",
                 "images": [
                     
                 ],
@@ -15,7 +15,7 @@
         
             {
                 "title": "Buffalo",
-                "url": "/rbb/concerts/2015/09/buffalo",
+                "url": "/rbb//concerts/2015/09/buffalo",
                 "images": [
                     
                         "both-front.jpg",
@@ -76,7 +76,7 @@
         
             {
                 "title": "Philadelphia",
-                "url": "/rbb/concerts/2015/09/philadelphia",
+                "url": "/rbb//concerts/2015/09/philadelphia",
                 "images": [
                     
                         "both-front.jpg",
@@ -123,7 +123,7 @@
         
             {
                 "title": "Detroit",
-                "url": "/rbb/concerts/2015/08/detroit",
+                "url": "/rbb//concerts/2015/08/detroit",
                 "images": [
                     
                         "both-front.jpg",
@@ -176,7 +176,7 @@
         
             {
                 "title": "Cleveland",
-                "url": "/rbb/concerts/2015/08/cleveland",
+                "url": "/rbb//concerts/2015/08/cleveland",
                 "images": [
                     
                         "both-front.jpg",
@@ -231,7 +231,7 @@
         
             {
                 "title": "Milwaukee",
-                "url": "/rbb/concerts/2015/08/milwaukee",
+                "url": "/rbb//concerts/2015/08/milwaukee",
                 "images": [
                     
                         "both-front.jpg"
@@ -290,7 +290,7 @@
         
             {
                 "title": "Chicago",
-                "url": "/rbb/concerts/2015/08/chicago",
+                "url": "/rbb//concerts/2015/08/chicago",
                 "images": [
                     
                         "both-front.jpg",
@@ -349,7 +349,7 @@
         
             {
                 "title": "Toronto",
-                "url": "/rbb/concerts/2015/08/toronto",
+                "url": "/rbb//concerts/2015/08/toronto",
                 "images": [
                     
                         "both-front.jpg",
@@ -408,7 +408,7 @@
         
             {
                 "title": "Columbus",
-                "url": "/rbb/concerts/2015/08/columbus",
+                "url": "/rbb//concerts/2015/08/columbus",
                 "images": [
                     
                         "both-front.png",
@@ -463,7 +463,7 @@
         
             {
                 "title": "Baltimore",
-                "url": "/rbb/concerts/2015/08/baltimore",
+                "url": "/rbb//concerts/2015/08/baltimore",
                 "images": [
                     
                         "both-front.png"
@@ -510,7 +510,7 @@
         
             {
                 "title": "East Rutherford",
-                "url": "/rbb/concerts/2015/08/east-rutherford",
+                "url": "/rbb//concerts/2015/08/east-rutherford",
                 "images": [
                     
                         "both-front.png"
@@ -555,7 +555,7 @@
         
             {
                 "title": "Pittsburgh",
-                "url": "/rbb/concerts/2015/08/pittsburgh",
+                "url": "/rbb//concerts/2015/08/pittsburgh",
                 "images": [
                     
                         "both-front.png"
@@ -606,7 +606,7 @@
         
             {
                 "title": "Indianapolis",
-                "url": "/rbb/concerts/2015/07/indianapolis",
+                "url": "/rbb//concerts/2015/07/indianapolis",
                 "images": [
                     
                         "both-front.png"
@@ -655,7 +655,7 @@
         
             {
                 "title": "Kansas City",
-                "url": "/rbb/concerts/2015/07/kansas-city",
+                "url": "/rbb//concerts/2015/07/kansas-city",
                 "images": [
                     
                         "both-front.png",
@@ -710,7 +710,7 @@
         
             {
                 "title": "Minneapolis",
-                "url": "/rbb/concerts/2015/07/minneapolis",
+                "url": "/rbb//concerts/2015/07/minneapolis",
                 "images": [
                     
                         "both-front.png",
@@ -761,7 +761,7 @@
         
             {
                 "title": "Winnipeg",
-                "url": "/rbb/concerts/2015/07/winnipeg",
+                "url": "/rbb//concerts/2015/07/winnipeg",
                 "images": [
                     
                         "both-side.png"
@@ -802,7 +802,7 @@
         
             {
                 "title": "Edmonton",
-                "url": "/rbb/concerts/2015/07/edmonton",
+                "url": "/rbb//concerts/2015/07/edmonton",
                 "images": [
                     
                         "both-side.png"
@@ -853,7 +853,7 @@
         
             {
                 "title": "Vancouver",
-                "url": "/rbb/concerts/2015/07/vancouver",
+                "url": "/rbb//concerts/2015/07/vancouver",
                 "images": [
                     
                         "both-side.png",
@@ -902,7 +902,7 @@
         
             {
                 "title": "Seattle",
-                "url": "/rbb/concerts/2015/07/seattle",
+                "url": "/rbb//concerts/2015/07/seattle",
                 "images": [
                     
                         "bears-missing.png"
@@ -919,7 +919,7 @@
         
             {
                 "title": "San Francisco",
-                "url": "/rbb/concerts/2015/07/san-francisco",
+                "url": "/rbb//concerts/2015/07/san-francisco",
                 "images": [
                     
                         "both-front.png",
@@ -960,7 +960,7 @@
         
             {
                 "title": "San Diego",
-                "url": "/rbb/concerts/2015/07/san-diego",
+                "url": "/rbb//concerts/2015/07/san-diego",
                 "images": [
                     
                         "both-front.png",
@@ -1001,7 +1001,7 @@
         
             {
                 "title": "Helsinki",
-                "url": "/rbb/concerts/2015/06/helsinki",
+                "url": "/rbb//concerts/2015/06/helsinki",
                 "images": [
                     
                         "both-front.png",
@@ -1042,7 +1042,7 @@
         
             {
                 "title": "Gothenburg",
-                "url": "/rbb/concerts/2015/06/gothenburg",
+                "url": "/rbb//concerts/2015/06/gothenburg",
                 "images": [
                     
                         "both-front.png",
@@ -1087,7 +1087,7 @@
         
             {
                 "title": "Oslo",
-                "url": "/rbb/concerts/2015/06/oslo",
+                "url": "/rbb//concerts/2015/06/oslo",
                 "images": [
                     
                         "both-side.png",
@@ -1134,7 +1134,7 @@
         
             {
                 "title": "Horsens",
-                "url": "/rbb/concerts/2015/06/horsens",
+                "url": "/rbb//concerts/2015/06/horsens",
                 "images": [
                     
                         "both-side.png"
@@ -1181,7 +1181,7 @@
         
             {
                 "title": "Brussels",
-                "url": "/rbb/concerts/2015/06/brussels",
+                "url": "/rbb//concerts/2015/06/brussels",
                 "images": [
                     
                         "both-side.png",
@@ -1226,7 +1226,7 @@
         
             {
                 "title": "Vienna",
-                "url": "/rbb/concerts/2015/06/vienna",
+                "url": "/rbb//concerts/2015/06/vienna",
                 "images": [
                     
                         "side.png"
@@ -1265,7 +1265,7 @@
         
             {
                 "title": "Cardiff",
-                "url": "/rbb/concerts/2015/06/cardiff-2",
+                "url": "/rbb//concerts/2015/06/cardiff-2",
                 "images": [
                     
                 ],
@@ -1276,7 +1276,7 @@
         
             {
                 "title": "Cardiff",
-                "url": "/rbb/concerts/2015/06/cardiff-1",
+                "url": "/rbb//concerts/2015/06/cardiff-1",
                 "images": [
                     
                         "front.png"
@@ -1307,7 +1307,7 @@
         
             {
                 "title": "Dubai",
-                "url": "/rbb/concerts/2015/04/dubai",
+                "url": "/rbb//concerts/2015/04/dubai",
                 "images": [
                     
                 ],
@@ -1318,7 +1318,7 @@
         
             {
                 "title": "Cape Town",
-                "url": "/rbb/concerts/2015/04/cape-town",
+                "url": "/rbb//concerts/2015/04/cape-town",
                 "images": [
                     
                         "side.png"
@@ -1347,7 +1347,7 @@
         
             {
                 "title": "Johannesburg",
-                "url": "/rbb/concerts/2015/03/johannesburg-2",
+                "url": "/rbb//concerts/2015/03/johannesburg-2",
                 "images": [
                     
                 ],
@@ -1358,7 +1358,7 @@
         
             {
                 "title": "Johannesburg",
-                "url": "/rbb/concerts/2015/03/johannesburg-1",
+                "url": "/rbb//concerts/2015/03/johannesburg-1",
                 "images": [
                     
                         "far.png"
@@ -1377,7 +1377,7 @@
         
             {
                 "title": "Jakarta",
-                "url": "/rbb/concerts/2015/03/jakarta",
+                "url": "/rbb//concerts/2015/03/jakarta",
                 "images": [
                     
                 ],
@@ -1388,7 +1388,7 @@
         
             {
                 "title": "Manila",
-                "url": "/rbb/concerts/2015/03/manila-2",
+                "url": "/rbb//concerts/2015/03/manila-2",
                 "images": [
                     
                         "side.png"
@@ -1417,7 +1417,7 @@
         
             {
                 "title": "Manila",
-                "url": "/rbb/concerts/2015/03/manila-1",
+                "url": "/rbb//concerts/2015/03/manila-1",
                 "images": [
                     
                 ],
@@ -1428,7 +1428,7 @@
         
             {
                 "title": "Hong Kong",
-                "url": "/rbb/concerts/2015/03/hong-kong",
+                "url": "/rbb//concerts/2015/03/hong-kong",
                 "images": [
                     
                 ],
@@ -1439,7 +1439,7 @@
         
             {
                 "title": "Bangkok",
-                "url": "/rbb/concerts/2015/03/bangkok",
+                "url": "/rbb//concerts/2015/03/bangkok",
                 "images": [
                     
                 ],
@@ -1450,7 +1450,7 @@
         
             {
                 "title": "Singapore",
-                "url": "/rbb/concerts/2015/03/singapore",
+                "url": "/rbb//concerts/2015/03/singapore",
                 "images": [
                     
                         "front.png"
@@ -1483,7 +1483,7 @@
         
             {
                 "title": "Tokyo",
-                "url": "/rbb/concerts/2015/03/tokyo-4",
+                "url": "/rbb//concerts/2015/03/tokyo-4",
                 "images": [
                     
                 ],
@@ -1494,7 +1494,7 @@
         
             {
                 "title": "Tokyo",
-                "url": "/rbb/concerts/2015/03/tokyo-3",
+                "url": "/rbb//concerts/2015/03/tokyo-3",
                 "images": [
                     
                 ],
@@ -1505,7 +1505,7 @@
         
             {
                 "title": "Tokyo",
-                "url": "/rbb/concerts/2015/02/tokyo-2",
+                "url": "/rbb//concerts/2015/02/tokyo-2",
                 "images": [
                     
                 ],
@@ -1516,7 +1516,7 @@
         
             {
                 "title": "Tokyo",
-                "url": "/rbb/concerts/2015/02/tokyo-1",
+                "url": "/rbb//concerts/2015/02/tokyo-1",
                 "images": [
                     
                 ],
@@ -1527,7 +1527,7 @@
         
             {
                 "title": "Osaka",
-                "url": "/rbb/concerts/2015/02/osaka-2",
+                "url": "/rbb//concerts/2015/02/osaka-2",
                 "images": [
                     
                         "front.png"
@@ -1556,7 +1556,7 @@
         
             {
                 "title": "Osaka",
-                "url": "/rbb/concerts/2015/02/osaka-1",
+                "url": "/rbb//concerts/2015/02/osaka-1",
                 "images": [
                     
                         "front.png"
@@ -1585,7 +1585,7 @@
         
             {
                 "title": "Perth",
-                "url": "/rbb/concerts/2015/02/perth",
+                "url": "/rbb//concerts/2015/02/perth",
                 "images": [
                     
                         "side.png",
@@ -1620,7 +1620,7 @@
         
             {
                 "title": "Adelaide",
-                "url": "/rbb/concerts/2015/02/adelaide",
+                "url": "/rbb//concerts/2015/02/adelaide",
                 "images": [
                     
                         "front.png"
@@ -1647,7 +1647,7 @@
         
             {
                 "title": "Melbourne",
-                "url": "/rbb/concerts/2015/02/melbourne-2",
+                "url": "/rbb//concerts/2015/02/melbourne-2",
                 "images": [
                     
                         "side.png"
@@ -1688,7 +1688,7 @@
         
             {
                 "title": "Melbourne",
-                "url": "/rbb/concerts/2015/02/melbourne-1",
+                "url": "/rbb//concerts/2015/02/melbourne-1",
                 "images": [
                     
                         "front.png",
@@ -1729,7 +1729,7 @@
         
             {
                 "title": "Brisbane",
-                "url": "/rbb/concerts/2015/02/brisbane",
+                "url": "/rbb//concerts/2015/02/brisbane",
                 "images": [
                     
                         "below.png",
@@ -1762,7 +1762,7 @@
         
             {
                 "title": "Sydney",
-                "url": "/rbb/concerts/2015/02/sydney-2",
+                "url": "/rbb//concerts/2015/02/sydney-2",
                 "images": [
                     
                         "side.png"
@@ -1795,7 +1795,7 @@
         
             {
                 "title": "Sydney",
-                "url": "/rbb/concerts/2015/02/sydney-1",
+                "url": "/rbb//concerts/2015/02/sydney-1",
                 "images": [
                     
                         "below.png"
@@ -1836,7 +1836,7 @@
                     
                     
                     "title": "Rainbow Bondage Bear",
-                    "url": "/rbb/props/rbb/",
+                    "url": "/rbb//props/rbb/",
                     "images": [
                         
                             ""
@@ -1853,7 +1853,7 @@
                     
                     
                     "title": "Camo Shorts",
-                    "url": "/rbb/props/camo-shorts/",
+                    "url": "/rbb//props/camo-shorts/",
                     "images": [
                         
                             ""
@@ -1870,7 +1870,7 @@
                     
                     
                     "title": "Black Lace-Up Boots",
-                    "url": "/rbb/props/black-lace-up-boots/",
+                    "url": "/rbb//props/black-lace-up-boots/",
                     "images": [
                         
                             ""
@@ -1887,7 +1887,7 @@
                     
                     
                     "title": "White Shirt",
-                    "url": "/rbb/props/white-shirt/",
+                    "url": "/rbb//props/white-shirt/",
                     "images": [
                         
                             ""
@@ -1904,7 +1904,7 @@
                     
                     
                     "title": "Camo Hat",
-                    "url": "/rbb/props/camo-hat/",
+                    "url": "/rbb//props/camo-hat/",
                     "images": [
                         
                             ""
@@ -1921,7 +1921,7 @@
                     
                     
                     "title": "Studded Black Choker",
-                    "url": "/rbb/props/studded-black-choker/",
+                    "url": "/rbb//props/studded-black-choker/",
                     "images": [
                         
                             ""
@@ -1938,7 +1938,7 @@
                     
                     
                     "title": "Studded Armband",
-                    "url": "/rbb/props/studded-armband/",
+                    "url": "/rbb//props/studded-armband/",
                     "images": [
                         
                             ""
@@ -1955,7 +1955,7 @@
                     
                     
                     "title": "Earrings",
-                    "url": "/rbb/props/earrings/",
+                    "url": "/rbb//props/earrings/",
                     "images": [
                         
                             ""
@@ -1972,7 +1972,7 @@
                     
                     
                     "title": "Aviators",
-                    "url": "/rbb/props/aviators/",
+                    "url": "/rbb//props/aviators/",
                     "images": [
                         
                             ""
@@ -1989,7 +1989,7 @@
                     
                     
                     "title": "Freddie Mustache",
-                    "url": "/rbb/props/freddie-mustache/",
+                    "url": "/rbb//props/freddie-mustache/",
                     "images": [
                         
                             ""
@@ -2006,7 +2006,7 @@
                     
                     
                     "title": "Rainbow Is My Favorite Color Shirt",
-                    "url": "/rbb/props/rainbow-is-my-favorite-color-shirt/",
+                    "url": "/rbb//props/rainbow-is-my-favorite-color-shirt/",
                     "images": [
                         
                             "main.png"
@@ -2023,7 +2023,7 @@
                     
                     
                     "title": "Black Flat-Brim Hat",
-                    "url": "/rbb/props/black-flat-brim-hat/",
+                    "url": "/rbb//props/black-flat-brim-hat/",
                     "images": [
                         
                             ""
@@ -2040,7 +2040,7 @@
                     
                     
                     "title": "Diamond Bedazzled Kanye Glasses",
-                    "url": "/rbb/props/diamond-bedazzled-kanye-glasses/",
+                    "url": "/rbb//props/diamond-bedazzled-kanye-glasses/",
                     "images": [
                         
                             ""
@@ -2057,7 +2057,7 @@
                     
                     
                     "title": "Rockstar Gold Necklace",
-                    "url": "/rbb/props/rockstar-gold-necklace/",
+                    "url": "/rbb//props/rockstar-gold-necklace/",
                     "images": [
                         
                             ""
@@ -2074,7 +2074,7 @@
                     
                     
                     "title": "$ Gold Necklace",
-                    "url": "/rbb/props/$-gold-necklace/",
+                    "url": "/rbb//props/$-gold-necklace/",
                     "images": [
                         
                             "main.jpg"
@@ -2091,7 +2091,7 @@
                     
                     
                     "title": "Pink Hello Kitty Chair",
-                    "url": "/rbb/props/pink-hello-kitty-chair/",
+                    "url": "/rbb//props/pink-hello-kitty-chair/",
                     "images": [
                         
                             "main.png"
@@ -2108,7 +2108,7 @@
                     
                     
                     "title": "Staff",
-                    "url": "/rbb/props/staff/",
+                    "url": "/rbb//props/staff/",
                     "images": [
                         
                             ""
@@ -2125,7 +2125,7 @@
                     
                     
                     "title": "Cell Phone",
-                    "url": "/rbb/props/cell-phone/",
+                    "url": "/rbb//props/cell-phone/",
                     "images": [
                         
                             ""
@@ -2142,7 +2142,7 @@
                     
                     
                     "title": "Sparkly Bowtie",
-                    "url": "/rbb/props/sparkly-bowtie/",
+                    "url": "/rbb//props/sparkly-bowtie/",
                     "images": [
                         
                             ""
@@ -2159,7 +2159,7 @@
                     
                     
                     "title": "Rainbow Tutu",
-                    "url": "/rbb/props/rainbow-tutu/",
+                    "url": "/rbb//props/rainbow-tutu/",
                     "images": [
                         
                             ""
@@ -2176,7 +2176,7 @@
                     
                     
                     "title": "Rainbow Suspenders",
-                    "url": "/rbb/props/rainbow-suspenders/",
+                    "url": "/rbb//props/rainbow-suspenders/",
                     "images": [
                         
                             ""
@@ -2193,7 +2193,7 @@
                     
                     
                     "title": "Black Teddie Mercury Hat",
-                    "url": "/rbb/props/black-teddie-mercury-hat/",
+                    "url": "/rbb//props/black-teddie-mercury-hat/",
                     "images": [
                         
                             ""
@@ -2210,7 +2210,7 @@
                     
                     
                     "title": "Cape",
-                    "url": "/rbb/props/cape/",
+                    "url": "/rbb//props/cape/",
                     "images": [
                         
                             ""
@@ -2227,7 +2227,7 @@
                     
                     
                     "title": "Pink Bandana",
-                    "url": "/rbb/props/pink-bandana/",
+                    "url": "/rbb//props/pink-bandana/",
                     "images": [
                         
                             ""
@@ -2244,7 +2244,7 @@
                     
                     
                     "title": "Chop Sticks",
-                    "url": "/rbb/props/chop-sticks/",
+                    "url": "/rbb//props/chop-sticks/",
                     "images": [
                         
                             ""
@@ -2261,7 +2261,7 @@
                     
                     
                     "title": "Pink Bathrobe",
-                    "url": "/rbb/props/pink-bathrobe/",
+                    "url": "/rbb//props/pink-bathrobe/",
                     "images": [
                         
                             ""
@@ -2278,7 +2278,7 @@
                     
                     
                     "title": "Socks",
-                    "url": "/rbb/props/socks/",
+                    "url": "/rbb//props/socks/",
                     "images": [
                         
                             ""
@@ -2295,7 +2295,7 @@
                     
                     
                     "title": "Shower Cap",
-                    "url": "/rbb/props/shower-cap/",
+                    "url": "/rbb//props/shower-cap/",
                     "images": [
                         
                             ""
@@ -2312,7 +2312,7 @@
                     
                     
                     "title": "Towel",
-                    "url": "/rbb/props/towel/",
+                    "url": "/rbb//props/towel/",
                     "images": [
                         
                             ""
@@ -2329,7 +2329,7 @@
                     
                     
                     "title": "Toothbrush",
-                    "url": "/rbb/props/toothbrush/",
+                    "url": "/rbb//props/toothbrush/",
                     "images": [
                         
                             ""
@@ -2346,7 +2346,7 @@
                     
                     
                     "title": "Rubber Ducky",
-                    "url": "/rbb/props/rubber-ducky/",
+                    "url": "/rbb//props/rubber-ducky/",
                     "images": [
                         
                             ""
@@ -2363,7 +2363,7 @@
                     
                     
                     "title": "Tux",
-                    "url": "/rbb/props/tux/",
+                    "url": "/rbb//props/tux/",
                     "images": [
                         
                             ""
@@ -2380,7 +2380,7 @@
                     
                     
                     "title": "Black Hat",
-                    "url": "/rbb/props/black-hat/",
+                    "url": "/rbb//props/black-hat/",
                     "images": [
                         
                             ""
@@ -2397,7 +2397,7 @@
                     
                     
                     "title": "Pipe",
-                    "url": "/rbb/props/pipe/",
+                    "url": "/rbb//props/pipe/",
                     "images": [
                         
                             ""
@@ -2414,7 +2414,7 @@
                     
                     
                     "title": "Freddie Mercury Shirt",
-                    "url": "/rbb/props/freddie-mercury-shirt/",
+                    "url": "/rbb//props/freddie-mercury-shirt/",
                     "images": [
                         
                             ""
@@ -2431,7 +2431,7 @@
                     
                     
                     "title": "Bear Boxers",
-                    "url": "/rbb/props/bear-boxers/",
+                    "url": "/rbb//props/bear-boxers/",
                     "images": [
                         
                             "main.jpg"
@@ -2448,7 +2448,7 @@
                     
                     
                     "title": "Mic",
-                    "url": "/rbb/props/mic/",
+                    "url": "/rbb//props/mic/",
                     "images": [
                         
                             ""
@@ -2465,7 +2465,7 @@
                     
                     
                     "title": "Harley Jacket",
-                    "url": "/rbb/props/harley-jacket/",
+                    "url": "/rbb//props/harley-jacket/",
                     "images": [
                         
                             ""
@@ -2482,7 +2482,7 @@
                     
                     
                     "title": "Leather Chaps",
-                    "url": "/rbb/props/leather-chaps/",
+                    "url": "/rbb//props/leather-chaps/",
                     "images": [
                         
                             ""
@@ -2499,7 +2499,7 @@
                     
                     
                     "title": "Rainbow Peace Sign Necklace",
-                    "url": "/rbb/props/rainbow-peace-sign-necklace/",
+                    "url": "/rbb//props/rainbow-peace-sign-necklace/",
                     "images": [
                         
                             ""
@@ -2516,7 +2516,7 @@
                     
                     
                     "title": "Money",
-                    "url": "/rbb/props/money/",
+                    "url": "/rbb//props/money/",
                     "images": [
                         
                             ""
@@ -2533,7 +2533,7 @@
                     
                     
                     "title": "Sugar Bear",
-                    "url": "/rbb/props/sb/",
+                    "url": "/rbb//props/sb/",
                     "images": [
                         
                             ""
@@ -2550,7 +2550,7 @@
                     
                     
                     "title": "Rainbow T-Shirt",
-                    "url": "/rbb/props/rainbow-tshirt/",
+                    "url": "/rbb//props/rainbow-tshirt/",
                     "images": [
                         
                             ""
@@ -2567,7 +2567,7 @@
                     
                     
                     "title": "Bondage Gear",
-                    "url": "/rbb/props/bondage-gear/",
+                    "url": "/rbb//props/bondage-gear/",
                     "images": [
                         
                             ""
@@ -2584,7 +2584,7 @@
                     
                     
                     "title": "Rainbow Hair Extensions",
-                    "url": "/rbb/props/rainbow-hair-extensions/",
+                    "url": "/rbb//props/rainbow-hair-extensions/",
                     "images": [
                         
                             ""
@@ -2601,7 +2601,7 @@
                     
                     
                     "title": "Black Cowboy Hat",
-                    "url": "/rbb/props/black-cowboy-hat/",
+                    "url": "/rbb//props/black-cowboy-hat/",
                     "images": [
                         
                             ""
@@ -2618,7 +2618,7 @@
                     
                     
                     "title": "Pearl Necklace",
-                    "url": "/rbb/props/pearl-necklace/",
+                    "url": "/rbb//props/pearl-necklace/",
                     "images": [
                         
                             ""
@@ -2635,7 +2635,7 @@
                     
                     
                     "title": "Black Devil-Horned Hat",
-                    "url": "/rbb/props/black-devil-horned-hat/",
+                    "url": "/rbb//props/black-devil-horned-hat/",
                     "images": [
                         
                             ""
@@ -2652,7 +2652,7 @@
                     
                     
                     "title": "Handcuffs",
-                    "url": "/rbb/props/handcuffs/",
+                    "url": "/rbb//props/handcuffs/",
                     "images": [
                         
                             ""
@@ -2669,7 +2669,7 @@
                     
                     
                     "title": "Sparkly Star Stick",
-                    "url": "/rbb/props/sparkly-star-stick/",
+                    "url": "/rbb//props/sparkly-star-stick/",
                     "images": [
                         
                             ""
@@ -2686,7 +2686,7 @@
                     
                     
                     "title": "Fireman Costume",
-                    "url": "/rbb/props/fireman-costume/",
+                    "url": "/rbb//props/fireman-costume/",
                     "images": [
                         
                             ""
@@ -2703,7 +2703,7 @@
                     
                     
                     "title": "Fireman Hat",
-                    "url": "/rbb/props/fireman-hat/",
+                    "url": "/rbb//props/fireman-hat/",
                     "images": [
                         
                             ""
@@ -2720,7 +2720,7 @@
                     
                     
                     "title": "Fire Extinguisher and Sign",
-                    "url": "/rbb/props/fire-extinguisher-and-sign/",
+                    "url": "/rbb//props/fire-extinguisher-and-sign/",
                     "images": [
                         
                             ""
@@ -2737,7 +2737,7 @@
                     
                     
                     "title": "Tiara",
-                    "url": "/rbb/props/tiara/",
+                    "url": "/rbb//props/tiara/",
                     "images": [
                         
                             ""
@@ -2754,7 +2754,7 @@
                     
                     
                     "title": "Horse",
-                    "url": "/rbb/props/horse/",
+                    "url": "/rbb//props/horse/",
                     "images": [
                         
                             ""
@@ -2771,7 +2771,7 @@
                     
                     
                     "title": "Black Boots",
-                    "url": "/rbb/props/black-boots/",
+                    "url": "/rbb//props/black-boots/",
                     "images": [
                         
                             ""
@@ -2788,7 +2788,7 @@
                     
                     
                     "title": "Sparkly Pink Pants",
-                    "url": "/rbb/props/sparkly-pink-pants/",
+                    "url": "/rbb//props/sparkly-pink-pants/",
                     "images": [
                         
                             ""
@@ -2805,7 +2805,7 @@
                     
                     
                     "title": "ATV",
-                    "url": "/rbb/props/atv/",
+                    "url": "/rbb//props/atv/",
                     "images": [
                         
                             ""
@@ -2822,7 +2822,7 @@
                     
                     
                     "title": "Heeled Black Boots",
-                    "url": "/rbb/props/heeled-black-boots/",
+                    "url": "/rbb//props/heeled-black-boots/",
                     "images": [
                         
                             ""
@@ -2839,7 +2839,7 @@
                     
                     
                     "title": "Sombrero",
-                    "url": "/rbb/props/sombrero/",
+                    "url": "/rbb//props/sombrero/",
                     "images": [
                         
                             ""
@@ -2856,7 +2856,7 @@
                     
                     
                     "title": "Pink Beats",
-                    "url": "/rbb/props/pink-beats/",
+                    "url": "/rbb//props/pink-beats/",
                     "images": [
                         
                             ""
@@ -2873,7 +2873,7 @@
                     
                     
                     "title": "Reading Glasses",
-                    "url": "/rbb/props/reading-glasses/",
+                    "url": "/rbb//props/reading-glasses/",
                     "images": [
                         
                             ""
@@ -2890,7 +2890,7 @@
                     
                     
                     "title": "Book",
-                    "url": "/rbb/props/book/",
+                    "url": "/rbb//props/book/",
                     "images": [
                         
                             ""
@@ -2907,7 +2907,7 @@
                     
                     
                     "title": "KD Lang",
-                    "url": "/rbb/props/kd-lang/",
+                    "url": "/rbb//props/kd-lang/",
                     "images": [
                         
                             ""
@@ -2924,7 +2924,7 @@
                     
                     
                     "title": "Red Chucks",
-                    "url": "/rbb/props/red-chucks/",
+                    "url": "/rbb//props/red-chucks/",
                     "images": [
                         
                             ""
@@ -2941,7 +2941,7 @@
                     
                     
                     "title": "Black Vest",
-                    "url": "/rbb/props/black-vest/",
+                    "url": "/rbb//props/black-vest/",
                     "images": [
                         
                             ""
@@ -2958,7 +2958,7 @@
                     
                     
                     "title": "Red Cowboy Hat",
-                    "url": "/rbb/props/red-cowboy-hat/",
+                    "url": "/rbb//props/red-cowboy-hat/",
                     "images": [
                         
                             ""
@@ -2975,7 +2975,7 @@
                     
                     
                     "title": "AstroTurf",
-                    "url": "/rbb/props/astroturf/",
+                    "url": "/rbb//props/astroturf/",
                     "images": [
                         
                             "main.jpg"
@@ -2992,7 +2992,7 @@
                     
                     
                     "title": "Mushrooms",
-                    "url": "/rbb/props/mushrooms/",
+                    "url": "/rbb//props/mushrooms/",
                     "images": [
                         
                             ""
@@ -3009,7 +3009,7 @@
                     
                     
                     "title": "Fishing Pole with Fish",
-                    "url": "/rbb/props/fishing-pole-with-fish/",
+                    "url": "/rbb//props/fishing-pole-with-fish/",
                     "images": [
                         
                             ""
@@ -3026,7 +3026,7 @@
                     
                     
                     "title": "Unicorn",
-                    "url": "/rbb/props/unicorn/",
+                    "url": "/rbb//props/unicorn/",
                     "images": [
                         
                             ""
@@ -3043,7 +3043,7 @@
                     
                     
                     "title": "White Shorts with Red Stripe",
-                    "url": "/rbb/props/white-shorts-red-stripe/",
+                    "url": "/rbb//props/white-shorts-red-stripe/",
                     "images": [
                         
                             ""
@@ -3060,7 +3060,7 @@
                     
                     
                     "title": "Rainbow Background",
-                    "url": "/rbb/props/rainbow-background/",
+                    "url": "/rbb//props/rainbow-background/",
                     "images": [
                         
                             ""
@@ -3077,7 +3077,7 @@
                     
                     
                     "title": "Guitar",
-                    "url": "/rbb/props/guitar/",
+                    "url": "/rbb//props/guitar/",
                     "images": [
                         
                             ""
@@ -3094,7 +3094,7 @@
                     
                     
                     "title": "Yellow Happy Sticker",
-                    "url": "/rbb/props/yellow-happy-sticker/",
+                    "url": "/rbb//props/yellow-happy-sticker/",
                     "images": [
                         
                             ""
@@ -3111,7 +3111,7 @@
                     
                     
                     "title": "Green Mic",
-                    "url": "/rbb/props/green-mic/",
+                    "url": "/rbb//props/green-mic/",
                     "images": [
                         
                             ""
@@ -3128,7 +3128,7 @@
                     
                     
                     "title": "Trumpet",
-                    "url": "/rbb/props/trumpet/",
+                    "url": "/rbb//props/trumpet/",
                     "images": [
                         
                             ""
@@ -3145,7 +3145,7 @@
                     
                     
                     "title": "Gold Crown",
-                    "url": "/rbb/props/gold-crown/",
+                    "url": "/rbb//props/gold-crown/",
                     "images": [
                         
                             ""
@@ -3162,7 +3162,7 @@
                     
                     
                     "title": "Studded Red Choker",
-                    "url": "/rbb/props/studded-red-choker/",
+                    "url": "/rbb//props/studded-red-choker/",
                     "images": [
                         
                             ""
@@ -3179,7 +3179,7 @@
                     
                     
                     "title": "Mardi Gras Beads",
-                    "url": "/rbb/props/mardi-gras-beads/",
+                    "url": "/rbb//props/mardi-gras-beads/",
                     "images": [
                         
                             ""
@@ -3196,7 +3196,7 @@
                     
                     
                     "title": "Teddy Bears",
-                    "url": "/rbb/props/teddy-bears/",
+                    "url": "/rbb//props/teddy-bears/",
                     "images": [
                         
                             ""
@@ -3213,7 +3213,7 @@
                     
                     
                     "title": "Pink Boots",
-                    "url": "/rbb/props/pink-boots/",
+                    "url": "/rbb//props/pink-boots/",
                     "images": [
                         
                             ""
@@ -3230,7 +3230,7 @@
                     
                     
                     "title": "Pink Bono Glasses",
-                    "url": "/rbb/props/pink-bono-glasses/",
+                    "url": "/rbb//props/pink-bono-glasses/",
                     "images": [
                         
                             ""
@@ -3247,7 +3247,7 @@
                     
                     
                     "title": "Pink Pointer Hand",
-                    "url": "/rbb/props/pink-pointer-hand/",
+                    "url": "/rbb//props/pink-pointer-hand/",
                     "images": [
                         
                             ""
@@ -3264,7 +3264,7 @@
                     
                     
                     "title": "Silver Sparkly Fedora",
-                    "url": "/rbb/props/silver-sparkly-fedora/",
+                    "url": "/rbb//props/silver-sparkly-fedora/",
                     "images": [
                         
                             ""
@@ -3281,7 +3281,7 @@
                     
                     
                     "title": "Flowers",
-                    "url": "/rbb/props/flowers/",
+                    "url": "/rbb//props/flowers/",
                     "images": [
                         
                             ""
@@ -3298,7 +3298,7 @@
                     
                     
                     "title": "Blue Box",
-                    "url": "/rbb/props/blue-box/",
+                    "url": "/rbb//props/blue-box/",
                     "images": [
                         
                             ""
@@ -3315,7 +3315,7 @@
                     
                     
                     "title": "Green Happy Sticker",
-                    "url": "/rbb/props/green-happy-sticker/",
+                    "url": "/rbb//props/green-happy-sticker/",
                     "images": [
                         
                             ""
@@ -3332,7 +3332,7 @@
                     
                     
                     "title": "Batman Costume",
-                    "url": "/rbb/props/batman-costume/",
+                    "url": "/rbb//props/batman-costume/",
                     "images": [
                         
                             "main.jpg"
@@ -3349,7 +3349,7 @@
                     
                     
                     "title": "Blue Sad Sticker",
-                    "url": "/rbb/props/blue-sad-sticker/",
+                    "url": "/rbb//props/blue-sad-sticker/",
                     "images": [
                         
                             ""
@@ -3366,7 +3366,7 @@
                     
                     
                     "title": "Divine",
-                    "url": "/rbb/props/divine/",
+                    "url": "/rbb//props/divine/",
                     "images": [
                         
                             ""
@@ -3383,7 +3383,7 @@
                     
                     
                     "title": "Flamingo",
-                    "url": "/rbb/props/flamingo/",
+                    "url": "/rbb//props/flamingo/",
                     "images": [
                         
                             ""
@@ -3400,7 +3400,7 @@
                     
                     
                     "title": "Divine Eyebrows",
-                    "url": "/rbb/props/divine-eyebrows/",
+                    "url": "/rbb//props/divine-eyebrows/",
                     "images": [
                         
                             ""
@@ -3417,7 +3417,7 @@
                     
                     
                     "title": "Wonder Woman Costume",
-                    "url": "/rbb/props/wonder-woman-costume/",
+                    "url": "/rbb//props/wonder-woman-costume/",
                     "images": [
                         
                             ""
@@ -3434,7 +3434,7 @@
                     
                     
                     "title": "Disco Ball",
-                    "url": "/rbb/props/disco-ball/",
+                    "url": "/rbb//props/disco-ball/",
                     "images": [
                         
                             ""
@@ -3451,7 +3451,7 @@
                     
                     
                     "title": "Glitter Stick",
-                    "url": "/rbb/props/glitter-stick/",
+                    "url": "/rbb//props/glitter-stick/",
                     "images": [
                         
                             ""
@@ -3468,7 +3468,7 @@
                     
                     
                     "title": "Flower Lights",
-                    "url": "/rbb/props/flower-lights/",
+                    "url": "/rbb//props/flower-lights/",
                     "images": [
                         
                             ""
@@ -3485,7 +3485,7 @@
                     
                     
                     "title": "Wood Chair",
-                    "url": "/rbb/props/wood-chair/",
+                    "url": "/rbb//props/wood-chair/",
                     "images": [
                         
                             ""
@@ -3502,7 +3502,7 @@
                     
                     
                     "title": "Blue Happy Sticker",
-                    "url": "/rbb/props/blue-happy-sticker/",
+                    "url": "/rbb//props/blue-happy-sticker/",
                     "images": [
                         
                             ""
@@ -3519,7 +3519,7 @@
                     
                     
                     "title": "Toilet",
-                    "url": "/rbb/props/toilet/",
+                    "url": "/rbb//props/toilet/",
                     "images": [
                         
                             ""
@@ -3536,7 +3536,7 @@
                     
                     
                     "title": "Toilet Paper",
-                    "url": "/rbb/props/toilet-paper/",
+                    "url": "/rbb//props/toilet-paper/",
                     "images": [
                         
                             ""
@@ -3553,7 +3553,7 @@
                     
                     
                     "title": "Toilet Bowl Brush",
-                    "url": "/rbb/props/toilet-bowl-brush/",
+                    "url": "/rbb//props/toilet-bowl-brush/",
                     "images": [
                         
                             ""
@@ -3570,7 +3570,7 @@
                     
                     
                     "title": "Pail",
-                    "url": "/rbb/props/pail/",
+                    "url": "/rbb//props/pail/",
                     "images": [
                         
                             ""
@@ -3587,7 +3587,7 @@
                     
                     
                     "title": "Lysol",
-                    "url": "/rbb/props/lysol/",
+                    "url": "/rbb//props/lysol/",
                     "images": [
                         
                             ""
@@ -3604,7 +3604,7 @@
                     
                     
                     "title": "Red Angry Sticker",
-                    "url": "/rbb/props/red-angry-sticker/",
+                    "url": "/rbb//props/red-angry-sticker/",
                     "images": [
                         
                             ""
@@ -3621,7 +3621,7 @@
                     
                     
                     "title": "White Robe",
-                    "url": "/rbb/props/white-robe/",
+                    "url": "/rbb//props/white-robe/",
                     "images": [
                         
                             ""
@@ -3638,7 +3638,7 @@
                     
                     
                     "title": "Black & White Fedora",
-                    "url": "/rbb/props/black-white-fedora/",
+                    "url": "/rbb//props/black-white-fedora/",
                     "images": [
                         
                             ""
@@ -3655,7 +3655,7 @@
                     
                     
                     "title": "Watch",
-                    "url": "/rbb/props/watch/",
+                    "url": "/rbb//props/watch/",
                     "images": [
                         
                             ""
@@ -3672,7 +3672,7 @@
                     
                     
                     "title": "Cigar",
-                    "url": "/rbb/props/cigar/",
+                    "url": "/rbb//props/cigar/",
                     "images": [
                         
                             ""
@@ -3689,7 +3689,7 @@
                     
                     
                     "title": "Baby Bottle",
-                    "url": "/rbb/props/baby-bottle/",
+                    "url": "/rbb//props/baby-bottle/",
                     "images": [
                         
                             ""
@@ -3706,7 +3706,7 @@
                     
                     
                     "title": "Champagne Flute",
-                    "url": "/rbb/props/champagne-flute/",
+                    "url": "/rbb//props/champagne-flute/",
                     "images": [
                         
                             ""
@@ -3723,7 +3723,7 @@
                     
                     
                     "title": "Green Surprised Sticker",
-                    "url": "/rbb/props/green-surprised-sticker/",
+                    "url": "/rbb//props/green-surprised-sticker/",
                     "images": [
                         
                             ""
@@ -3740,7 +3740,7 @@
                     
                     
                     "title": "Banana",
-                    "url": "/rbb/props/banana/",
+                    "url": "/rbb//props/banana/",
                     "images": [
                         
                             ""
@@ -3757,7 +3757,7 @@
                     
                     
                     "title": "Skateboard",
-                    "url": "/rbb/props/skateboard/",
+                    "url": "/rbb//props/skateboard/",
                     "images": [
                         
                             ""
@@ -3774,7 +3774,7 @@
                     
                     
                     "title": "Red Sad Sticker",
-                    "url": "/rbb/props/red-sad-sticker/",
+                    "url": "/rbb//props/red-sad-sticker/",
                     "images": [
                         
                             ""
@@ -3791,7 +3791,7 @@
                     
                     
                     "title": "Swimsuit",
-                    "url": "/rbb/props/swimsuit/",
+                    "url": "/rbb//props/swimsuit/",
                     "images": [
                         
                             ""
@@ -3808,7 +3808,7 @@
                     
                     
                     "title": "Pink Sneakers",
-                    "url": "/rbb/props/pink-sneakers/",
+                    "url": "/rbb//props/pink-sneakers/",
                     "images": [
                         
                             ""
@@ -3825,7 +3825,7 @@
                     
                     
                     "title": "Silver Sparkly Crown",
-                    "url": "/rbb/props/silver-sparkly-crown/",
+                    "url": "/rbb//props/silver-sparkly-crown/",
                     "images": [
                         
                             ""
@@ -3842,7 +3842,7 @@
                     
                     
                     "title": "Ice Cream Cone",
-                    "url": "/rbb/props/ice-cream-cone/",
+                    "url": "/rbb//props/ice-cream-cone/",
                     "images": [
                         
                             ""
@@ -3859,7 +3859,7 @@
                     
                     
                     "title": "McDonald's Fries Box",
-                    "url": "/rbb/props/mcdonalds-fries-box/",
+                    "url": "/rbb//props/mcdonalds-fries-box/",
                     "images": [
                         
                             ""
@@ -3876,7 +3876,7 @@
                     
                     
                     "title": "US Marine Corps Costume",
-                    "url": "/rbb/props/us-marine-corps-costume/",
+                    "url": "/rbb//props/us-marine-corps-costume/",
                     "images": [
                         
                             ""
@@ -3893,7 +3893,7 @@
                     
                     
                     "title": "Toothpaste",
-                    "url": "/rbb/props/toothpaste/",
+                    "url": "/rbb//props/toothpaste/",
                     "images": [
                         
                             ""
@@ -3910,7 +3910,7 @@
                     
                     
                     "title": "Bible",
-                    "url": "/rbb/props/bible/",
+                    "url": "/rbb//props/bible/",
                     "images": [
                         
                             ""
@@ -3927,7 +3927,7 @@
                     
                     
                     "title": "Red Happy Sticker",
-                    "url": "/rbb/props/red-happy-sticker/",
+                    "url": "/rbb//props/red-happy-sticker/",
                     "images": [
                         
                             ""
@@ -3944,7 +3944,7 @@
                     
                     
                     "title": "Third Bear",
-                    "url": "/rbb/props/third-bear/",
+                    "url": "/rbb//props/third-bear/",
                     "images": [
                         
                             ""
@@ -3961,7 +3961,7 @@
                     
                     
                     "title": "Bette Davis",
-                    "url": "/rbb/props/bette-davis/",
+                    "url": "/rbb//props/bette-davis/",
                     "images": [
                         
                             ""
@@ -3978,7 +3978,7 @@
                     
                     
                     "title": "Judy Garland",
-                    "url": "/rbb/props/judy-garland/",
+                    "url": "/rbb//props/judy-garland/",
                     "images": [
                         
                             "main.jpg"
@@ -3995,7 +3995,7 @@
                     
                     
                     "title": "Picture Frame",
-                    "url": "/rbb/props/picture-frame/",
+                    "url": "/rbb//props/picture-frame/",
                     "images": [
                         
                             ""
@@ -4012,7 +4012,7 @@
                     
                     
                     "title": "Groucho Marx Glasses",
-                    "url": "/rbb/props/groucho-marx-glasses/",
+                    "url": "/rbb//props/groucho-marx-glasses/",
                     "images": [
                         
                             ""
@@ -4029,7 +4029,7 @@
                     
                     
                     "title": "Ken Dodd",
-                    "url": "/rbb/props/ken-dodd/",
+                    "url": "/rbb//props/ken-dodd/",
                     "images": [
                         
                             "main.jpg"
@@ -4046,7 +4046,7 @@
                     
                     
                     "title": "Sony Phone",
-                    "url": "/rbb/props/sony-phone/",
+                    "url": "/rbb//props/sony-phone/",
                     "images": [
                         
                             "main.jpg"
