@@ -1,4 +1,6 @@
 ---
 title: Montreal
 date: 2015-09-05
+images: [blurry.jpg]
+prop: [rbb, sb, book, gold-crown, tiara, green-happy-sticker, aviators, book, blue-happy-sticker]
 ---
