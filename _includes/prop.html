@@ -6,15 +6,15 @@
     {% assign foundProp = foundProps[0] %}
     {% assign propTitle = foundProp.title %}
     {% if foundProp.images %}
-        {% capture propImage %}{{site.baseurl}}/content/media/props/{{prop}}/{{ foundProp.images[0] }}{% endcapture %}
+        {% capture propImage %}{{site.baseurl}}content/media/props/{{prop}}/{{ foundProp.images[0] }}{% endcapture %}
     {% else %}
-        {% capture propImage %}{{site.baseurl}}/content/media/no-image.jpg{%endcapture%}
+        {% capture propImage %}{{site.baseurl}}content/media/no-image.jpg{%endcapture%}
     {% endif %}
-    {% capture propUrl %}{{site.baseurl}}/{{foundProp.url}}{% endcapture %}
+    {% capture propUrl %}{{site.baseurl}}{{foundProp.url}}{% endcapture %}
 {% else %}
     {% assign propTitle = prop %}
-    {% capture propUrl %}{{site.baseurl}}/props/{{prop}}{%endcapture%}
-    {% capture propImage %}{{site.baseurl}}/content/media/no-image.jpg{%endcapture%}
+    {% capture propUrl %}{{site.baseurl}}props/{{prop}}{%endcapture%}
+    {% capture propImage %}{{site.baseurl}}content/media/no-image.jpg{%endcapture%}
 {% endif %}
 
 <li class="item">

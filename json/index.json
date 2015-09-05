@@ -38,7 +38,7 @@ layout: null
                     ]
                 {% else %}
                     "title": "{{ prop }}",
-                    "url": "{{ site.baseurl }}/props/{{ prop }}"
+                    "url": "{{ site.baseurl }}props/{{ prop }}"
                 {% endif %}
             }{% unless forloop.last %},{% endunless %}
 
