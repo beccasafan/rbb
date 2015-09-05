@@ -28,13 +28,13 @@
                     
                         "aviators",
                     
-                        "book",
-                    
                         "blue-happy-sticker",
                     
                         "blue-box",
                     
-                        "picture-frame"
+                        "picture-frame",
+                    
+                        "charles-and-diana"
                     
                 ]
             },
@@ -4076,6 +4076,23 @@
                     "images": [
                         
                             "main.jpg"
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Charles and Diana",
+                    "url": "/rbb//props/charles-and-diana/",
+                    "images": [
+                        
+                            ""
                         
                     ]
                 
