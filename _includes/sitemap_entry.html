@@ -1,0 +1,12 @@
+{% assign page = include.page %}
+{% if page.url %}
+    {% assign url = page.url %}
+{% else %}
+    {% capture url %}/{{ include.urlPath }}/{{ page }}{% endcapture %}
+{% endif %}
+<url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+</url>

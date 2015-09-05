@@ -1,0 +1,23 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% strip %}
+    {% for post in site.posts %}
+        {% include sitemap_entry.html page=post urlPath="concerts" %}
+    {% endfor %}
+
+    {% for page in site.pages %}
+        {% if page.layout %}
+            {% include sitemap_entry.html page=page urlPath="" %}
+        {% endif %}
+    }
+    }
+    {% endfor %}
+
+    {% for prop in site.allprops %}
+        {% include sitemap_entry.html page=prop urlPath="props" %}
+    {% endfor %}
+{% endstrip %}
+</urlset>
