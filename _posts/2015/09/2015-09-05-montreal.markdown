@@ -2,5 +2,5 @@
 title: Montreal
 date: 2015-09-05
 images: [both-front.jpg, blurry.jpg]
-props: [rbb, sb, book, gold-crown, tiara, green-happy-sticker, aviators, book, blue-happy-sticker, blue-box, picture-frame]
+props: [rbb, sb, book, gold-crown, tiara, green-happy-sticker, aviators, blue-happy-sticker, blue-box, picture-frame, charles-and-diana]
 ---
