@@ -11,7 +11,7 @@
       <meta name="twitter:card" content="{{ page.twitterCard.cardType }}">
       <meta name="twitter:site" content="@beccasafan">
       <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
-      <meta name="twitter:description" content="{{ page.excerpt }}">
+      <meta name="twitter:description" content="{{ page.twitterCard.excerpt | liquify | strip_newlines | strip_html }}">
 
       {% if page.twitterCard.cardType == "summary_large_image" %}
         {% if page.images %}
