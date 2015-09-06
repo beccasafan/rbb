@@ -1,5 +1,6 @@
 ---
 title: Contribute
+excerpt: Any contribution, no matter how small or how big is welcome!
 ---
 
 If you have something to add - a picture, a prop, a theory, something that happened a couple days later that ties in, a correction, general feedback, anything - let me know!

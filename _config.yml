@@ -50,3 +50,6 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+      twitterCard:
+        cardType: summary
+        excerpt: "{{ page.excerpt }}"

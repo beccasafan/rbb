@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+excerpt: See pictures of RBB and SB from every concert, along with every prop that has been used all in one place. Easily search them to see when a prop last appeared, or when props have appeared together.
 ---
 Welcome! Use the menu in the upper right to explore the site.
 
