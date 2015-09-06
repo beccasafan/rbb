@@ -10,7 +10,7 @@
     {% if page.twitterCard.cardType %}
       <meta name="twitter:card" content="{{ page.twitterCard.cardType }}">
       <meta name="twitter:site" content="@beccasafan">
-      <meta name="{{ page.title }} - {{ site.title }}">
+      <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
       <meta name="twitter:description" content="{{ page.excerpt }}">
 
       {% if page.twitterCard.cardType == "summary_large_image" %}
