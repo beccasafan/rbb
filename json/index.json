@@ -9,7 +9,9 @@
                     
                         "both-front.jpg",
                     
-                        "blurry.jpg"
+                        "blurry.jpg",
+                    
+                        "frank-pearson.jpg"
                     
                 ],
                 "props": [
@@ -34,7 +36,9 @@
                     
                         "picture-frame",
                     
-                        "charles-and-diana"
+                        "charles-and-diana",
+                    
+                        "frank-pearson"
                     
                 ]
             },
@@ -4093,6 +4097,23 @@
                     "images": [
                         
                             "invitation-to-a-royal-wedding.jpg"
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Frank Pearson",
+                    "url": "/rbb//props/frank-pearson/",
+                    "images": [
+                        
+                            "main.jpg"
                         
                     ]
                 
