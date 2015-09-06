@@ -33,7 +33,7 @@
       
       {% capture description %}{{ page.twitterCard.excerpt | liquify | strip_newlines | strip_html }}{% endcapture %}
 
-      {% capture image %}{{ site.url }}{{ site.baseurl }}content/media/favicons/android-chrome-192x192.png{% endcapture %}
+      {% capture image %}{{ site.url }}{{ site.baseurl }}content/media/icon.jpg{% endcapture %}
 
       {% if page.twitterCard.cardType == "summary_large_image" %}
         {% if page.images %}
