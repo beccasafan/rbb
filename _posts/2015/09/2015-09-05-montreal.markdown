@@ -1,6 +1,6 @@
 ---
 title: Montreal
 date: 2015-09-05
-images: [both-front.jpg, blurry.jpg, frank-pearson.jpg]
-props: [rbb, sb, book, gold-crown, tiara, green-happy-sticker, aviators, blue-happy-sticker, blue-box, picture-frame, charles-and-diana, frank-pearson]
+images: [both-front-clearer.jpg, both-front.jpg, blurry.jpg, frank-pearson.jpg]
+props: [rbb, sb, book, gold-crown, tiara, green-happy-sticker, aviators, blue-happy-sticker, blue-box, picture-frame, charles-and-diana, frank-pearson, mado-lamotte]
 ---
