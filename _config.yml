@@ -43,7 +43,7 @@ defaults:
       layout: prop
       twitterCard:
         cardType: summary_large_image
-        excerpt: "Prop. {% if page.excerpt %}{{ page.excerpt }}{% endif %}"
+        excerpt: "Prop.{% if page.excerpt %} {{ page.excerpt }}{% endif %}"
   -
     scope:
       path: ""

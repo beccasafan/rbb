@@ -28,7 +28,6 @@
     <meta name="description" content="{{ site.description }}" />
 
     {% if page.twitterCard.cardType %}
-      <meta name="twitter:card" content="{{ page.twitterCard.cardType }}">
       <meta name="twitter:site" content="@beccasafan">
       <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
       <meta name="twitter:description" content="{{ page.twitterCard.excerpt | liquify | strip_newlines | strip_html }}">
@@ -36,9 +35,16 @@
       {% if page.twitterCard.cardType == "summary_large_image" %}
         {% if page.images %}
           <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}content/media/{{ page.url }}/{{ page.images[0] }}">
+          {% assign cardType = "summary_large_image" %}
+        {% else %}
+          {% assign cardType = "summary" %}
         {% endif %}
+      {% else %}
+          {% assign cardType = "summary" %}
       {% endif %}
     {% endif %}
+
+    <meta name="twitter:card" content="{{ cardType }}">
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
