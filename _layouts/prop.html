@@ -1,5 +1,7 @@
 ---
 layout: default
+twitterCard:
+    cardType: summary_large_image
 ---
 
 <div class="page">
@@ -7,9 +9,9 @@ layout: default
         <h2>{{ page.title }}</h2>
     </div>
 
-    <div class="images">
+    <div class="images row">
         {% if page.images %}
-            <div class="row">
+            <div class="small-12 columns">
                 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4 text-center">
                     {% for img in page.images %}
                         {% include bear-image.html img=img %}

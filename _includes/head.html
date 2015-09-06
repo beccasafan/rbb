@@ -6,6 +6,20 @@
     <link rel="stylesheet" herf="{{ site.baseurl }}content/styles/lightbox.css">
     <script src="{{ site.baseurl }}content/scripts/vendor/modernizr.js"></script>
     <meta name="description" content="{{ site.description }}" />
+
+    {% if page.twitterCard.cardType %}
+      <meta name="twitter:card" content="{{ page.twitterCard.cardType }}">
+      <meta name="twitter:site" content="@beccasafan">
+      <meta name="{{ page.title }} - {{ site.title }}">
+      <meta name="twitter:description" content="{{ page.excerpt }}">
+
+      {% if page.twitterCard.cardType == "summary_large_image" %}
+        {% if page.images %}
+          <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}content/media/{{ page.url }}/{{ page.images[0] }}">
+        {% endif %}
+      {% endif %}
+    {% endif %}
+
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
