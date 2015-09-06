@@ -33,7 +33,7 @@ defaults:
       permalink: "concerts/:year/:month/:title"
       twitterCard:
         cardType: summary_large_image
-        excerpt: "{{ page.date | date: '%Y-%m-%d' }}{% if page.excerpt %} {{ page.excerpt }}{% endif %}"
+        excerpt: "Concert. {{ page.date | date: '%Y-%m-%d' }}{% if page.excerpt %} {{ page.excerpt }}{% endif %}"
   -
     scope:
       path: ""
