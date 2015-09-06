@@ -7,6 +7,8 @@
                 "url": "/rbb//concerts/2015/09/montreal",
                 "images": [
                     
+                        "both-front-clearer.jpg",
+                    
                         "both-front.jpg",
                     
                         "blurry.jpg",
@@ -38,7 +40,9 @@
                     
                         "charles-and-diana",
                     
-                        "frank-pearson"
+                        "frank-pearson",
+                    
+                        "mado-lamotte"
                     
                 ]
             },
@@ -4111,6 +4115,23 @@
                     
                     "title": "Frank Pearson",
                     "url": "/rbb//props/frank-pearson/",
+                    "images": [
+                        
+                            "main.jpg"
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Mado Lamotte",
+                    "url": "/rbb//props/mado-lamotte/",
                     "images": [
                         
                             "main.jpg"
