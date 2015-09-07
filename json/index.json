@@ -77,7 +77,7 @@
                     
                         "gold-crown",
                     
-                        "tiara",
+                        "silver-sparkly-crown",
                     
                         "rainbow-is-my-favorite-color-shirt",
                     
@@ -105,7 +105,13 @@
                     
                         "ken-dodd",
                     
-                        "sony-phone"
+                        "sony-phone",
+                    
+                        "leather-chaps",
+                    
+                        "bondage-gear",
+                    
+                        "studded-black-choker"
                     
                 ]
             },
@@ -119,7 +125,9 @@
                     
                         "both-side.jpg",
                     
-                        "side-with-third-bear.jpg"
+                        "side-with-third-bear.jpg",
+                    
+                        "third-bear.jpg"
                     
                 ],
                 "props": [
@@ -152,7 +160,15 @@
                     
                         "third-bear",
                     
-                        "bette-davis"
+                        "bette-davis",
+                    
+                        "leather-chaps",
+                    
+                        "book",
+                    
+                        "care-bears",
+                    
+                        "hcpl"
                     
                 ]
             },
@@ -205,7 +221,11 @@
                     
                         "green-happy-sticker",
                     
-                        "blue-happy-sticker"
+                        "blue-happy-sticker",
+                    
+                        "wood-chair",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -279,7 +299,11 @@
                     
                         "sb",
                     
-                        "white-robe",
+                        "black-boots",
+                    
+                        "bondage-gear",
+                    
+                        "dalmation-fur-coat",
                     
                         "rainbow-tutu",
                     
@@ -342,9 +366,11 @@
                     
                         "black-boots",
                     
+                        "heeled-black-boots",
+                    
                         "rainbow-tutu",
                     
-                        "white-robe",
+                        "dalmation-fur-coat",
                     
                         "silver-sparkly-fedora",
                     
@@ -378,7 +404,15 @@
                     
                         "blue-sad-sticker",
                     
-                        "freddie-mustache"
+                        "freddie-mustache",
+                    
+                        "pearl-necklace",
+                    
+                        "pink-hello-kitty-chair",
+                    
+                        "wood-chair",
+                    
+                        "table"
                     
                 ]
             },
@@ -402,6 +436,8 @@
                         "sb",
                     
                         "black-boots",
+                    
+                        "black-lace-up-boots",
                     
                         "rainbow-tutu",
                     
@@ -478,7 +514,7 @@
                     
                         "disco-ball",
                     
-                        "glitter-stick",
+                        "sparkly-silver-and-pink-baton",
                     
                         "sparkly-star-stick",
                     
@@ -492,7 +528,9 @@
                     
                         "green-happy-sticker",
                     
-                        "divine-eyebrows"
+                        "divine-eyebrows",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -529,6 +567,8 @@
                     
                         "pearl-necklace",
                     
+                        "earrings",
+                    
                         "astroturf",
                     
                         "flowers",
@@ -539,7 +579,11 @@
                     
                         "green-happy-sticker",
                     
-                        "divine-eyebrows"
+                        "divine-eyebrows",
+                    
+                        "pink-feather-boa",
+                    
+                        "freddie-mustache"
                     
                 ]
             },
@@ -3452,6 +3496,23 @@
                 
                     
                     
+                    "title": "Pink Feather Boa",
+                    "url": "/rbb//props/pink-feather-boa/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
                     "title": "Wonder Woman Costume",
                     "url": "/rbb//props/wonder-woman-costume/",
                     "images": [
@@ -3486,8 +3547,8 @@
                 
                     
                     
-                    "title": "Glitter Stick",
-                    "url": "/rbb//props/glitter-stick/",
+                    "title": "Sparkly Silver and Pink Baton",
+                    "url": "/rbb//props/sparkly-silver-and-pink-baton/",
                     "images": [
                         
                             ""
@@ -3656,8 +3717,8 @@
                 
                     
                     
-                    "title": "White Robe",
-                    "url": "/rbb//props/white-robe/",
+                    "title": "Dalmation Fur Coat",
+                    "url": "/rbb//props/dalmation-fur-coat/",
                     "images": [
                         
                             ""
@@ -3760,6 +3821,23 @@
                     
                     "title": "Green Surprised Sticker",
                     "url": "/rbb//props/green-surprised-sticker/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Table",
+                    "url": "/rbb//props/table/",
                     "images": [
                         
                             ""
@@ -3998,6 +4076,40 @@
                     
                     "title": "Bette Davis",
                     "url": "/rbb//props/bette-davis/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Care Bears",
+                    "url": "/rbb//props/care-bears/",
+                    "images": [
+                        
+                            ""
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "HCPL",
+                    "url": "/rbb//props/hcpl/",
                     "images": [
                         
                             ""
