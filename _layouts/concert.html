@@ -55,7 +55,7 @@ layout: default
 
     {% assign concertContent = page.content | strip_newlines %}
     {% if concertContent != empty %}
-        {{ concertContent }}
+        {{ page.content | markdownify }}
     {% else %}
         <p>No comments have been entered for this concert yet. {% include contribute.html %}</p>
     {% endif %}

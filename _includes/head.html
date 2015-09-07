@@ -31,7 +31,7 @@
       <meta name="twitter:site" content="@beccasafan">
       <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
       
-      {% capture description %}{{ page.twitterCard.excerpt | liquify | strip_newlines | strip_html }}{% endcapture %}
+      {% capture description %}{{ page.twitterCard.excerpt | liquify | strip_newlines | strip_html | truncate:200 }}{% endcapture %}
 
       {% capture image %}{{ site.url }}{{ site.baseurl }}content/media/icon.jpg{% endcapture %}
 
