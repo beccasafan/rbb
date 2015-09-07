@@ -42,7 +42,9 @@
                     
                         "frank-pearson",
                     
-                        "mado-lamotte"
+                        "mado-lamotte",
+                    
+                        "silver-scepter"
                     
                 ]
             },
@@ -4135,6 +4137,23 @@
                     "images": [
                         
                             "main.jpg"
+                        
+                    ]
+                
+            },
+
+        
+            {
+                
+                
+                
+                    
+                    
+                    "title": "Silver Scepter",
+                    "url": "/rbb//props/silver-scepter/",
+                    "images": [
+                        
+                            ""
                         
                     ]
                 
