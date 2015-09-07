@@ -1,7 +1,7 @@
 ---
 title: Montreal
 date: 2015-09-05
-images: [both-front-clearer.jpg, both-front.jpg, blurry.jpg, frank-pearson.jpg]
+images: [both-front.jpg, both-front-clearer.jpg, blurry.jpg, frank-pearson.jpg]
 props: [rbb, sb, book, gold-crown, tiara, green-happy-sticker, aviators, blue-happy-sticker, blue-box, picture-frame, charles-and-diana, frank-pearson, mado-lamotte, silver-scepter]
 ---
 For the first time, the Blue Happy Sticker and Green Happy Sticker are right next to each other, overlapping a bit. The Green Happy Sticker is slightly on top of the Blue Happy Sticker. Little spoon, anyone?
