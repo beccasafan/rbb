@@ -20,18 +20,9 @@ excerpt: "Use this page to see when props have appeared with RBB or SB."
         </div>
     </div>
     <p id="props" class="text-center">
-        {% assign props = site.allprops | sort %}
-        {% for prop in props %}
-            {% assign propPath = "_props/" | append:prop | append:".markdown" %}
-            {% assign foundProps = site.props | where:"relative_path", propPath %}
-            {% assign foundSize = foundProps | size %}
-            {% if foundSize > 0 %}
-                {% assign foundProp = foundProps[0] %}
-                {% assign propTitle = foundProp.title %}
-            {% else %}
-                {% assign propTitle = prop %}
-            {% endif %}
-            <label class="prop label secondary" data-prop="{{ prop }}">{{ propTitle }}</label>
+        {% for propData in site.allprops %}
+            {% assign prop = propData[1] %}
+            <label class="prop label secondary" data-prop="{{ prop["code"] }}">{{ prop["title"] }}</label>
         {% endfor %}
     </p>
 

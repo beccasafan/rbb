@@ -25,27 +25,12 @@ layout: default
     
     <div id="tags">
         {% assign propsLength = page.props | size %}
-        {% assign tagsLength = page.tags | size %}
-        {% if propsLength > 0 or tagsLength > 0 %}
-            {% if propsLength > 0 %}
-                {% assign props = page.props | sort %}
-                {% for prop in props %}
-                    {% assign propPath = "_props/" | append:prop | append:".markdown" %}
-                    {% assign foundUrl = site.props | where:"relative_path", propPath | map:"url" %}
-                    {% if foundUrl != empty %}
-                        {% assign foundTitle = site.props | where:"relative_path", propPath | map:"title" %}
-                        <a href="{{ site.baseurl }}{{ foundUrl }}" class="button small round {% cycle 'default', 'success' %}">{{ foundTitle }}</a>
-                    {% else %}
-                        <a href="{{ site.baseurl }}props/{{ prop }}" class="button small round {% cycle 'default', 'success' %}">{{ prop }}</a>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-
-            {% if tagsLength > 0 %}
-                {% for tag in page.tags %}
-                    <span>{{tag}}</span>
-                {% endfor %}
-            {% endif %}
+        {% if propsLength > 0 %}
+            {% assign props = page.props | sort %}
+            {% for propCode in props %}
+                {% assign prop = site.allprops[propCode] %}
+                <a href="{{ site.baseurl }}props/{{ propCode }}" class="button small round {% cycle 'default', 'success' %}">{{ prop["title"] }}</a>
+            {% endfor %}
         {% else %}
             <p>Props haven't been listed for this concert yet. {% include contribute.html %}</p>
         {% endif %}

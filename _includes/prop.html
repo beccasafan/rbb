@@ -1,33 +1,16 @@
-{% assign prop = include.prop %}
-{% assign propPath = "_props/" | append:prop | append:".markdown" %}
-{% assign foundProps = site.props | where:"relative_path", propPath %}
-{% assign foundSize = foundProps | size %}
-{% if foundSize > 0 %}
-    {% assign foundProp = foundProps[0] %}
-    {% assign propTitle = foundProp.title %}
-    {% if foundProp.images %}
-        {% capture propImage %}{{site.baseurl}}content/media/props/{{prop}}/{{ foundProp.images[0] }}{% endcapture %}
-    {% else %}
-        {% capture propImage %}{{site.baseurl}}content/media/no-image.jpg{%endcapture%}
-    {% endif %}
-    {% capture propUrl %}{{site.baseurl}}{{foundProp.url}}{% endcapture %}
-{% else %}
-    {% assign propTitle = prop %}
-    {% capture propUrl %}{{site.baseurl}}props/{{prop}}{%endcapture%}
-    {% capture propImage %}{{site.baseurl}}content/media/no-image.jpg{%endcapture%}
-{% endif %}
-
+{% assign propData = site.allprops[include.prop] %}
+{% assign prop = propData[1] %}
 <li class="item">
     <div class="itemContainer">
         <div class="imgContainer">
             <div class="imgWrapper" data-equalizer-watch="image">
-                <a href="{{ propUrl }}">
-                    <img src="{{ propImage }}" />
+                <a href="{{ site.baseurl }}{{ prop[1]["url"] }}">
+                    <img src="{{site.baseurl}}content/media/{{ prop[1]["image"] }}" />
                 </a>
             </div>
         </div>
         <div class="text-center" data-equalizer-watch="title">
-            <div><a href="{{ propUrl }}">{{ propTitle }}</a></div>
+            <div><a href="{{ site.baseurl }}{{ prop[1]["url"] }}">{{ prop[1]["title"] }}</a></div>
         </div>
     </div>
 </li>

@@ -8,30 +8,30 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'prop.html')
       self.data['prop'] = prop
-      prop_title_prefix = site.config['prop_title_prefix'] || ''
-      prop_title_suffix = site.config['prop_title_suffix'] || ''
-      self.data['title'] = "#{prop_title_prefix}#{prop}#{prop_title_suffix}"
+      self.data['title'] = prop
     end
   end
   class PropsGenerator < Generator
-    include ::Jekyll::Itafroma
     safe true
     def generate(site)
       key = "props"
-      allProps = ::Jekyll::Itafroma::PostGroupsGenerator.new.post_key_hash(site, key, [])
-      site.config["allprops"] = allProps.map{ |p| p[0] }
-      if site.layouts.key? "prop"
-        dir = site.config['prop_dir'] || key
-        existingProps = site.collections[key].docs.map{ |d| d.basename_without_ext }
-        
-        for prop in allProps
-          exists = existingProps.include? prop[0]
-          if !exists
-            write_prop_index(site, File.join(dir, prop[0]), prop[0])
-          end
-        end
+      allProps = site.posts.flat_map { |p| p.data[key] }.uniq
+      allProps.delete(nil)
+      allProps = allProps.sort
+      
+      propsData = site.collections[key].docs.map { |doc| Hash["code", doc.basename_without_ext, "title", doc.data["title"], "url", doc.url, "image", doc.data.key?("images") ? "%s/%s/%s" % [key, doc.basename_without_ext, doc.data["images"][0]] : "no-image.jpg" ]}
+      propsHash = propsData.map{ |p| [p["code"], p]}.to_h
+      
+
+      existingProps = site.collections[key].docs.map{ |d| d.basename_without_ext }
+      for prop in allProps - existingProps
+        propsHash[prop] = Hash["code", prop, "title", prop, "url", "/props/" << prop, "image", "no-image.jpg"]
+        write_prop_index(site, File.join(key, prop), prop)
       end
+
+      site.config["all" << key] = propsHash
     end
+
     def write_prop_index(site, dir, prop)
       index = PropsIndex.new(site, site.source, dir, prop)
       index.render(site.layouts, site.site_payload)
