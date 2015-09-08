@@ -7,18 +7,18 @@ layout: default
     </div>
 
     <div class="images row">
-        {% if page.images %}
-            <div class="small-12 columns">
+        <div class="small-12 columns">
+            {% if page.images %}
                 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4 text-center">
                     {% for img in page.images %}
                         {% include bear-image.html img=img %}
                     {% endfor %}
                 </ul>
-            </div>
-            {% if page.imageCredits %}<p class="note">Picture credits: {% for credit in page.imageCredits %}<a href="{{ credit[1] }}">{{ credit[0] }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
-        {% else %}
-            <p>Images have not been added for this concert yet. {% include contribute.html %}</p>
-        {% endif %}
+                {% if page.imageCredits %}<p class="note">Picture credits: {% for credit in page.imageCredits %}<a href="{{ credit[1] }}">{{ credit[0] }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
+            {% else %}
+                <p>Images have not been added for this concert yet. {% include contribute.html %}</p>
+            {% endif %}
+        </div>
     </div>
 
     <hr>
