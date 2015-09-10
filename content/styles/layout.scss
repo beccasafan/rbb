@@ -1,12 +1,12 @@
 body:before {
-    top: 0; 
-    bottom: 0; 
-    left: 0; 
+    top: 0;
+    bottom: 0;
+    left: 0;
     right: 0;
     background: url('../media/background2.jpg');
     opacity: 0.5;
     position: fixed;
-    z-index: -1; 
+    z-index: -1;
     content: "";
     background-size: 100% 100%;
 }
@@ -94,6 +94,14 @@ nav.top-bar {
             @media (max-width: 385px) {
                 padding: 0.875rem .8rem .9375rem .8rem;
             }
+        }
+
+
+        #prevItem {
+          text-align: left;
+        }
+        #nextItem {
+          text-align: right;
         }
 
         #concerts, #props {
