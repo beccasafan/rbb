@@ -40,11 +40,12 @@ layout: default
 
     {% assign concertContent = page.content | strip_newlines %}
     {% if concertContent != empty %}
-        {{ page.content | markdownify }}
+        {{ page.content | liquify | markdownify }}
     {% else %}
         <p>No comments have been entered for this concert yet. {% include contribute.html %}</p>
     {% endif %}
 
+    <hr>
     <div id="pagination" class="row">
         <div id="prevItem" class="small-6 columns">
             {% if page.previous %}
