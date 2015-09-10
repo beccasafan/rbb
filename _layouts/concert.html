@@ -22,7 +22,7 @@ layout: default
     </div>
 
     <hr>
-    
+
     <div id="tags">
         {% assign propsLength = page.props | size %}
         {% if propsLength > 0 %}
@@ -44,4 +44,17 @@ layout: default
     {% else %}
         <p>No comments have been entered for this concert yet. {% include contribute.html %}</p>
     {% endif %}
+
+    <div id="pagination" class="row">
+        <div id="prevItem" class="small-6 columns">
+            {% if page.previous %}
+                <a href="{{ site.baseurl }}{{ page.previous.url }}"><< {{ page.previous.title }}</a>
+            {% endif %}
+        </div>
+        <div id="nextItem" class="small-6 columns">
+          {% if page.next %}
+                <a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} >></a>
+            {% endif %}
+        </div>
+    </div>
 </div>

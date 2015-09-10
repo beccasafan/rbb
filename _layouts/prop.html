@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+{% if page.prop %}
+    {% assign prop = page.prop %}
+{% else %}
+    {% assign propFolder = "_" | append:page.collection | append:"/" %}
+    {% assign prop = page.relative_path | replace:propFolder,"" | replace:".markdown","" %}
+{% endif %}
+
 <div class="page">
     <div class="text-center">
         <h2>{{ page.title }}</h2>
@@ -35,12 +42,6 @@ layout: default
         <div class="text-center">
             <h3>Concerts</h3>
         </div>
-            {% if page.prop %}
-                {% assign prop = page.prop %}
-            {% else %}
-                {% assign propFolder = "_" | append:page.collection | append:"/" %}
-                {% assign prop = page.relative_path | replace:propFolder,"" | replace:".markdown","" %}
-            {% endif %}
         <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
             {% for post in site.posts %}
                 {% if post.props contains prop %}
@@ -54,4 +55,22 @@ layout: default
         <hr>
         <p>View the product page for <a href="{{ page.purchaseLink }}">this item</a></p>
     {% endif %}
+
+    <hr>
+    <div id="pagination" class="row">
+        <div id="prevItem" class="small-6 columns">
+          {% assign previousCode = site.allprops[prop]["previous"] %}
+          {% if previousCode %}
+              {% assign previous = site.allprops[previousCode] %}
+              <a href="{{ site.baseurl }}{{ previous.url }}"><< {{ previous.title }}</a>
+          {% endif %}
+        </div>
+        <div id="nextItem" class="small-6 columns">
+          {% assign nextCode = site.allprops[prop]["next"] %}
+          {% if nextCode %}
+              {% assign next = site.allprops[nextCode] %}
+              <a href="{{ site.baseurl }}{{ next.url }}">{{ next.title }} >></a>
+          {% endif %}
+        </div>
+    </div>
 </div>

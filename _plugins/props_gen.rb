@@ -18,15 +18,24 @@ module Jekyll
       allProps = site.posts.flat_map { |p| p.data[key] }.uniq
       allProps.delete(nil)
       allProps = allProps.sort
-      
+
       propsData = site.collections[key].docs.map { |doc| Hash["code", doc.basename_without_ext, "title", doc.data["title"], "url", doc.url, "image", doc.data.key?("images") ? "%s/%s/%s" % [key, doc.basename_without_ext, doc.data["images"][0]] : "no-image.jpg" ]}
       propsHash = propsData.map{ |p| [p["code"], p]}.to_h
-      
+
 
       existingProps = site.collections[key].docs.map{ |d| d.basename_without_ext }
       for prop in allProps - existingProps
         propsHash[prop] = Hash["code", prop, "title", prop, "url", "/props/" << prop, "image", "no-image.jpg"]
         write_prop_index(site, File.join(key, prop), prop)
+      end
+
+      propsHash.each_with_index do |(key, value), index|
+        if index > 0
+          propsHash[key]["previous"] = propsHash.keys[index-1]
+        end
+        if index < propsHash.size - 1
+          propsHash[key]["next"] = propsHash.keys[index+1]
+        end
       end
 
       site.config["all" << key] = propsHash
