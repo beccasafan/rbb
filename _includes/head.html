@@ -22,7 +22,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} - {{site.title}}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}content/styles/main.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}content/styles/main.css?ts={{ site.time | date: '%s' }}">
     <link rel="stylesheet" herf="{{ site.baseurl }}content/styles/lightbox.css">
     <script src="{{ site.baseurl }}content/scripts/vendor/modernizr.js"></script>
     <meta name="description" content="{{ site.description }}" />
@@ -30,7 +30,7 @@
     {% if page.twitterCard.cardType %}
       <meta name="twitter:site" content="@beccasafan">
       <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
-      
+
       {% capture description %}{{ page.twitterCard.excerpt | liquify | strip_newlines | strip_html | truncate:200 }}{% endcapture %}
 
       {% capture image %}{{ site.url }}{{ site.baseurl }}content/media/icon.jpg{% endcapture %}
