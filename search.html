@@ -19,13 +19,18 @@ excerpt: "Use this page to see when props have appeared with RBB or SB."
             </div>&nbsp;<div class="label secondary"><label for="searchOr">match any selected prop</label></div>
         </div>
     </div>
+    <div class="row">
+      <div class="small-12 columns text-right">Link to this <a id="searchLink" href="#">Search</a></div>
+    </div>
     <p id="props" class="text-center">
         {% for propData in site.allprops %}
             {% assign prop = propData[1] %}
             <label class="prop label secondary" data-prop="{{ prop["code"] }}">{{ prop["title"] }}</label>
         {% endfor %}
     </p>
-
+    <div class="row">
+      <div class="small-12 columns text-right">Link to this <a id="searchLink2" href="#">Search</a></div>
+    </div>
     <div data-equalizer="title">
         <ul id="concerts" class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
             {% for post in site.posts %}
