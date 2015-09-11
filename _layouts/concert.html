@@ -10,9 +10,15 @@ layout: default
         <div class="small-12 columns">
             {% if page.images %}
                 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4 text-center">
-                    {% for img in page.images %}
-                        {% include bear-image.html img=img %}
-                    {% endfor %}
+                    {% if page.images.size > 0 %}
+                      {% for img in page.images %}
+                          {% include bear-image.html img=img %}
+                      {% endfor %}
+                    {% else %}
+                        <div class="imgWrapper">
+                          <img src="{{ site.baseurl }}content/media/no-bear.jpg" />
+                        </div>
+                    {% endif %}
                 </ul>
                 {% if page.imageCredits %}<p class="note">Picture credits: {% for credit in page.imageCredits %}<a href="{{ credit[1] }}">{{ credit[0] }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
             {% else %}
@@ -25,7 +31,7 @@ layout: default
 
     <div id="tags">
         {% assign propsLength = page.props | size %}
-        {% if propsLength > 0 %}
+        {% if page.props %}
             {% assign props = page.props | sort %}
             {% for propCode in props %}
                 {% assign prop = site.allprops[propCode] %}

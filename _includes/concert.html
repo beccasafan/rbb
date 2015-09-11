@@ -6,13 +6,13 @@
                 {% if concert.images %}
                     {% assign concertImage = concert.images[0] %}
                     <a href="{{ site.baseurl }}{{ concert.url }}">
-                        <img src="{{ site.baseurl }}content/media/{{ concert.url }}/{{ concertImage }}" />
+                        <img src="{{ site.baseurl }}content/media/{% if concertImage %}{{ concert.url }}/{{ concertImage }}{% else %}no-bear.jpg{% endif %}" />
                     </a>
                 {% else %}
                     <a href="{{ site.baseurl }}{{ concert.url }}">
                         <img src="{{ site.baseurl }}content/media/no-image.jpg" />
                     </a>
-                {% endif %}        
+                {% endif %}
             </div>
         </div>
         <div class="text-center" data-equalizer-watch="title">
