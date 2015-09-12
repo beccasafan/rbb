@@ -1,4 +1,7 @@
 ---
 title: Boston
 date: 2015-09-12
+images: []
+props: []
 ---
+Early reports indicate that RBB and SB are not at the show tonight.
