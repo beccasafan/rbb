@@ -37,7 +37,11 @@
 
       {% if page.twitterCard.cardType == "summary_large_image" %}
         {% if page.images %}
-          {% capture image %}{{ site.url }}{{ site.baseurl }}content/media/{{ page.url }}/{{ page.images[0] }}{% endcapture %}
+          {% if page.images.size > 0 %}
+            {% capture image %}{{ site.url }}{{ site.baseurl }}content/media/{{ page.url }}/{{ page.images[0] }}{% endcapture %}
+          {% else %}
+            {% capture image %}{{site.url}}{{site.baseurl}}content/media/no-bear.jpg{% endcapture %}
+          {% endif %}
           {% assign cardType = "summary_large_image" %}
         {% else %}
           {% assign cardType = "summary" %}
