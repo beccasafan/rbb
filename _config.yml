@@ -6,6 +6,7 @@ baseurl: "/rbb/" # the subpath of your site, e.g. /blog/
 url: "http://beccasafan.github.io" # the base hostname & protocol for your site
 twitter_username: beccasafan
 github_username:  beccasafan
+assets_version: 1
 
 # Build settings
 markdown: kramdown
