@@ -23,7 +23,7 @@ layout: default
                 </ul>
                 {% if page.imageCredits %}<p class="note">Picture credits: {% for credit in page.imageCredits %}<a href="{{ credit[1] }}">{{ credit[0] }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
             {% else %}
-                <p>Images have not been added for this concert yet. {% include contribute.html %}</p>
+                Images have not been added for this concert yet. {% include contribute.html %}
             {% endif %}
         </div>
     </div>
@@ -31,7 +31,6 @@ layout: default
     <hr>
 
     <div id="tags">
-        {% assign propsLength = page.props | size %}
         {% if page.props %}
             {% assign props = page.props | sort %}
             {% for propCode in props %}
@@ -43,7 +42,9 @@ layout: default
         {% endif %}
     </div>
 
+{% if page.props == nil or page.props.size > 0 %}
     <hr>
+{% endif %}
 
     {% assign concertContent = page.content | strip_newlines %}
     {% if concertContent != empty %}
