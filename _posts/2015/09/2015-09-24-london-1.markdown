@@ -1,7 +1,9 @@
 ---
 title: London
 date: 2015-09-24
-images: [both-closeup.jpg, both-side.jpg]
-props: [rbb, sb, studded-black-choker, aviators, freddie-mustache, wedding-dress, bondage-gear, picture-frame, wedding-present]
+images: [both-closeup.jpg, both-side.jpg, sb-bride-to-be.jpg]
+props: [rbb, sb, studded-black-choker, aviators, freddie-mustache, wedding-dress, bondage-gear, picture-frame, wedding-present, larry-grayson, bride-to-be-hat]
 ---
 RBB and SB are holding hands...and getting married?!
+
+The picture frame has a picture of Larry Grayson, a British TV personality who was closeted. His catchphrase was "what a gay day".
