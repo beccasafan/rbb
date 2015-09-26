@@ -3,3 +3,4 @@ title: London
 images: [blue-mad.jpg]
 props: [blue-mad-sticker]
 ---
+The bears weren't there for tonight's concert. However, after the concert, it was discovered that a blue angry sticker was placed where the bears would have been.
