@@ -1,5 +1,4 @@
 ---
 title: London
-images: []
-props: []
+date: 2015-09-30
 ---
