@@ -14,17 +14,17 @@ layout: default
     </div>
 
     <div class="images row">
+      <div class="small-12 columns">
         {% if page.images %}
-            <div class="small-12 columns">
                 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4 text-center">
                     {% for img in page.images %}
                         {% include bear-image.html img=img %}
                     {% endfor %}
                 </ul>
-            </div>
         {% else %}
             <p>Images have not been added for this prop yet. {% include contribute.html %}</p>
         {% endif %}
+      </div>
     </div>
 
     <hr>
