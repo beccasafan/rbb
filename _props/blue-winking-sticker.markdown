@@ -1,0 +1,3 @@
+---
+title: Blue Winking Sticker
+---
