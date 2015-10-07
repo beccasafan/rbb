@@ -1,4 +1,19 @@
 ---
 title: Glasgow
 date: 2015-10-07
+images: [both-front.jpg, both-closeup-blurry.jpg, both-front-blurry.jpg, both-front-further-away.jpg, third-bear.jpg, stickers.jpg, quentin-crisp-closeup.jpg]
+props: [rbb, sb, third-bear, bondage-gear, aviators, freddie-mustache, black-teddie-mercury-hat, green-happy-sticker, blue-tongue-sticker, watch, pipe, red-happy-sticker, studded-black-choker, suit, scottish-dress-tartan, bible, book, gardening, picture-frame, quentin-crisp, irn-bru]
+imageCredits:
+  harreehloueeh: http://harreehloueeh.tumblr.com/post/130692276687/rbb-tonight-omg-credit-if-you-use-it-thanks
 ---
+The [third bear]({{ site.baseurl }}/props/third-bear) is back, as is the [red happy sticker]({{ site.baseurl }}/props/red-happy-sticker) we've seen with this bear before.
+
+Both RBB and the third bear are wearing a watch.
+
+The picture frame has a photo of Quentin Crisp. Crisp worked as a rent-boy and had feminine tendencies like painting his nails and wearing make-up. Another fun fact - Crisp was a raconteur. Now whose Twitter bio have we seen that in, hmm... Another tie-in to previous themes is that Crisp criticized Princess Diana.
+
+The third bear is in a suit with a bible. Fandom speculation has mentioned priest/minister and judge. RBB is wearing Scottish Dress Tartan, typically used for big or special occasions. There are several possibilities we've seen at prior concerts: wedding, court, war?
+
+The gardening book could mean seeding? As in stories being seeded in the press and with fans?
+
+Irn Bru is a Scottish drink, and the can is labeled sugar-free. Freedom is something we've seen referenced in the past. They are said to innovative and controversial marketing techniques, which could possibly relate to 1DHQ. Does it relate to Sugar Bear / Louis?
