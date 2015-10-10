@@ -2,7 +2,7 @@
 title: Glasgow
 date: 2015-10-07
 images: [both-front.jpg, both-closeup-blurry.jpg, both-front-blurry.jpg, both-front-further-away.jpg, third-bear.jpg, stickers.jpg, quentin-crisp-closeup.jpg]
-props: [rbb, sb, third-bear, bondage-gear, aviators, freddie-mustache, black-teddie-mercury-hat, green-happy-sticker, blue-tongue-sticker, watch, pipe, red-happy-sticker, studded-black-choker, suit, scottish-dress-tartan, bible, book, gardening, picture-frame, quentin-crisp, irn-bru]
+props: [rbb, sb, third-bear, bondage-gear, aviators, freddie-mustache, black-teddie-mercury-hat, green-happy-sticker, blue-tongue-sticker, watch, pipe, red-happy-sticker, studded-black-choker, suit, scottish-dress-tartan, bible, book, gardening, picture-frame, quentin-crisp, irn-bru, kilt]
 imageCredits:
   harreehloueeh: http://harreehloueeh.tumblr.com/post/130692276687/rbb-tonight-omg-credit-if-you-use-it-thanks
 ---
