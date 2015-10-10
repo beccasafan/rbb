@@ -1,3 +1,3 @@
 ---
-title: Sugar Bear
+title: Sugar Baby Bear
 ---
