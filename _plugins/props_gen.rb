@@ -26,7 +26,6 @@ module Jekyll
       existingProps = site.collections[key].docs.map{ |d| d.basename_without_ext }
       for prop in allProps - existingProps
         propsHash[prop] = Hash["code", prop, "title", prop, "url", "/props/" << prop, "image", "no-image.jpg"]
-        puts "generating" << prop
         write_prop_index(site, File.join(key, prop), prop)
       end
 
