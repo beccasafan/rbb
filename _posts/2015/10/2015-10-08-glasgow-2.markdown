@@ -1,5 +1,5 @@
 ---
-title: Glasgow
+title: Glasgow 2
 date: 2015-10-08
 imageCredits:
   wereamanbandnow : http://wereamanbandnow.tumblr.com/post/130758028547/otra-glasgow-81015

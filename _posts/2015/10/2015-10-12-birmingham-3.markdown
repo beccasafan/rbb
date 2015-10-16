@@ -1,5 +1,5 @@
 ---
-title: Birmingham
+title: Birmingham 3
 date: 2015-10-12
 images: [both-front.jpg, rbb-closeup.jpg, sbb-closeup.jpg, rbb-closeup2.jpg, photo-closeup.jpg, eyelashes-closeup.jpg]
 props: [rbb, sb, bondage-gear, aviators, picture-frame, ladybug-costume, green-happy-sticker, blue-happy-sticker, railcard-couple-promotion, earrings, studded-black-choker, laurie-williams]

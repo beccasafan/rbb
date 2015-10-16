@@ -1,4 +1,4 @@
 ---
-title: Manila
+title: Manila 1
 date: 2015-03-21
 ---

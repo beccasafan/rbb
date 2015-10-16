@@ -1,5 +1,5 @@
 ---
-title: Osaka
+title: Osaka 2
 date: 2015-02-25
 images: [front.png]
 props: [rbb, black-lace-up-boots, cape, pink-bandana, studded-black-choker, pink-hello-kitty-chair, chop-sticks, freddie-mustache]

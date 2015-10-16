@@ -1,5 +1,5 @@
 ---
-title: Sydney
+title: Sydney 2
 date: 2015-02-08
 images: [side.png]
 props: [rbb, camo-shorts, white-shirt, black-lace-up-boots, camo-hat, studded-black-choker, studded-armband, earrings, aviators, freddie-mustache]

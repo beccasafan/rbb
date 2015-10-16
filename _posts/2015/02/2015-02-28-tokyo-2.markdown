@@ -1,4 +1,4 @@
 ---
-title: Tokyo
+title: Tokyo 2
 date: 2015-02-28
 ---

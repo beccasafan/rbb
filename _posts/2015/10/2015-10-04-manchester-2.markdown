@@ -1,5 +1,5 @@
 ---
-title: Manchester
+title: Manchester 2
 date: 2015-10-04
 images: [both-side.jpg, photo-closeup.jpg]
 props: [rbb, sb, black-teddie-mercury-hat, pink-hello-kitty-chair, blue-winking-sticker, green-happy-sticker, bondage-gear, aviators, picture-frame, reading-glasses, john-inman, claire-richards, book, leather-chaps, harley-jacket, studded-black-choker]

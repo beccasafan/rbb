@@ -1,5 +1,5 @@
 ---
-title: London
+title: London 1
 date: 2015-09-24
 images: [both-closeup.jpg, both-side.jpg, sb-bride-to-be.jpg]
 props: [rbb, sb, studded-black-choker, aviators, freddie-mustache, wedding-dress, bondage-gear, picture-frame, wedding-present, larry-grayson, bride-to-be-hat]
