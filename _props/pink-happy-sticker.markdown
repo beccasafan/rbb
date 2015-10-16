@@ -1,0 +1,3 @@
+---
+title: Pink Happy Sticker
+---

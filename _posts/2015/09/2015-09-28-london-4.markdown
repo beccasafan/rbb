@@ -1,5 +1,6 @@
 ---
 title: London
-images: []
-props: []
+images: [sticker.jpg]
+props: [pink-happy-sticker]
 ---
+The bears did not make an appearance, again. Similar to [the previous concert]({{ site.baseurl }}{% post_url 2015/09/2015-09-26-london-3 %}){:target="_blank"}, there was a sticker at the soundbooth. Today's is a pink happy sticker, and it was with the 5 "Reserved LT" seats.
