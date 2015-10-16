@@ -9,7 +9,7 @@ excerpt: All the props that have ever been seen with RBB or SB
 
     <div id="props" data-equalizer="image">
         <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="title">
-            {% assign props = site.allprops | sort %}
+            {% assign props = site.allprops %}
             {% for prop in props %}
                 {% include prop.html prop = post %}
             {% endfor %}

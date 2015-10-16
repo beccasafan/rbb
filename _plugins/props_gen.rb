@@ -26,8 +26,11 @@ module Jekyll
       existingProps = site.collections[key].docs.map{ |d| d.basename_without_ext }
       for prop in allProps - existingProps
         propsHash[prop] = Hash["code", prop, "title", prop, "url", "/props/" << prop, "image", "no-image.jpg"]
+        puts "generating" << prop
         write_prop_index(site, File.join(key, prop), prop)
       end
+
+      propsHash = propsHash.sort_by { |key, value| value["title"] }.to_h
 
       propsHash.each_with_index do |(key, value), index|
         if index > 0
@@ -37,7 +40,6 @@ module Jekyll
           propsHash[key]["next"] = propsHash.keys[index+1]
         end
       end
-
       site.config["all" << key] = propsHash
     end
 
