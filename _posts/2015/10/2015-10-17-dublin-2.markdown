@@ -3,3 +3,4 @@ title: Dublin 2
 date: 2015-10-17
 images: [pre-concert.jpg]
 props: [rbb, sb, aviators, studded-black-choker, bondage-gear, green-happy-sticker, freddie-mustache, green-sparkly-fedora, irish-step-dancer-costume]
+---
