@@ -1,4 +1,9 @@
 ---
 title: Dublin 3
 date: 2015-10-18
+images: [no-rbb.jpg]
+props: [pink-hello-kitty-chair, horse, pail, money, zloty, hand, cell-phone, nokia-phone, custom-label]
 ---
+Once again, RBB and SBB weren't at the concert. The [horse]({{site.baseurl}}props/horse){:target="_blank"} appeared with a [cell phone]({{site.baseurl}}props/cell-phone){:target="_blank"} (a [Nokia]({{site.baseurl}}props/nokia-phone){:target="_blank"} again). There is a different [label]({{site.baseurl}}props/custom-label){:target="_blank"} on the phone, but unfortunately I'm not aware of any pictures that show the text clearly enough to read. Joining the [Zloty]({{site.baseurl}}props/zloty){:target="_blank"} in the [pail]({{site.baseurl}}props/pail){:target="_blank"} this time, there is a [hand]({{site.baseurl}}props/hand){:target="_blank"}).
+
+Fandom speculation is that this represents a cash grab...?
