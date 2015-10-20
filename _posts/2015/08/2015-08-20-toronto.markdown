@@ -2,7 +2,7 @@
 title: Toronto
 date: 2015-08-20
 images: [both-front.jpg, both-side-left.png, both-side-right.png, beaver.jpg]
-props: [rbb, sb, black-boots, black-lace-up-boots, rainbow-tutu, bondage-gear, bear-boxers, harley-jacket, rainbow-tshirt, silver-sparkly-fedora, studded-black-choker, aviators, toilet, toilet-paper, toilet-bowl-brush, pail, lysol, blue-happy-sticker, green-happy-sticker, freddie-mustache, divine-eyebrows, red-angry-sticker, beaver, hand]
+props: [rbb, sb, black-boots, black-lace-up-boots, rainbow-tutu, bondage-gear, bear-boxers, harley-jacket, rainbow-tshirt, silver-sparkly-fedora, studded-black-choker, aviators, toilet, toilet-paper, toilet-bowl-brush, pail, lysol, blue-happy-sticker, green-happy-sticker, freddie-mustache, divine-eyebrows, red-angry-sticker, beaver]
 imageCredits:
     CanuckLarrie: https://twitter.com/CanuckLarrie/status/634481638873952256
 ---
@@ -10,4 +10,4 @@ RBB and SB are buckling down and doing some cleaning today! I think an important
 
 There is a new Red sticker on the toilet, and while it isn't clearly visibly in photos I've seen, multiple reports from fans at the concert said it was an "angry" sticker.
 
-Placed away from the bears, there is a [beaver]({{site.baseurl}}props/beaver){:target="_blank"} with a [hand]({{site.baseurl}}props/hand){:target="_blank"}. Doesn't seem like the fandom knows what to take from this, what are your thoughts?
+Placed away from the bears, there is a [beaver]({{site.baseurl}}props/beaver){:target="_blank"} (squirrel?). A friend of RBB and SBB??
