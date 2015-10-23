@@ -4,7 +4,7 @@ date: 2015-10-23
 images: [twitter.jpg]
 props: []
 ---
-The countdown continues! The background on the phone screenshot is a rainbow 2. Oh my my, these apps! Here's a list of the apps. I'm also adding titles, descriptions, links to the iTunes store, and meanings for each app (because yeah...), but give me a bit to do that, oy!!
+The countdown continues! The background on the phone screenshot is a rainbow 2. The screenshot is from an iPhone 5, and this is the 5th page of apps. Oh my my, these apps! Here's a list of the apps. I'm also adding titles, descriptions, links to the iTunes store, and meanings for each app (because yeah...), but give me a bit to do that, oy!!
 
 - Spartacus
 - Underwear
