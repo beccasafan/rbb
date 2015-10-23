@@ -26,3 +26,5 @@ The countdown continues! The background on the phone screenshot is a rainbow 2. 
 - eBay
 - British Airways
 - Domino's
+
+[Let me know]({{site.baseurl}}contribute) what you think each app means!
