@@ -1,7 +1,7 @@
 ---
 title: Newcastle 1
 date: 2015-10-25
-images: [hibernation.jpg]
+images: [hibernation.jpg, both-front.jpg, both-side.jpg, both-sbb.jpg]
 ---
 The bears are coming out of hibernation, so shall we expect to see them at the show tonight? What will their outfits and props be?
 
