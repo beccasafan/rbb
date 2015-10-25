@@ -2,10 +2,16 @@
 title: Newcastle 1
 date: 2015-10-25
 images: [both-front.jpg, both-side.jpg, both-sbb.jpg, hibernation.jpg]
-props: [rbb, sb, aviators, gold-crown, aviators, bondage-gear, green-happy-sticker, book, danny-la-rue, blue-happy-sticker, red-happy-sticker, salon-chair]
+props: [rbb, sb, aviators, gold-crown, aviators, bondage-gear, green-happy-sticker, book, danny-la-rue, blue-happy-sticker, red-happy-sticker, salon-chair, heeled-black-boots]
 ---
 The bears are coming out of hibernation, so shall we expect to see them at the show tonight? What will their outfits and props be?
 
 Fandom speculation seems to be focusing on the idea that this doesn't mean Louis and Harry will actually come out tonight, but that perhaps this is the start of it. Will they interact on stage? Will we see them together outside of concerts? Will they get papped together? I guess we'll just have to wait and see!
 
 The use of the Chicago Bears logo has intrigued some fans, given their rivalry to the Green Bay Packers (Harry's team). The image is a top search result for "bears coming out", so I think it's a happy coincidence. The Bears use it as the start of each season, implying that the off-season is when they were hibernating and now they're ready to play (American) football.
+
+RBB is sitting on a [salon chair]({{site.baseurl}}props/salon-chair){:target="_blank"} and there is a [red happy sticker]({{site.baseurl}}props/red-happy-sticker){:target="_blank"} on the back of the chair. There have been a number of articles released yesterday and today stating that Liam and Sophia have broken up. No official rep confirmation so far, just sources and insiders. If "Sophiam" was a PR relationship, does this refer to Liam's beard being shaved off?
+
+The [La Rue book]({{site.baseurl}}props/danny-la-rue){:target="_blank"} book is back (first time shown in concert, but it was shown via the official Twitter account's profile image). Does that mean we missed something? Apparently so! La Rue used to be a baker! Do we know anyone in the band who used to be a baker? Hmm. Nope. Don't think I can think of anybody...oy, Harry! We're sorry we missed that the first time. Another tie-in just discovered is that La Rue played in Aladdin (not the movie) with [Larry Grayson]({{site.baseurl}}props/larry-grayson){:target="_blank"}.
+
+Why is ***everything*** always so damn connected?!
