@@ -2,12 +2,14 @@
 title: Newcastle 2
 date: 2015-10-26
 images: [both-closeup.jpg, both-side.jpg, both-side-2.jpg, both-side-3.jpg]
-props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker, yellow-happy-sticker]
+props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker]
 ---
 Hello there, bears! Quite the level up we've seen from them lately.
 
 RBB is wearing a football kit today, representing Newcastle United, Juventus, a referee, or possibly just being the uniform Build A Bear sells. There have been articles recently that 2 Premier League players are set to come out as gay. Are RBB and SBB giving a nod to that news?
 
 The rainbow ball that SBB is sitting on gets the spin treatment today. What's with all the spinning lately?
+
+It isn't clear whether the 2nd sticker is green or yellow. Hopefully we'll get a better picture. What color do you think it is?
 
 [Tell me your theories!]({{site.baseurl}}contribute)
