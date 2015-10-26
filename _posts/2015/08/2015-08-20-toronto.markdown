@@ -1,8 +1,8 @@
 ---
 title: Toronto
 date: 2015-08-20
-images: [both-front.jpg, both-side-left.png, both-side-right.png, beaver.jpg]
-props: [rbb, sb, black-boots, black-lace-up-boots, rainbow-tutu, bondage-gear, bear-boxers, harley-jacket, rainbow-tshirt, silver-sparkly-fedora, studded-black-choker, aviators, toilet, toilet-paper, toilet-bowl-brush, pail, lysol, blue-happy-sticker, green-happy-sticker, freddie-mustache, divine-eyebrows, red-angry-sticker, beaver]
+images: [both-front.jpg, both-side-left.png, both-side-right.png, beaver.jpg, red-sticker-1.jpg, red-sticker-2.jpg]
+props: [rbb, sb, black-boots, black-lace-up-boots, rainbow-tutu, bondage-gear, bear-boxers, harley-jacket, rainbow-tshirt, silver-sparkly-fedora, studded-black-choker, aviators, toilet, toilet-paper, toilet-bowl-brush, pail, lysol, blue-happy-sticker, green-happy-sticker, freddie-mustache, divine-eyebrows, red-happy-sticker, beaver]
 imageCredits:
     CanuckLarrie: https://twitter.com/CanuckLarrie/status/634481638873952256
 ---
