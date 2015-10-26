@@ -2,7 +2,7 @@
 title: Newcastle 2
 date: 2015-10-26
 images: [both-closeup.jpg, both-side.jpg, both-side-2.jpg, both-side-3.jpg]
-props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker]
+props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker, yellow-happy-sticker]
 ---
 Hello there, bears! Quite the level up we've seen from them lately.
 
@@ -10,6 +10,6 @@ RBB is wearing a football kit today, representing Newcastle United, Juventus, a 
 
 The rainbow ball that SBB is sitting on gets the spin treatment today. What's with all the spinning lately?
 
-It isn't clear whether the 2nd sticker is green or yellow. Hopefully we'll get a better picture. What color do you think it is?
+It isn't clear whether the 2nd sticker is green or yellow. Hopefully we'll get a better picture. What color do you think it is? ...new picture, looks yellow - do you agree or disagree?
 
 [Tell me your theories!]({{site.baseurl}}contribute)
