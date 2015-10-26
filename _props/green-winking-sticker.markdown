@@ -1,0 +1,3 @@
+---
+title: Green Winking Sticker
+---

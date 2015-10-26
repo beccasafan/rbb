@@ -2,7 +2,7 @@
 title: Newcastle 2
 date: 2015-10-26
 images: [both-closeup.jpg, both-side.jpg, both-side-2.jpg, both-side-3.jpg, after.jpg]
-props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker, green-happy-sticker]
+props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker, green-winking-sticker]
 ---
 Hello there, bears! Quite the level up we've seen from them lately.
 
