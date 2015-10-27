@@ -1,6 +1,6 @@
 ---
 title: Edmonton
 date: 2015-07-21
-images: [both-side.png]
-props: [rbb, sb, heeled-black-boots, red-chucks, black-vest, rainbow-tshirt, bondage-gear, sparkly-pink-pants, sombrero, red-cowboy-hat, studded-black-choker, earrings, aviators, pearl-necklace, pink-beats, astroturf, mushrooms, fishing-pole-with-fish, freddie-mustache]
+images: [both-side.png, both-side.jpg]
+props: [rbb, sb, heeled-black-boots, red-chucks, black-vest, rainbow-tshirt, bondage-gear, sparkly-pink-pants, sombrero, red-cowboy-hat, studded-black-choker, earrings, aviators, pearl-necklace, pink-beats, astroturf, mushrooms, fishing-pole-with-fish, freddie-mustache, yellow-happy-sticker]
 ---

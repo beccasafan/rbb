@@ -1,6 +1,6 @@
 ---
 title: Winnipeg
 date: 2015-07-24
-images: [both-side.png]
+images: [both-side.png, both-side.jpg]
 props: [rbb, sb, red-chucks, heeled-black-boots, rainbow-tshirt, bondage-gear, sombrero, red-cowboy-hat, studded-black-choker, aviators, pearl-necklace, earrings, unicorn, freddie-mustache]
 ---
