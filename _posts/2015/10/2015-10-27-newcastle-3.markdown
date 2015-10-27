@@ -1,7 +1,7 @@
 ---
 title: Newcastle 3
 date: 2015-10-27
-images: [both-front.jpg, rbb.jpg, sbb.jpg, picture-frame.png, joan-rivers-book.png]
+images: [both-front.jpg, rbb.jpg, sbb.jpg, picture-frame.png, joan-rivers-book.png, unknown-picture.jpg]
 props: [rbb, sb, bondage-gear, football, aviators, silver-sparkly-crown, studded-black-choker, gold-crown, pink-hello-kitty-chair, flower-lights, horse, book, joan-rivers, athletic-shoes, picture-frame, laurie-williams]
 ---
 RBB is reading Joan River's book [I Hate Everyone...Starting with Me](http://www.amazon.com/I-Hate-Everyone-Starting-Me/dp/0425255891){:target="_blank"}. Rivers was a longtime LGBT ally, and was ordained to perform gay marriages. One of her catch prhases was "Can we talk".
@@ -9,3 +9,5 @@ RBB is reading Joan River's book [I Hate Everyone...Starting with Me](http://www
 Our "unknown" picture frame is back. After the second time it appeared, the fandom seemed decided that it was [Laurie Williams]({{site.baseurl}}props/laurie-williams){:target="_blank"} based on connections. Now that the picture is back for a third time, does that indicate we were wrong?
 
 We've got spinning again - it looks like RBB and SBB really do share that. Today, RBB spins.
+
+[Tell me your theories!]({{site.baseurl}}contribute)
