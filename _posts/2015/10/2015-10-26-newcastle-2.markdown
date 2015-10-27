@@ -2,7 +2,7 @@
 title: Newcastle 2
 date: 2015-10-26
 images: [both-closeup.jpg, both-side.jpg, both-side-2.jpg, both-side-3.jpg, after.jpg]
-props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker, green-winking-sticker]
+props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker, green-winking-sticker, yellow-happy-sticker]
 ---
 Hello there, bears! Quite the level up we've seen from them lately.
 
@@ -12,6 +12,6 @@ The rainbow ball that SBB is sitting on gets the spin treatment today. Check out
 
 It isn't clear whether the 2nd sticker is green or yellow. Hopefully we'll get a better picture. What color do you think it is? ...new picture, looks yellow - do you agree or disagree?
 
-After the concert, RBB [tweeted](){:target="_blank"} a picture showing that the other sticker is clearly green. Now everybody go figure out who's holding RBB!
+After the concert, RBB [tweeted](){:target="_blank"} a picture showing that the other sticker is clearly green. So either the sticker was always green, or I suppose there's the possibility it was switched, but... Now everybody go figure out who's holding RBB!
 
 [Tell me your theories!]({{site.baseurl}}contribute)
