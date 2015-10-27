@@ -2,7 +2,7 @@
 title: Birmingham 1
 date: 2015-10-10
 images: [rbb-side-closeup.jpg, both-front.jpg, both-side.jpg]
-props: [rbb, sb, picture-frame, aviators, pink-hello-kitty-chair, gold-crown, pink-sneakers, studded-black-choker, lunch-menu, money, picture-frame, us-marine-corps-costume, white-shirt]
+props: [rbb, sb, picture-frame, aviators, pink-hello-kitty-chair, gold-crown, pink-sneakers, studded-black-choker, lunch-menu, money, picture-frame, us-marine-corps-costume, white-shirt, laurie-williams]
 ---
 Right before the concert, an "official" twitter account was discovered. The account was followed first by Josh (the drummer) and the profile and header pictures were pictures the fandom had not seen. The account's [first tweet](https://twitter.com/Rbbsbbofficial/status/652891111455870976){:target="_blank"} was a picture of rainbow pizza, from a [story about an Indiana pizza shop that won't provide pizzas for a gay wedding](http://www.thegatewaypundit.com/2015/04/indiana-pizza-joint-says-they-wont-cater-to-gay-weddings-internet-explodes/){:target="_blank"}.
 
