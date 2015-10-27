@@ -35,7 +35,7 @@ nav.top-bar {
             }
         }
         .not-tiniest {
-            @media (min-width: 385px) and (max-width: 419px) {
+            @media (min-width: 385px) and (max-width: 444px) {
                 font-size: .9em;
             }
             @media (min-width: 350px) and (max-width: 384px) {
@@ -48,8 +48,15 @@ nav.top-bar {
     }
 
     .top-bar-section li:not(.has-form) a:not(.button) {
-        @media (min-width: 641px) and (max-width: 665px) {
+        @media (min-width: 695px) and (max-width: 725px) {
             padding: 0 .7rem;
+        }
+        @media (min-width: 670px) and (max-width: 694px) {
+            padding: 0 .5rem;
+        }
+        @media (min-width: 625px) and (max-width: 669px) {
+            padding: 0 .34rem;
+            font-size: .80rem;
         }
     }
 }
