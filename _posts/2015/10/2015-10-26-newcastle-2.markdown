@@ -1,8 +1,10 @@
 ---
 title: Newcastle 2
 date: 2015-10-26
-images: [both-closeup.jpg, both-side.jpg, both-side-2.jpg, both-side-3.jpg, after.jpg]
-props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker, green-winking-sticker, yellow-happy-sticker]
+images: [both-really-close.jpg, both-closeup.jpg, both-side.jpg, both-side-2.jpg, both-side-3.jpg, after.jpg]
+props: [rbb, sb, aviators, gold-crown, silver-sparkly-crown, salon-chair, bondage-gear, studded-black-choker, rainbow-ball, football, football-kit, football-shoes, freddie-mustache, blue-winking-sticker, green-winking-sticker]
+imageCredits:
+  gxccihaz: http://gxccihaz.tumblr.com/post/131987792714/gxccihaz-when-you-get-a-selfie-with-rbb
 ---
 Hello there, bears! Quite the level up we've seen from them lately.
 
@@ -10,8 +12,8 @@ RBB is wearing a football kit today, representing Newcastle United, Juventus, a 
 
 The rainbow ball that SBB is sitting on gets the spin treatment today. Check out [this video](https://twitter.com/1991ftBoo/status/658741666745065472){:target="_blank"} taken by a fan. What's with all the spinning lately?
 
-It isn't clear whether the 2nd sticker is green or yellow. Hopefully we'll get a better picture. What color do you think it is? ...new picture, looks yellow - do you agree or disagree?
+There was some initial confusion over the color of the non-blue sticker. Green? Yellow? It was the dress fiasco all over again! After the concert, RBB himself [tweeted](https://twitter.com/Rbbsbbofficial/status/658781788244975616){:target="_blank"} out an image that clearly showed the sticker was green. Thanks RBB! Holding on to the yellow hope, it was floated that possibly the sticker was switched. Wouldn't be the shadiest thing 'round these parts. However, additional pictures came out after the show that revealed the sticker was always green.
 
-After the concert, RBB [tweeted](){:target="_blank"} a picture showing that the other sticker is clearly green. So either the sticker was always green, or I suppose there's the possibility it was switched, but... Now everybody go figure out who's holding RBB!
+Now, who is that holding RBB?!
 
 [Tell me your theories!]({{site.baseurl}}contribute)
