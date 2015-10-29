@@ -1,7 +1,13 @@
 ---
 title: Sheffield 1
 date: 2015-10-29
-images: [twitter.jpg]
-props: []
+images: [rbb-front-closeup.jpg, rbb-closeup.jpg, both-bright.jpg, opposite.jpg, certificate.png, certificate.jpg, feet-stickers.jpg, salon-sticker.jpg, twitter.jpg]
+props: [rbb, sbb, certificate, salon-chair, gold-crown, silver-sparkly-crown, bondage-gear, aviators, freddie-mustache, harley-jacket, rainbow-shirt, heeled-black-boots, blue-happy-sticker, green-happy-sticker, leather-chaps, studded-black-choker]
 ---
 Around the time that gates were scheduled to open, RBB [tweeted](https://twitter.com/Rbbsbbofficial/status/659800563274678272){:target="_blank"} a riddle. The riddle references a hotel room, and adding up money. A syndicated article has been all over (around 80ish articles at this point) about [The Sun's story that Louis trashed a hotel room and got kicked out](){:target="_blank"}. So, fandom speculation pretty quickly agreed that the bears are referring to the this story, that there was money involved, and that things don't add up. The fandom agrees completely! Also of note, this riddle comes up as the first result on Google when searching for "hotel room riddle". Nice and subtle, right? Oy.
+
+SBB has given RBB a certificate for being fabulous. This references RBB's [tweet](https://twitter.com/Rbbsbbofficial/status/659420881018626048){:target="_blank"} from yesterday.
+
+RBB is spinning again today. Here's [a video](http://happy1days.tumblr.com/post/132161272373/ittybird-sheffield-1){:target="_blank"} taken by a fan.
+
+[Tell me your theories!]({{site.baseurl}}contribute)
