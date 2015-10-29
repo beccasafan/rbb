@@ -2,7 +2,7 @@
 title: Newcastle 3
 date: 2015-10-27
 images: [both-front.jpg, rbb.jpg, sbb.jpg, picture-frame.png, joan-rivers-book.png, unknown-picture.jpg, before.jpg]
-props: [rbb, sb, bondage-gear, football, aviators, silver-sparkly-crown, studded-black-choker, gold-crown, pink-hello-kitty-chair, flower-lights, horse, book, joan-rivers, athletic-shoes, picture-frame, steve-phillips, freddie-mustache, football-kit]
+props: [rbb, sb, bondage-gear, football, aviators, silver-sparkly-crown, studded-black-choker, gold-crown, pink-hello-kitty-chair, flower-lights, horse, book, joan-rivers, athletic-shoes, picture-frame, steve-phillips, freddie-mustache, football-kit, earrings]
 ---
 Before the concert, RBB and SBB [tweeted](https://twitter.com/Rbbsbbofficial/status/659036050522832896){:target="_blank"} that they were out on the town visiting Newcastle United!
 
