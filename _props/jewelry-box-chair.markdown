@@ -1,0 +1,3 @@
+---
+title: Jewelry Box Chair
+---
