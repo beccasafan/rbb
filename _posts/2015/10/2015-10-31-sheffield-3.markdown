@@ -1,8 +1,8 @@
 ---
 title: Sheffield 3
 date: 2015-10-31
-images: [both-side.jpg, sbb-closeup.jpg, rbb-closeup.jpg, rbb-front.jpg, green-sticker-closeup.jpg, hq-watch.jpg, hq-rbb.jpg, hq-sbb.jpg, hq-spun.jpg, blue-sad-sticker.jpg, hq-green-sticker.jpg, hq-blue-sticker.jpg]
-props: [rbb, sb, aviators, freddie-mustache, gold-crown, silver-sparkly-crown, jewelry-box-chair, divine-eyebrows, iphone, custom-label, watch, green-happy-sticker, heeled-black-boots, pumpkin, blue-sad-sticker, green-sad-sticker, vampire-costume, red-dress]
+images: [both-side.jpg, sbb-closeup.jpg, rbb-closeup.jpg, rbb-front.jpg, green-sticker-closeup.jpg, hq-watch.jpg, hq-rbb.jpg, hq-sbb.jpg, hq-spun.jpg, blue-sad-sticker.jpg, hq-green-sticker.jpg, hq-blue-sticker.jpg, bracelet.jpg]
+props: [rbb, sb, aviators, freddie-mustache, gold-crown, silver-sparkly-crown, jewelry-box-chair, divine-eyebrows, iphone, custom-label, watch, green-happy-sticker, heeled-black-boots, pumpkin, blue-sad-sticker, green-sad-sticker, vampire-costume, red-dress, fans-against-bullying]
 ---
 RBB and SBB dressed up for Halloween! RBB still has his phone. A fan [recorded the voicemail greeting](http://pumpkinau.tumblr.com/post/132286749108){:target="_blank"} when calling the number.
 
