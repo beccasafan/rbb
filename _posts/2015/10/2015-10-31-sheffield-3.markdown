@@ -1,4 +1,7 @@
 ---
 title: Sheffield 3
 date: 2015-10-31
+images: [both-side.jpg]
+props: [rbb, sb, aviators, freddie-mustache, gold-crown, silver-sparkly-crown, jewelry-box-chair, divine-eyebrows, iphone, custom-label, watch, ]
 ---
+RBB and SBB dressed up for Halloween! RBB still has his phone.
