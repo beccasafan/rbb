@@ -4,7 +4,7 @@ date: 2015-11-08
 tweet: 663367597744889856
 props: [rbb, gold-crown, aviators, earrings, freddie-mustache, studded-black-choker, rainbow-tshirt, belt, harley-jacket, heeled-black-boots, leather-chaps]
 ---
-RBB seems to be in a car again today, but this photo is cropped very tightly. Black seats with beige piping. The fandom was unable to determine the car (and who it might belong to) from the tightly cropped photo.
+RBB seems to be in a car again today, but this photo is cropped very tightly. Black seats with beige piping. The fandom was unable to determine the car (and who it might belong to) from the tightly cropped photo. The reflection visible in the sunglasses makes it look like the picture was possibly taken in a garage and that a car door is possibly open. 
 
 The [gold crown]({{site.baseurl}}props/gold-crown){:target="_blank"} has both the blue and green gems facing forward, instead of the green gem being front and center.
 
