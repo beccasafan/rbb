@@ -31,7 +31,7 @@
 
       <meta name="twitter:site" content="@beccasafan">
       <meta name="twitter:title" content="Ottawa 2 - 1D Rainbow Bondage Bear &amp; Sugar Baby Bear">
-
+      
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="http://beccasafan.github.io/rbb/content/media/no-bear.jpg">
     <meta name="twitter:description" content="Concert. 2015-09-09 Just like last night’s concert, RBB and SB were missing. Given the concert was in the same venue, and fandom speculation is that the usual stage area for the bears has had to be...">
@@ -52,6 +52,12 @@
       ga('create', 'UA-67071810-1', 'auto');
       ga('send', 'pageview');
 
+    </script>
+    <script>
+      window.q = [];
+      window.$ = function(f) {
+        q.push(f);
+      };
     </script>
 </head>
 
@@ -145,6 +151,9 @@
     lightbox.option({
         alwaysShowNavOnTouchDevices: true
     });
+</script>
+<script>
+  $.each(q, function(index, f) { $(f); });
 </script>
 <script src="/rbb/content/scripts/search.js?v=1"></script>
 

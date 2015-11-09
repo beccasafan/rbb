@@ -31,7 +31,7 @@
 
       <meta name="twitter:site" content="@beccasafan">
       <meta name="twitter:title" content="Ottawa 1 - 1D Rainbow Bondage Bear &amp; Sugar Baby Bear">
-
+      
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="http://beccasafan.github.io/rbb/content/media/no-bear.jpg">
     <meta name="twitter:description" content="Concert. 2015-09-08 Our friends Rainbow Bondage Bear and Sugar Bear are not present tonight. This is an arena show, as opposed to the stadiums we’ve seen elsewhere on OTRA. As such, the stage has b...">
@@ -52,6 +52,12 @@
       ga('create', 'UA-67071810-1', 'auto');
       ga('send', 'pageview');
 
+    </script>
+    <script>
+      window.q = [];
+      window.$ = function(f) {
+        q.push(f);
+      };
     </script>
 </head>
 
@@ -145,6 +151,9 @@
     lightbox.option({
         alwaysShowNavOnTouchDevices: true
     });
+</script>
+<script>
+  $.each(q, function(index, f) { $(f); });
 </script>
 <script src="/rbb/content/scripts/search.js?v=1"></script>
 
