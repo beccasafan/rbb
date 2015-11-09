@@ -1,0 +1,7 @@
+---
+title: Tweet 4
+date: 2015-10-11 13:00
+tweet: 653338206256164864
+props: [rbb, sb, harley-jacket, bondage-gear, aviators, freddie-mustache, leather-chaps]
+---
+Another brick wall, this time with both RBB and SBB. Does this reference [Stonewall and fighting back](http://unintentionalarry.tumblr.com/post/130986224765/stonewall-means-fight-back){:target="_blank"}?

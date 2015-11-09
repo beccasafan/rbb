@@ -1,0 +1,7 @@
+---
+title: Tweet 5
+date: 2015-10-11 19:00
+tweet: 653346522080354304
+props: [rbb, aviators, earrings, studded-black-choker, freddie-mustache, harley-jacket]
+---
+For a fun time, analyze the hand and what you see in the reflection of the aviators. Louis? Harry?

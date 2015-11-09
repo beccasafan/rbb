@@ -1,0 +1,13 @@
+---
+title: Tweet 13
+date: 2015-10-24
+tweet: 657918084532051968
+props: [iphone, cell-phone]
+---
+One! The bear has 1 message. Everyone paying attention??
+
+The iTunes Store app is very clearly marked. We've had new music so very recently, but could there be more tomorrow?
+
+The app barely show at the bottom...um...?!
+
+<iframe src="https://widgets.itunes.apple.com/widget.html?c=us&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=&t=&m=software&e=software,iPadSoftware&w=250&h=300&ids=404445256&wt=discovery&partnerId=&affiliate_id=&at=&ct=" frameborder="0" style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe>

@@ -1,0 +1,13 @@
+---
+title: Newcastle 3
+date: 2015-10-27 13:00
+images: [both-front.jpg, rbb.jpg, sbb.jpg, picture-frame.png, joan-rivers-book.png, unknown-picture.jpg]
+props: [rbb, sb, bondage-gear, football, aviators, silver-sparkly-crown, studded-black-choker, gold-crown, pink-hello-kitty-chair, flower-lights, horse, book, joan-rivers, athletic-shoes, picture-frame, steve-phillips, freddie-mustache, football-kit, earrings, jewelry-box-chair]
+---
+RBB is reading Joan River's book [I Hate Everyone...Starting with Me](http://www.amazon.com/I-Hate-Everyone-Starting-Me/dp/0425255891){:target="_blank"}. Rivers was a longtime LGBT ally, and was ordained to perform gay marriages. One of her catch prhases was "Can we talk".
+
+Our "unknown" picture frame is back. After the second time it appeared, the fandom seemed decided that it was Laurie Williams based on possible details that could point at Irving Azoff (Just Us Guys). Now that the picture is back for a third time, does that indicate we were wrong? Yes, it does mean that. The fandom has been able to track it down and it is 100% confirmed that it is [Steve Phillips (Stella Artois)]({{site.baseurl}}props/steve-phillips){:target="_blank"}. See that page for why it is so important to show us multiple times so we'd get it correct.
+
+We've got spinning again - it looks like RBB and SBB really do share that. Today, RBB spins.
+
+[Tell me your theories!]({{site.baseurl}}contribute)

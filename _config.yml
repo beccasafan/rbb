@@ -30,11 +30,31 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "concert"
-      permalink: "concerts/:year/:month/:title"
       twitterCard:
         cardType: summary_large_image
-        excerpt: "Concert. {{ page.date | date: '%Y-%m-%d' }}{% if page.excerpt %} {{ page.excerpt }}{% endif %}"
+        excerpt: "{{ page.custom }}. {{ page.date | date: '%Y-%m-%d' }}{% if page.content %} {{ page.content | markdownify | strip_html | truncatewords: 50 }}{% endif %}"
+  -
+    scope:
+      path: "concerts"
+      type: "posts"
+    values:
+      layout: "concert"
+      permalink: "concerts/:year/:month/:title"
+  -
+    scope:
+      path: "tweets"
+      type: "posts"
+    values:
+      images: [tweet.jpg]
+      layout: "tweet"
+      permalink: "tweets/:year/:month/:title"
+  -
+    scope:
+      path: "appearances"
+      type: "posts"
+    values:
+      layout: "concert"
+      permalink: "appearances/:year/:month/:title"
   -
     scope:
       path: ""
@@ -44,7 +64,7 @@ defaults:
       layout: prop
       twitterCard:
         cardType: summary_large_image
-        excerpt: "Prop.{% if page.content %} {{ page.content | strip_html | truncatewords: 50 }}{% endif %}"
+        excerpt: "Prop.{% if page.content %} {{ page.content | markdownify | strip_html | truncatewords: 50 }}{% endif %}"
   -
     scope:
       path: ""

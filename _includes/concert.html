@@ -1,10 +1,14 @@
 {% assign concert = include.concert %}
+{% assign images = concert.images %}
+{% assign prefix = concert.url | split: '/' %}
+{% if prefix[1] == "tweets" "%}{% assign images = 'tweet.jpg' | split: ' ' %}{% endif %}
+
 <{{include.element}} class="item">
     <div class="itemContainer">
         <div class="imgContainer">
             <div class="imgWrapper" data-equalizer-watch="image">
-                {% if concert.images %}
-                    {% assign concertImage = concert.images[0] %}
+                {% if images %}
+                    {% assign concertImage = images[0] %}
                     <a href="{{ site.baseurl }}{{ concert.url }}">
                         <img src="{{ site.baseurl }}content/media/{% if concertImage %}{{ concert.url }}/{{ concertImage }}{% else %}no-bear.jpg{% endif %}" />
                     </a>

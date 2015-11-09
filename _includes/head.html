@@ -30,7 +30,6 @@
     {% if page.twitterCard.cardType %}
       <meta name="twitter:site" content="@beccasafan">
       <meta name="twitter:title" content="{{ page.title }} - {{ site.title }}">
-
       {% capture description %}{{ page.twitterCard.excerpt | liquify | strip_newlines | strip_html | truncate:200 }}{% endcapture %}
 
       {% capture image %}{{ site.url }}{{ site.baseurl }}content/media/icon.jpg{% endcapture %}
@@ -72,5 +71,11 @@
       ga('create', 'UA-67071810-1', 'auto');
       ga('send', 'pageview');
 
+    </script>
+    <script>
+      window.q = [];
+      window.$ = function(f) {
+        q.push(f);
+      };
     </script>
 </head>

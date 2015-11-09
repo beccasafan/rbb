@@ -1,0 +1,61 @@
+---
+layout: default
+custom: Tweet
+---
+<div class="post">
+  <div class="title text-center">
+    <h2>{{ page.title }}</h2>
+    <h3><small>{{ page.date | date: "%A, %Y-%m-%d" }}</small></h3>
+  </div>
+
+  <div id="tweet">
+
+  </div>
+  <div class="text-center">
+    <a href="https://twitter.com/rbbsbbofficial/status/{{ page.tweet }}" target="_blank">(link)</a>
+  </div>
+
+  <hr />
+
+  <div id="tags">
+      {% if page.props %}
+          {% assign props = page.props | sort %}
+          {% for propCode in props %}
+              {% assign prop = site.allprops[propCode] %}
+              <a href="{{ site.baseurl }}props/{{ propCode }}" class="button small round {% cycle 'default', 'success' %}">{{ prop["title"] }}</a>
+          {% endfor %}
+      {% else %}
+          <p>Props haven't been listed for this concert yet. {% include contribute.html %}</p>
+      {% endif %}
+  </div>
+
+{% if page.props == nil or page.props.size > 0 %}
+  <hr>
+{% endif %}
+
+  {% assign tweetContent = page.content | strip_newlines %}
+  {% if tweetContent != empty %}
+    {{ page.content | liquify | markdownify }}
+  {% else %}
+    <p>No comments have been entered for this tweet yet. {% include contribute.html %}</p>
+  {% endif %}
+
+  <div id="pagination" class="row">
+      <div id="prevItem" class="small-6 columns">
+          {% if page.previous %}
+              <a href="{{ site.baseurl }}{{ page.previous.url }}"><< {{ page.previous.title }}</a>
+          {% endif %}
+      </div>
+      <div id="nextItem" class="small-6 columns">
+        {% if page.next %}
+              <a href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} >></a>
+          {% endif %}
+      </div>
+  </div>
+</div>
+<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script>
+  $(function() {
+    twttr.widgets.createTweet('{{ page.tweet }}', document.getElementById("tweet"), { align: 'center' });
+  });
+</script>

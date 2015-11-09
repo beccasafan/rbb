@@ -1,0 +1,7 @@
+---
+title: Tweet 8
+date: 2015-10-17 01:00
+tweet: 655394126368780288
+props: [rbb, sb, aviators, studded-black-choker, bondage-gear, green-happy-sticker, freddie-mustache, green-sparkly-fedora, irish-step-dancer-costume]
+---
+Posted prior to the concert, the bears are honoring the Irish today! RBB is wearing an [Irish Step Dancer costume]({{site.baseurl}}props/irish-step-dancer-costume){:target="_blank"}, and Sugar Baby Bear has a [green sparkly fedora]({{site.baseurl}}props/green-sparkly-fedora){:target="_blank"}. We can also see a [green happy sticker]({{site.baseurl}}props/green-happy-sticker){:target="_blank"}. The bears apparently got all dressed up with nowhere to go, because they were not at the concert.

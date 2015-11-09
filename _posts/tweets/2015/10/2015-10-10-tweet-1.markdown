@@ -1,0 +1,7 @@
+---
+title: Tweet 1
+date: 2015-10-10 01:00
+tweet: 652891111455870976
+props: []
+---
+Right before the concert, an "official" twitter account was discovered. The account was followed first by Josh (the drummer) and the profile and header pictures were pictures the fandom had not seen. The account's first tweet was a picture of rainbow pizza, from a [story about an Indiana pizza shop that won't provide pizzas for a gay wedding](http://www.thegatewaypundit.com/2015/04/indiana-pizza-joint-says-they-wont-cater-to-gay-weddings-internet-explodes/){:target="_blank"}.
