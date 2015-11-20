@@ -1,0 +1,6 @@
+---
+title: Tweet 25
+date: 2015-11-19 01:00
+tweet: 667519221442568192
+props: [rbb, harley-jacket, do-i-look-like-i-fly-economy-button, aviators, black-teddie-mercury-hat, studded-black-choker, freddie-mustache, leather-chaps, heeled-black-boots, village-people]
+---

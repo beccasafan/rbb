@@ -1,0 +1,6 @@
+---
+title: Tweet 27
+date: 2015-11-19 13:00
+tweet: 667519280758439937
+props: [rbb, black-teddie-mercury-hat, aviators, freddie-mustache, harley-jacket, leather-chaps, do-i-look-like-i-fly-economy-button, heeled-black-boots, judy-garland]
+---
