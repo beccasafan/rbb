@@ -2,5 +2,5 @@
 title: Tweet 26
 date: 2015-11-19 07:00
 tweet: 667519253793247232
-props: [rbb, aviators, earrings, studded-black-choker, harley-jacket, liberace]
+props: [rbb, aviators, earrings, studded-black-choker, harley-jacket, liberace, hollywood-walk-of-fame]
 ---
