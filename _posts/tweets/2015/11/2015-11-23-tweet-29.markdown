@@ -2,6 +2,6 @@
 title: Tweet 29
 date: 2015-11-23
 tweet: 668688538515300352
-props: [rbb, gold-crown, aviators, freddie-mustache, studded-black-choker, white-shirt, rainbow-flag]
+props: [rbb, gold-crown, aviators, freddie-mustache, studded-black-choker, white-shirt, rainbow-flag, wine-glass]
 ---
 RBB appears to be celebrating after One Direction won 2 awards at the AMA's! Yay! Also, uh, hello there, rainbow flag!!
