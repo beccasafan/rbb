@@ -2,7 +2,7 @@
 title: Tweet 31 - Walk Like a Man
 date: 2015-11-28
 tweet: 670811223219437568
-props: [rbb, pink-beats, reading-glasses, laptop, divine]
+props: [rbb, earrings, reading-glasses, laptop, divine]
 ---
 RBB (and presumably SBB - come say hi, SBB!) are back in LA according to their updated Twitter profile location.
 
