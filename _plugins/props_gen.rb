@@ -43,6 +43,7 @@ module Jekyll
     end
 
     def write_prop_index(site, dir, prop)
+      puts prop
       index = PropsIndex.new(site, site.source, dir, prop)
       index.render(site.layouts, site.site_payload)
       index.write(site.dest)
