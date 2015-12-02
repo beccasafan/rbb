@@ -1,4 +1,4 @@
 ---
-title: Divine
+title: Rainbow Shot Glass
 images: [main.jpg]
 ---

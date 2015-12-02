@@ -1,0 +1,9 @@
+---
+title: Dallas
+date: 2015-12-01 13:00
+tweet: 671821583544025089
+props: [rbb, sb, gold-crown, earrings, book, judy-garland, aviators, bondage-gear, gold-scepter, heeled-black-boots, rainbow-shot-glass]
+---
+The bears went to Dallas with the guys for Jingle Ball! So happy that SBB made the trip this time too! The Twitter profile location was updated to Dallas just before the picture was tweeted.
+
+RBB and SBB are hanging out on a sofa  or seat of some sort. RBB is reading [Judy Garland, by Anne Edwards](http://www.goodreads.com/book/show/2972684-judy-garland){:target="_blank"}. While RBB is educating himself, SBB is partying it up with a [rainbow shot glass]({{site.baseurl}}props/rainbow-shot-glass){:target="_blank"}. Just what ya drinking there, SBB? [Judy Garland]({{site.baseurl}}props/judy-garland){:target="_blank"} is no stranger to the bears. She's been [referenced a number of times already]({{site.baseurl}}props/judy-garland){:target="_blank"}, and for reasons already hypothesized on those pages, is very important to the bears.
