@@ -17,7 +17,7 @@ module Jekyll
       key = "props"
       allProps = site.posts.flat_map { |p| p.data[key] }.uniq
       allProps.delete(nil)
-      allProps = allProps.sort
+      allProps = allProps.sort_by(&:downcase)
 
       propsData = site.collections[key].docs.map { |doc| Hash["code", doc.basename_without_ext, "title", doc.data["title"], "url", doc.url, "image", doc.data.key?("images") ? "%s/%s/%s" % [key, doc.basename_without_ext, doc.data["images"][0]] : "no-image.jpg" ]}
       propsHash = propsData.map{ |p| [p["code"], p]}.to_h
@@ -29,7 +29,7 @@ module Jekyll
         write_prop_index(site, File.join(key, prop), prop)
       end
 
-      propsHash = propsHash.sort_by { |key, value| value["title"] }.to_h
+      propsHash = propsHash.sort_by { |key, value| value["title"].downcase }.to_h
 
       propsHash.each_with_index do |(key, value), index|
         if index > 0

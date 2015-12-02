@@ -2,7 +2,7 @@
 title: Tweet 3
 date: 2015-10-10 19:00
 tweet: 652985185017970688
-props: [rbb, gold-crown, aviators, freddie-mustache, studded-black-choker, white-shirt, marine-corps-costume, pink-sneakers, ]
+props: [rbb, gold-crown, aviators, freddie-mustache, studded-black-choker, white-shirt, us-marine-corps-costume, pink-sneakers, ]
 ---
 RBB went out clubbing!!! The fandom discovered that drag queens [@boosutcliffe](https://twitter.com/boosutcliffe){:target="_blank"} and [@AmberCadaverous](https://twitter.com/ambercadaverous){:target="_blank"} are pictured with RBB, at Missing, one of Birmingham's gay village's most popular bars.
 

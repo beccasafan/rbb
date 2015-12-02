@@ -2,7 +2,7 @@
 title: Tweet 2
 date: 2015-10-10 13:00
 tweet: 652976289922596864
-props: [rbb, gold-crown, aviators, studded-black-choker, white-shirt, marine-corps-costume, pink-sneakers, freddie-mustache, ]
+props: [rbb, gold-crown, aviators, studded-black-choker, white-shirt, us-marine-corps-costume, pink-sneakers, freddie-mustache, ]
 ---
 The 'official' twitter account might actually be official. We've now got a tweet of RBB in his concert outfit, but after the concert in a different setting. Hard to fake by fans!
 
