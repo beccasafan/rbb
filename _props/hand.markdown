@@ -1,3 +1,4 @@
 ---
 title: Hand
+propCategories: [props]
 ---

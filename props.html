@@ -2,17 +2,33 @@
 title: Props
 excerpt: All the props that have ever been seen with RBB or SB
 ---
+{% capture openBlock %}<div data-equalizer="title"><ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">{% endcapture %}
+
 <div class="page">
     <div class="text-center">
         <h2>{{ page.title }}</h2>
     </div>
 
-    <div id="props" data-equalizer="image">
-        <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="title">
-            {% assign props = site.allprops %}
-            {% for prop in props %}
-                {% include prop.html prop = post %}
+    <div id="props">
+      {% for propCategory in site.allpropCategories %}
+        {% assign propCategoryData = propCategory[1] %}
+        <h3>{{ propCategoryData["title"] }}</h3>
+        {% if propCategoryData.content %}
+          <p>{{ propCategoryData.content | markdownify }}</p>
+        {% endif %}
+
+        <div data-equalizer="title">
+          <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="title">
+            {% for currentProp in site.props %}
+              {% if currentProp["propCategories"] == nil %}{% assign propCategories = "untagged" %}{% else %}{% assign propCategories = currentProp["propCategories"] %}{% endif %}
+              {% if propCategories contains propCategoryData["code"] %}
+                {% assign _propFolder = "_props/" %}
+                {% assign _propCode = currentProp.relative_path | replace:_propFolder,"" | replace:".markdown","" %}
+                {% include prop.html prop=_propCode %}
+              {% endif %}
             {% endfor %}
-        </ul>
+          </ul>
+        </div>
+      {% endfor %}
     </div>
 </div>

@@ -1,3 +1,4 @@
 ---
 title: Table
+propCategories: [furniture]
 ---

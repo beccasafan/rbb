@@ -1,3 +1,4 @@
 ---
 title: Watch
+propCategories: [accessories]
 ---

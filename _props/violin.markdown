@@ -1,3 +1,4 @@
 ---
 title: Violin
+propCategories: [props]
 ---

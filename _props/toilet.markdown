@@ -1,3 +1,4 @@
 ---
 title: Toilet
+propCategories: [furniture]
 ---

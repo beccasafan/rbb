@@ -1,3 +1,4 @@
 ---
 title: Mic
+propCategories: [props]
 ---

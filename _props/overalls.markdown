@@ -1,3 +1,4 @@
 ---
 title: Overalls
+propCategories: [clothing]
 ---

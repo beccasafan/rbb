@@ -1,3 +1,4 @@
 ---
 title: Zloty
+propCategories: [props]
 ---

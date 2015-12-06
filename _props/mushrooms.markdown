@@ -1,3 +1,4 @@
 ---
 title: Mushrooms
+propCategories: [props]
 ---

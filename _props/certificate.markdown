@@ -1,3 +1,4 @@
 ---
 title: Certificate
+propCategories: [props]
 ---

@@ -1,3 +1,4 @@
 ---
 title: Pipe
+propCategories: [props]
 ---

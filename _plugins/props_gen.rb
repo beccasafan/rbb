@@ -1,50 +1,65 @@
 module Jekyll
-  class PropsIndex < Page
-    def initialize(site, base, dir, prop)
+  class ItemsIndex < Page
+    def initialize(site, base, dir, item, template)
       @site = site
       @base = base
       @dir = dir
       @name = 'index.html'
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'prop.html')
-      self.data['prop'] = prop
-      self.data['title'] = prop
+      self.read_yaml(File.join(base, "_layouts"), "%s.html" % [template])
+      self.data[template] = item
+      self.data["title"] = item
     end
   end
-  class PropsGenerator < Generator
+
+  class ItemsGenerator < Generator
     safe true
     def generate(site)
-      key = "props"
-      allProps = site.posts.flat_map { |p| p.data[key] }.uniq
-      allProps.delete(nil)
-      allProps = allProps.sort_by(&:downcase)
+      site.config["varGroups"].each do |group|
+        isCollection = group["isCollection"]
+        collectionParent = group["collectionParent"]
+        varName = group["varName"]
+        template = group["template"]
+        sortBy = group["sortBy"]
+        permalink = group["permalink"]
+        saveContent = group["saveContent"]
 
-      propsData = site.collections[key].docs.map { |doc| Hash["code", doc.basename_without_ext, "title", doc.data["title"], "url", doc.url, "image", doc.data.key?("images") ? "%s/%s/%s" % [key, doc.basename_without_ext, doc.data["images"][0]] : "no-image.jpg" ]}
-      propsHash = propsData.map{ |p| [p["code"], p]}.to_h
-
-
-      existingProps = site.collections[key].docs.map{ |d| d.basename_without_ext }
-      for prop in allProps - existingProps
-        propsHash[prop] = Hash["code", prop, "title", prop, "url", "/props/" << prop, "image", "no-image.jpg"]
-        write_prop_index(site, File.join(key, prop), prop)
+        groupVariable(site, isCollection, collectionParent, varName, template, sortBy, permalink, saveContent)
       end
-
-      propsHash = propsHash.sort_by { |key, value| value["title"].downcase }.to_h
-
-      propsHash.each_with_index do |(key, value), index|
-        if index > 0
-          propsHash[key]["previous"] = propsHash.keys[index-1]
-        end
-        if index < propsHash.size - 1
-          propsHash[key]["next"] = propsHash.keys[index+1]
-        end
-      end
-      site.config["all" << key] = propsHash
     end
 
-    def write_prop_index(site, dir, prop)
-      puts prop
-      index = PropsIndex.new(site, site.source, dir, prop)
+    def groupVariable(site, isCollection, collectionParent, varName, template, sortBy, permalink, saveContent)
+      allItems = (isCollection ? site.collections[collectionParent].docs : site.posts).flat_map { |p| p.data[varName] }.uniq
+      allItems.delete(nil)
+      allItems = allItems.sort_by(&:downcase)
+      categoryName = template + "Categories"
+
+      itemsData = site.collections[varName].docs.map { |doc| Hash["code", doc.basename_without_ext, "title", doc.data["title"], "url", doc.url, "image", doc.data.key?("images") ? "%s/%s/%s" % [varName, doc.basename_without_ext, doc.data["images"][0]] : "no-image.jpg", categoryName, doc.data[categoryName], "content", saveContent ? doc.content : "", "order", doc.data["order"] ]}
+      itemsHash = itemsData.map { |p| [p["code"], p]}.to_h
+
+      existingItems = site.collections[varName].docs.map { |d| d.basename_without_ext }
+      for item in allItems - existingItems
+        itemsHash[item] = Hash["code", item, "title", item, "url", "/%s/" % [varName] << item, "image", "no-image.jpg"]
+        write_item_index(site, File.join(permalink || varName, item), item, template)
+      end
+
+      itemsHash = itemsHash.sort_by { |key, value| (value[sortBy] || "zzzzzzzzzzzzzzzz").to_s.downcase }.to_h
+
+      itemsHash.each_with_index do |(key, value), index|
+        if index > 0
+          itemsHash[key]["previous"] = itemsHash.keys[index-1]
+        end
+        if index < itemsHash.size - 1
+          itemsHash[key]["next"] = itemsHash.keys[index+1]
+        end
+      end
+      site.config["all" << varName] = itemsHash
+    end
+
+    def write_item_index(site, dir, item, template)
+      puts "%s: %s" % [template, item]
+
+      index = ItemsIndex.new(site, site.source, dir, item, template)
       index.render(site.layouts, site.site_payload)
       index.write(site.dest)
       site.pages << index

@@ -2,6 +2,8 @@
 title: Concerts
 excerpt: Images and props listed out for each concert.
 ---
+{% capture openBlock %}<div data-equalizer="title"><ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">{% endcapture %}
+
 <div class="page">
     <div class="text-center">
         <h2>{{ page.title }}</h2>
@@ -17,8 +19,7 @@ excerpt: Images and props listed out for each concert.
             {% if forloop.first %}
                 <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
                 <h3 id="{{ this_year }}-{{ this_month }}-ref">{{ this_month }}</h3>
-                <div data-equalizer="title">
-                    <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
+                {{ openBlock }}
             {% endif %}
 
             {% include concert.html concert=post element="li" %}
@@ -32,15 +33,13 @@ excerpt: Images and props listed out for each concert.
                 </div>
                 <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
                 <h3 id="{{ next_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
-                <div data-equalizer="title">
-                    <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
-                {% else %}    
+                {{ openBlock }}
+                {% else %}
                     {% if this_month != next_month %}
                         </ul>
                     </div>
                     <h3 id="{{ this_year }}-{{ next_month }}-ref">{{ next_month }}</h3>
-                    <div data-equalizer="title">
-                        <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
+                    {{ openBlock }}
                     {% endif %}
                 {% endif %}
             {% endif %}

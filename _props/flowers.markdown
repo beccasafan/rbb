@@ -1,3 +1,4 @@
 ---
 title: Flowers
+propCategories: [props]
 ---

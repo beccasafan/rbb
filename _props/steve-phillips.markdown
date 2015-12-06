@@ -1,6 +1,7 @@
 ---
 title: Steve Phillips (Stella Artois)
 images: [in-frame.jpg, flyer.jpg]
+propCategories: [people]
 ---
 This was quite the difficult connection for the fandom to get! This picture was seen at [Birmingham 1]({{site.baseurl}}{% post_url concerts/2015/10/2015-10-10-birmingham-1 %}){:target="_blank"}, [Birmingham 3]({{site.baseurl}}{% post_url concerts/2015/10/2015-10-12-birmingham-3 %}){:target="_blank"}, and [Newcastle 3]({{site.baseurl}}{% post_url concerts/2015/10/2015-10-27-newcastle-3  %}){:target="_blank"}. There was no clue who it was until after the second time we saw the pic. Turns out, nope. Two weeks later the picture was used again, and this time we finally got it!
 

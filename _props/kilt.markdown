@@ -1,3 +1,4 @@
 ---
 title: Kilt
+propCategories: [clothing]
 ---

@@ -1,16 +1,16 @@
 {% assign propData = site.allprops[include.prop] %}
-{% assign prop = propData[1] %}
+{% assign propInclude = propData %}
 <li class="item">
     <div class="itemContainer">
         <div class="imgContainer">
             <div class="imgWrapper" data-equalizer-watch="image">
-                <a href="{{ site.baseurl }}{{ prop[1]["url"] }}">
-                    <img src="{{site.baseurl}}content/media/{{ prop[1]["image"] }}" />
+                <a href="{{ site.baseurl }}{{ propInculde["url"] }}">
+                    <img src="{{site.baseurl}}content/media/{{ propInclude["image"] }}" />
                 </a>
             </div>
         </div>
         <div class="text-center" data-equalizer-watch="title">
-            <div><a href="{{ site.baseurl }}{{ prop[1]["url"] }}">{{ prop[1]["title"] }}</a></div>
+            <div><a href="{{ site.baseurl }}{{ propInclude["url"] }}">{{ propInclude["title"] }}</a></div>
         </div>
     </div>
 </li>

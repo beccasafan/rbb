@@ -1,3 +1,4 @@
 ---
 title: ATV
+propCategories: [props]
 ---

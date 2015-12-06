@@ -1,3 +1,4 @@
 ---
 title: Earrings
+propCategories: [accessories]
 ---

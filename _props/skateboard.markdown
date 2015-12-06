@@ -1,3 +1,4 @@
 ---
 title: Skateboard
+propCategories: [props]
 ---

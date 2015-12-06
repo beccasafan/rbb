@@ -1,3 +1,4 @@
 ---
 title: Laptop
+propCategories: [props]
 ---

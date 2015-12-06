@@ -1,3 +1,4 @@
 ---
 title: Toothbrush
+propCategories: [props]
 ---

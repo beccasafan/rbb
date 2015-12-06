@@ -1,3 +1,4 @@
 ---
 title: Potatoes
+propCategories: [props]
 ---

@@ -1,3 +1,4 @@
 ---
 title: Trumpet
+propCategories: [props]
 ---

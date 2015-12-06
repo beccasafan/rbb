@@ -1,3 +1,4 @@
 ---
 title: Lysol
+propCategories: [props]
 ---

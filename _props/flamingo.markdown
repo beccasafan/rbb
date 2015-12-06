@@ -1,3 +1,4 @@
 ---
 title: Flamingo
+propCategories: [props]
 ---

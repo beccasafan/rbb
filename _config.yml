@@ -17,6 +17,23 @@ exclude: ["old"]
 collections:
   props:
     output: true
+  propCategories:
+    output: true
+
+varGroups:
+  -
+    isCollection: false
+    varName: "props"
+    template: "prop"
+    sortBy: "title"
+  -
+    isCollection: true
+    collectionParent: "props"
+    varName: "propCategories"
+    template: "propCategory"
+    sortBy: "order"
+    permalink: "prop-categories"
+    saveContent: true
 
 sass:
   sass_dir: content/styles/
@@ -65,6 +82,16 @@ defaults:
       twitterCard:
         cardType: summary_large_image
         excerpt: "Prop.{% if page.content %} {{ page.content | markdownify | strip_html | truncatewords: 50 }}{% endif %}"
+  -
+    scope:
+      path: ""
+      type: propCategories
+      layout: propCategory
+    values:
+      permalink: "prop-categories/:path/"
+      twitterCard:
+        cardType: summary
+        excerpt: "Prop Category.{% if page.content %} {{ page.content | markdownify | strip_html | truncatewords: 5] }}{% endif %}"
   -
     scope:
       path: ""

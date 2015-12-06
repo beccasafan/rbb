@@ -1,3 +1,4 @@
 ---
 title: Book
+propCategories: [props]
 ---

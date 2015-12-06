@@ -1,3 +1,4 @@
 ---
 title: Swimsuit
+propCategories: [clothing]
 ---

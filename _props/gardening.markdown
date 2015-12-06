@@ -1,3 +1,4 @@
 ---
 title: Gardening
+propCategories: [props]
 ---

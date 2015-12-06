@@ -1,3 +1,4 @@
 ---
 title: Tiara
+propCategories: [headwear]
 ---

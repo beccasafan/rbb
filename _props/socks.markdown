@@ -1,3 +1,4 @@
 ---
 title: Socks
+propCategories: [footwear]
 ---

@@ -1,3 +1,4 @@
 ---
 title: Football
+propCategories: [props]
 ---

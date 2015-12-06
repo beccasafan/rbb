@@ -1,3 +1,4 @@
 ---
 title: Unicorn
+propCategories: [props]
 ---

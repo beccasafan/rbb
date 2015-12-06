@@ -1,3 +1,4 @@
 ---
 title: HCPL
+propCategories: [props]
 ---

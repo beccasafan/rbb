@@ -1,5 +1,6 @@
 ---
 title: iPhone
+propCategories: [props]
 ---
 The phone used at [Sheffield 2]({{site.baseurl}}{% post_url concerts/2015/10/2015-10-30-sheffield-2 %}){:target="_blank"} was an iPhone 4. The charger, the old fonts and Passbook app still being in iOS7 were clues.
 

@@ -1,3 +1,4 @@
 ---
 title: Liberace
+propCategories: [people]
 ---

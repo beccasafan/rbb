@@ -1,3 +1,4 @@
 ---
 title: Horse
+propCategories: [props]
 ---

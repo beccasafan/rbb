@@ -1,3 +1,4 @@
 ---
 title: Sporran
+propCategories: [accessories]
 ---

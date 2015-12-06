@@ -1,3 +1,4 @@
 ---
 title: Tux
+propCategories: [clothing]
 ---

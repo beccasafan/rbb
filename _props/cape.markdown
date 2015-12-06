@@ -1,3 +1,4 @@
 ---
 title: Cape
+propCategories: [clothing]
 ---

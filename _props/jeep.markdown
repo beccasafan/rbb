@@ -1,3 +1,4 @@
 ---
 title: Jeep
+propCategories: [props]
 ---

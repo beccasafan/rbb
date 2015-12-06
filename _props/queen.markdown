@@ -1,3 +1,4 @@
 ---
 title: Queen
+propCategories: [people]
 ---

@@ -1,3 +1,4 @@
 ---
 title: Sombrero
+propCategories: [headwear]
 ---

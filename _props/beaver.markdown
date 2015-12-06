@@ -1,3 +1,4 @@
 ---
 title: Beaver
+propCategories: [props]
 ---

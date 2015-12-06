@@ -1,3 +1,4 @@
 ---
 title: Money
+propCategories: [props]
 ---

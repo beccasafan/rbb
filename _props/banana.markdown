@@ -1,3 +1,4 @@
 ---
 title: Banana
+propCategories: [props]
 ---

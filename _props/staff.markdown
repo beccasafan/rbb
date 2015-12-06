@@ -1,3 +1,4 @@
 ---
 title: Staff
+propCategories: [props]
 ---

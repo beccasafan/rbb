@@ -1,3 +1,4 @@
 ---
 title: Towel
+propCategories: [accessories]
 ---

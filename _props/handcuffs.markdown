@@ -1,3 +1,4 @@
 ---
 title: Handcuffs
+propCategories: [accessories]
 ---

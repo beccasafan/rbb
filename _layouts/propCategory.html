@@ -1,0 +1,77 @@
+---
+layout: default
+---
+{% if page.propCategory %}
+  {% assign propCategory = page.propCategory %}
+{% else %}
+  {% assign propCategoryFolder = "_" | append: page.collection | append:"/" %}
+  {% assign propCategory = page.relative_path | replace:propCategoryFolder, "" | replace:".markdown", "" %}
+{% endif %}
+
+<div class="page">
+  <div class="text-center">
+    <h2>{{ page.title }} - {{ propCategory }}</h2>
+  </div>
+
+  <div class="images row">
+    <div class="small-12 columns">
+      {% if page.images %}
+        <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4 text-center">
+          {% for img in page.images %}
+            {% include bear-image.html img=img %}
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p>Images have not been added for this category yet. {% include contribute.html %}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <hr>
+
+  {% assign propCategoryContent = content | strip_newlines %}
+  {% if propCategoryContent != empty %}
+    {{ propCategoryContent }}
+  {% else %}
+    <p>Nothing has been entered for this category yet. {% include contribute.html %}</p>
+  {% endif %}
+
+  <hr>
+
+  <div id="props">
+    <div class="text-center">
+      <h3>Items</h3>
+    </div>
+    <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+      {% for prop in site.allprops %}
+      <!-- {{ prop[0] }} {{ prop[1]["propCategories"] }} -->
+        {% if prop[1]["propCategories"] contains propCategory %}
+          {% include prop.html prop=prop element="li" %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
+  {% if page.purchaseLink %}
+    <hr>
+    <p>View the product page for <a href="{{ page.purchaseLink }}">this item</a></p>
+  {% endif %}
+
+  <hr>
+  <div id="pagination" class="row">
+    <div id="prevItem" class="small-6 columns">
+      {% assign previousCode = site.allpropCategories[propCategory]["previous"] %}
+      {% if previousCode %}
+        {% assign previous = site.allpropCategories[previousCode] %}
+        <a href="{{ site.baseurl }}{{ previous.url }}"><< {{ previous.title }}</a>
+      {% endif %}
+    </div>
+    <div id="nextItem" class="small-6 columns">
+      {% assign nextCode = site.allpropCategories[propCategory]["next"] %}
+      {% if nextCode %}
+        {% assign next = site.allpropCategories[nextCode] %}
+        <a href="{{ site.baseurl }}{{ next.url }}">{{ next.title }} >></a>
+      {% endif %}
+    </div>
+  </div>
+</div>
