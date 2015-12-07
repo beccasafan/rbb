@@ -1,5 +1,5 @@
 ---
 title: Black Devil-Horned Hat
-images: [capture.png]
+images: [capture.PNG]
 propCategories: [headwear]
 ---
