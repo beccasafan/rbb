@@ -59,17 +59,19 @@ function getParameterByName(name) {
     return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
 
-var panels = $(".page .items .accordion .content ul");
+var panels = $(".page .items .accordion .content ul.itemsSection");
+var isotopes = [];
 var searchText = "";
-_.forEach(panels, function(panel) {
-  imagesLoaded($(panel), function() {
-    isotopes = $(panel).isotope({
+imagesLoaded($(".page .items"), function() {
+  _.forEach(panels, function(panel) {
+    var isotope = $(panel).isotope({
       itemSelector: ".item",
       layoutMode: "masonry",
       filter: function() {
         return $(this).find(".title").text().toLowerCase().indexOf(searchText) >= 0;
       }
     });
+    isotopes.push(isotope);
   });
 });
 
@@ -79,7 +81,7 @@ $("#searchText").keyup(Foundation.utils.debounce(function() {
 }, 100));
 
 $(".page .items .accordion").on("toggled", function() {
-  _.forEach(panels, function(panel) { 
-    $(panel).isotope();
+  _.forEach(isotopes, function(isotope) {
+    isotope.isotope();
   });
 });
