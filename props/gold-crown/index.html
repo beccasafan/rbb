@@ -574,6 +574,9 @@
         </ul>
     </div>
 
+        <hr>
+        <p>View the product page for <a href="http://www.amazon.com/CoolGlow-King-Crown/dp/B00362RSUO">this item</a></p>
+    
     <hr>
     <div id="pagination" class="row">
         <div id="prevItem" class="small-6 columns">
@@ -601,7 +604,7 @@
 <script src="/rbb/content/scripts/imagesloaded.pkgd.min.js"></script>
 <script>
     Foundation.global.namespace = "";
-    $(document).foundation({equalizer: { equalize_on_stack: true}});
+    $(document).foundation({equalizer: { equalize_on_stack: true}, accordion: { multi_expand: true }});
 
     lightbox.option({
         alwaysShowNavOnTouchDevices: true
