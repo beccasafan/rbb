@@ -10,17 +10,17 @@
                 {% if images %}
                     {% assign concertImage = images[0] %}
                     <a href="{{ site.baseurl }}{{ concert.url }}">
-                        <img src="{{ site.baseurl }}content/media/{% if concertImage %}{{ concert.url }}/{{ concertImage }}{% else %}no-bear.jpg{% endif %}" />
+                        <img src="{{ site.baseurl }}content/media/{% if concertImage %}{{ concert.url }}/{{ concertImage }}{% else %}no-bear.jpg{% endif %}" alt="{{ concert.title }}" />
                     </a>
                 {% else %}
                     <a href="{{ site.baseurl }}{{ concert.url }}">
-                        <img src="{{ site.baseurl }}content/media/no-image.jpg" />
+                        <img src="{{ site.baseurl }}content/media/no-image.jpg" alt="{{ concert.title }}" />
                     </a>
                 {% endif %}
             </div>
         </div>
         <div class="text-center" data-equalizer-watch="title">
-            <div><a href="{{ site.baseurl }}{{ concert.url }}">{{ concert.title }}</a></div>
+            <div class="title"><a href="{{ site.baseurl }}{{ concert.url }}">{{ concert.title }}</a></div>
             <div>{{ concert.date | date: "%A" }}</div>
             <div class="date">{{ concert.date | date: "%Y-%m-%d" }}</div>
         </div>

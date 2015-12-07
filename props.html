@@ -8,18 +8,18 @@ excerpt: All the props that have ever been seen with RBB or SB
   <div class="text-center">
     <h2>{{ page.title }}</h2>
   </div>
-  <form>
-    <div class="row">
-      <div class="small-6 small-offset-6 columns">
-        <div class="row">
-          <div class="small-4 text-right columns">
-            <label class="right inline">Search:</label>
-          </div>
-          <div class="small-8 columns"><input type="text" id="searchText" /></div>
+
+  <div class="row">
+    <div class="small-6 small-offset-6 columns">
+      <div class="row">
+        <div class="small-4 text-right columns">
+          <label class="right inline">Search:</label>
         </div>
+        <div class="small-8 columns"><input type="text" id="searchText" /></div>
       </div>
     </div>
-  </form>
+  </div>
+
   <div id="props" class="items">
     <ul class="accordion" data-accordion>
       {% for propCategory in site.allpropCategories %}
@@ -35,7 +35,7 @@ excerpt: All the props that have ever been seen with RBB or SB
           <div id="panel-{{ propCategoryData['code'] }}" class="content active">
             {% if propCategoryData.content %}<p>{{ propCategoryData.content }}</p>{% endif %}
             <div data-equalizer="title">
-              <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
+              <ul class="itemsSection small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
                 {% for currentProp in site.props %}
                   {% if currentProp["propCategories"] == nil %}{% assign propCategories = "untagged" %}{% else %}{% assign propCategories = currentProp["propCategories"] %}{% endif %}
                   {% if propCategories contains propCategoryData["code"] %}
