@@ -8,8 +8,19 @@ excerpt: All the props that have ever been seen with RBB or SB
   <div class="text-center">
     <h2>{{ page.title }}</h2>
   </div>
-
-  <div id="props">
+  <form>
+    <div class="row">
+      <div class="small-6 small-offset-6 columns">
+        <div class="row">
+          <div class="small-4 text-right columns">
+            <label class="right inline">Search:</label>
+          </div>
+          <div class="small-8 columns"><input type="text" id="searchText" /></div>
+        </div>
+      </div>
+    </div>
+  </form>
+  <div id="props" class="items">
     <ul class="accordion" data-accordion>
       {% for propCategory in site.allpropCategories %}
         {% assign propCategoryData = propCategory[1] %}

@@ -58,3 +58,28 @@ function getParameterByName(name) {
         results = regex.exec(location.search);
     return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
+
+var panels = $(".page .items .accordion .content ul");
+var searchText = "";
+_.forEach(panels, function(panel) {
+  imagesLoaded($(panel), function() {
+    isotopes = $(panel).isotope({
+      itemSelector: ".item",
+      layoutMode: "masonry",
+      filter: function() {
+        return $(this).find(".title").text().toLowerCase().indexOf(searchText) >= 0;
+      }
+    });
+  });
+});
+
+$("#searchText").keyup(Foundation.utils.debounce(function() {
+  searchText = $(this).val().toLowerCase();
+  _.forEach(panels, function(panel) { $(panel).isotope(); });
+}, 100));
+
+$(".page .items .accordion").on("toggled", function() {
+  _.forEach(panels, function(panel) { 
+    $(panel).isotope();
+  });
+});
