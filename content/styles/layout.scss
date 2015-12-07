@@ -122,6 +122,28 @@ nav.top-bar {
         }
 
         #concerts, #props {
+            li.accordion-navigation {
+              margin-bottom: 25px !important;
+
+              &.active {
+                .arrow.active {
+                  display: inline;
+                }
+                .arrow.inactive {
+                  display: none;
+                }
+              }
+
+              &:not(.active) {
+                .arrow.active {
+                  display: none;
+                }
+                .arrow.inactive {
+                  display: inline;
+                }
+              }
+            }
+
             .item {
                 .itemContainer {
                     padding: 20px;

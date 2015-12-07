@@ -5,30 +5,39 @@ excerpt: All the props that have ever been seen with RBB or SB
 {% capture openBlock %}<div data-equalizer="title"><ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">{% endcapture %}
 
 <div class="page">
-    <div class="text-center">
-        <h2>{{ page.title }}</h2>
-    </div>
+  <div class="text-center">
+    <h2>{{ page.title }}</h2>
+  </div>
 
-    <div id="props">
+  <div id="props">
+    <ul class="accordion" data-accordion>
       {% for propCategory in site.allpropCategories %}
         {% assign propCategoryData = propCategory[1] %}
-        <h3>{{ propCategoryData["title"] }}</h3>
-        {% if propCategoryData.content %}
-          <p>{{ propCategoryData.content | markdownify }}</p>
-        {% endif %}
-
-        <div data-equalizer="title">
-          <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="title">
-            {% for currentProp in site.props %}
-              {% if currentProp["propCategories"] == nil %}{% assign propCategories = "untagged" %}{% else %}{% assign propCategories = currentProp["propCategories"] %}{% endif %}
-              {% if propCategories contains propCategoryData["code"] %}
-                {% assign _propFolder = "_props/" %}
-                {% assign _propCode = currentProp.relative_path | replace:_propFolder,"" | replace:".markdown","" %}
-                {% include prop.html prop=_propCode %}
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </div>
+        <li class="accordion-navigation active {{ propCategoryData['code'] }}">
+          <a href="#panel-{{ propCategoryData['code'] }}">
+            <h4>
+              <span class="arrow active">&#9650;</span>
+              <span class="arrow inactive">&#9660;</span>
+              {{ propCategoryData["title"] }}
+            </h4>
+          </a>
+          <div id="panel-{{ propCategoryData['code'] }}" class="content active">
+            {% if propCategoryData.content %}<p>{{ propCategoryData.content }}</p>{% endif %}
+            <div data-equalizer="title">
+              <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="title">
+                {% for currentProp in site.props %}
+                  {% if currentProp["propCategories"] == nil %}{% assign propCategories = "untagged" %}{% else %}{% assign propCategories = currentProp["propCategories"] %}{% endif %}
+                  {% if propCategories contains propCategoryData["code"] %}
+                    {% assign _propFolder = "_props/" %}
+                    {% assign _propCode = currentProp.relative_path | replace:_propFolder,"" | replace:".markdown","" %}
+                    {% include prop.html prop=_propCode %}
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </li>
       {% endfor %}
-    </div>
+    </ul>
+  </div>
 </div>
