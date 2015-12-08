@@ -59,7 +59,7 @@ function getParameterByName(name) {
     return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
 }
 
-var panels = $(".page .items .accordion .content ul.itemsSection");
+var panels = $(".page .items ul.itemsSection");
 var isotopes = [];
 var searchText = "";
 imagesLoaded($(".page .items"), function() {
@@ -80,8 +80,20 @@ $("#searchText").keyup(Foundation.utils.debounce(function() {
   _.forEach(panels, function(panel) { $(panel).isotope(); });
 }, 100));
 
-$(".page .items .accordion").on("toggled", function() {
+$(".accordion", ".page").on("toggled", function() {
   _.forEach(isotopes, function(isotope) {
     isotope.isotope();
   });
+});
+
+$(".tabs .tab-title", ".page").on("click", function(el) {
+  var oldKey = $(".tabs .tab-title.active");
+  var newKey = $(this);
+
+  oldKey.removeClass("active");
+  $("#panel-" + oldKey.data("key")).removeClass("active");
+
+  newKey.addClass("active");
+  $("#panel-" + newKey.data("key")).addClass("active");
+
 });

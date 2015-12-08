@@ -128,7 +128,7 @@ nav.top-bar {
           .content {
             background-color: rgba(255,255,255,0.5) !important;
           }
-          
+
             li.accordion-navigation {
               margin-bottom: 25px !important;
 
@@ -174,6 +174,20 @@ nav.top-bar {
                     }
                 }
             }
+        }
+
+        #props {
+          .content {
+            &:not(.active) {
+              height: 0;
+              overflow: hidden;
+            }
+          }
+        }
+        .tabs {
+          .tab-title a {
+            padding: 1rem;
+          }
         }
 
         #search {
