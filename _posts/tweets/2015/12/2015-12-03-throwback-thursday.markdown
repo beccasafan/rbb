@@ -12,7 +12,7 @@ Turns out this might have been a warning to the fandom. A few hours after the tw
   ![]({{site.baseurl}}content/media/tweets/2015/12/throwback-thursday/josh_and_rbb.jpg)
 </div>
 
-Josh has also posted pics of him and RBB several other times:
+Josh has also posted pics of him and RBB at least a few more times:
 
 <div markdown="1" class="text-center">
   ![]({{site.baseurl}}content/media/tweets/2015/12/throwback-thursday/philly_2014.jpg)
