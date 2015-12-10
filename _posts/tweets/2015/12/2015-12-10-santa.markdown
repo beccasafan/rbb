@@ -1,0 +1,7 @@
+---
+title: Santa
+date: 2015-12-10 13:00
+tweet: 675041633130438656
+props: [rbb, studded-black-choker, aviators, freddie-mustache, santa-hat, santa-costume]
+---
+Someone is in a festive mood after the BBC Awards!
