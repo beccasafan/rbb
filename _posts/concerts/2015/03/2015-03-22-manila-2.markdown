@@ -1,6 +1,6 @@
 ---
 title: Manila 2
 date: 2015-03-22
-images: [side.png]
+images: [side.jpg]
 props: [rbb, black-lace-up-boots, tux, studded-black-choker, black-hat, aviators, pink-hello-kitty-chair, pipe]
 ---

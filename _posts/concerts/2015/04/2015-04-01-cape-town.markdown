@@ -1,6 +1,6 @@
 ---
 title: Cape Town
 date: 2015-04-01
-images: [side.png]
+images: [side.jpg]
 props: [rbb, black-lace-up-boots, freddie-mercury-shirt, bear-boxers, black-teddie-mercury-hat, aviators, mic, freddie-mustache]
 ---

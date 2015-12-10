@@ -1,6 +1,6 @@
 ---
 title: Oslo
 date: 2015-06-19
-images: [both-side.png, both-back.png]
+images: [both-side.jpg, both-back.png]
 props: [rbb, sb, camo-shorts, black-lace-up-boots, harley-jacket, leather-chaps, rainbow-tshirt, bondage-gear, black-devil-horned-hat, studded-black-choker, aviators, rainbow-peace-sign-necklace, pearl-necklace, handcuffs, sparkly-star-stick, freddie-mustache]
 ---

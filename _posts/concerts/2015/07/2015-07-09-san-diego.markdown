@@ -1,6 +1,6 @@
 ---
 title: San Diego
 date: 2015-07-09
-images: [both-front.png, both-back.png]
+images: [both-front.jpg, both-back.png]
 props: [rbb, sb, black-lace-up-boots, harley-jacket, leather-chaps, bondage-gear, black-teddie-mercury-hat, tiara, studded-black-choker, aviators, pearl-necklace, horse, freddie-mustache]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Columbus
 date: 2015-08-18
-images: [both-front.png, both-side.png]
+images: [both-front.jpg, both-side.png]
 props: [rbb, sb, wonder-woman-costume, rainbow-tutu, bondage-gear, black-boots, tiara, silver-sparkly-fedora, studded-black-choker, aviators, earrings, disco-ball, sparkly-silver-and-pink-baton, sparkly-star-stick, flower-lights, rainbow-background, wood-chair, blue-happy-sticker, green-happy-sticker, divine-eyebrows, freddie-mustache]
 ---

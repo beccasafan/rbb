@@ -1,6 +1,6 @@
 ---
 title: Perth
 date: 2015-02-20
-images: [side.png, far.png]
+images: [side.jpg, far.png]
 props: [rbb, camo-shorts, black-lace-up-boots, white-shirt, black-teddie-mercury-hat, studded-black-choker, studded-armband, aviators, freddie-mustache, pink-hello-kitty-chair]
 ---

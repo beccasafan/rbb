@@ -1,6 +1,6 @@
 ---
 title: Adelaide
 date: 2015-02-17
-images: [front.png]
+images: [front.jpg]
 props: [rbb, black-lace-up-boots, earrings, sparkly-bowtie, rainbow-tutu, rainbow-suspenders, freddie-mustache]
 ---

@@ -1,7 +1,7 @@
 ---
 title: Newcastle 1
 date: 2015-10-25 13:00
-images: [both-front-hq.png, both-spun-hq.png, both-front.jpg, both-side.jpg, both-sbb.jpg]
+images: [both-front-hq.jpg, both-spun-hq.png, both-front.jpg, both-side.jpg, both-sbb.jpg]
 props: [rbb, sb, aviators, gold-crown, aviators, bondage-gear, green-happy-sticker, book, danny-la-rue, blue-happy-sticker, red-happy-sticker, salon-chair, heeled-black-boots, leather-chaps, harley-jacket, jewelry-box-chair]
 ---
 RBB is sitting on a [salon chair]({{site.baseurl}}props/salon-chair){:target="_blank"} and there is a [red happy sticker]({{site.baseurl}}props/red-happy-sticker){:target="_blank"} on the back of the chair. There have been a number of articles released yesterday and today stating that Liam and Sophia have broken up. No official rep confirmation so far, just sources and insiders. If "Sophiam" was a PR relationship, does this refer to Liam's beard being shaved off?

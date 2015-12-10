@@ -1,7 +1,7 @@
 ---
 title: Seattle
 date: 2015-07-15
-images: [bears-missing.png]
+images: [bears-missing.jpg]
 props: [horse, pink-hello-kitty-chair]
 ---
 Our friends Rainbow Bondage Bear and Sugar Bear were not present. The Hello Kitty chair and horse were all alone.
