@@ -2,5 +2,5 @@
 title: Santa Costume
 images: [main.jpg]
 propCategories: [clothing]
-purchaseLink: http://www.buildabear.com/shopping/store/Santa-Claus-Stuffed-Animal-Costume-3-pc./productId=prod11070461
+purchaseLink: http://www.buildabear.com/shopping/store/Santa-Costume-4-pc.-/productId=prod82667
 ---
