@@ -2,7 +2,7 @@
 title: Bearhemian Rhapsody
 date: 2015-12-21
 tweet: 678980211220848640
-props: [rbb, sb, third-bear, pfb, aviators, freddie-mustache]
+props: [rbb, sb, third-bear, pfb, aviators, freddie-mustache, queen, freddie-mercury]
 ---
 RBB and SBB have friends! [Brown Bear]({{site.baseurl}}props/third-bear){:target="_blank"} has been seen before, but the [Peace & Friendship Bear (PFB)]({{site.baseurl}}props/pfb){:target="_blank"} is new! The bears formation and the pun *Bearhemian Rhapsody* reference the Queen Song *Bohemian Rhapsody*.
 
