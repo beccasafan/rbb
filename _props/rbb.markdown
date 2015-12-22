@@ -1,4 +1,5 @@
 ---
 title: Rainbow Bondage Bear
-propCategories: [props]
+images: [main.jpg]
+propCategories: [bears]
 ---
