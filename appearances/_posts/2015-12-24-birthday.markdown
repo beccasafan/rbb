@@ -1,0 +1,12 @@
+---
+title: Birthday
+date: 2015-12-24 01:00
+images: [profile.jpg]
+props: [divine, birthday-cake]
+---
+<!-- {{ page.url }} -->
+The official Twitter account has changed the profile image to one of [Divine]({{site.baseurl}}props/divine){:target="_blank"} holding a birthday cake.
+
+And of course it is 200% just a coincidence that today is Louis' birthday!
+
+The fandom is speculating that although Harry cannot publicly wish Louis a Happy Birthday on his own Twitter, Harry changed the profile image because it is something that he can do. This was helped along by Harry [tweeting](https://twitter.com/Harry_Styles/status/680072198258847745){:target="_blank"} today, *Merry Christmas tomorrow*. Sure, maybe he just anticipates being busy and preoccupied tomorrow and not online, or maybe...

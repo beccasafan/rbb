@@ -49,14 +49,15 @@ defaults:
     values:
       twitterCard:
         cardType: summary_large_image
-        excerpt: "{{ page.custom }}. {{ page.date | date: '%Y-%m-%d' }}{% if page.content %} {{ page.content | markdownify | strip_html | truncatewords: 50 }}{% endif %}"
+        excerpt: "{{ page.typeTitle }}: {{ page.date | date: '%Y-%m-%d' }}{% if page.content %}. {{ page.content | markdownify | strip_html | truncatewords: 50 }}{% endif %}"
   -
     scope:
       path: "concerts"
       type: "posts"
     values:
       layout: "concert"
-      permalink: "concerts/:year/:month/:title"
+      permalink: "concerts/:year/:month/:title/"
+      typeTitle: "Concert"
   -
     scope:
       path: "tweets"
@@ -64,14 +65,16 @@ defaults:
     values:
       images: [tweet.jpg]
       layout: "tweet"
-      permalink: "tweets/:year/:month/:title"
+      permalink: "tweets/:year/:month/:title/"
+      typeTitle: "Tweet"
   -
     scope:
       path: "appearances"
       type: "posts"
     values:
       layout: "concert"
-      permalink: "appearances/:year/:month/:title"
+      permalink: "appearances/:year/:month/:title/"
+      typeTitle: "Appearance"
   -
     scope:
       path: ""

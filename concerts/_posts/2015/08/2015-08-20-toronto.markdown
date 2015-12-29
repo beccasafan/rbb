@@ -1,0 +1,14 @@
+---
+title: Toronto
+date: 2015-08-20
+images: [both-front.jpg, both-side-left.png, both-side-right.png, beaver.jpg, red-sticker-1.jpg, red-sticker-2.jpg]
+props: [rbb, sb, black-boots, black-lace-up-boots, rainbow-tutu, bondage-gear, bear-boxers, harley-jacket, rainbow-tshirt, silver-sparkly-fedora, studded-black-choker, aviators, toilet, toilet-paper, toilet-bowl-brush, pail, lysol, blue-happy-sticker, green-happy-sticker, freddie-mustache, divine-eyebrows, red-happy-sticker, beaver]
+imageCredits:
+    CanuckLarrie: https://twitter.com/CanuckLarrie/status/634481638873952256
+    CanuckLarrie (2): https://twitter.com/CanuckLarrie/status/658777532850835456
+---
+RBB and SB are buckling down and doing some cleaning today! I think an important detail is that all the props indicate the bears are cleaning up something else, as opposed to [Detroit]({% post_url 2015-08-29-detroit %}){:target="_blank"} where the props are things used to clean themselves.
+
+There is a new Red sticker on the toilet, and while it isn't clearly visibly in photos I've seen, multiple reports from fans at the concert said it was an "angry" sticker. Was this a warning regarding Liam's Attitude interview? As was later revealed, the sticker isn't angry! It seems to better fit with the blue and green happy stickers. Happy to be flushing the toilet? What's around to be flushed? Babygate? Liam and Girl Almighty? [What do you think it means]({{site.baseurl}}contribute)?
+
+Placed away from the bears, there is a [beaver]({{site.baseurl}}props/beaver){:target="_blank"} (squirrel?). A friend of RBB and SBB??

@@ -1,0 +1,9 @@
+---
+title: Ottawa 2
+date: 2015-09-09
+images: []
+props: []
+---
+Just like [last night's concert]({{ site.baseurl }}{% post_url 2015-09-08-ottawa-1 %}), RBB and SB were missing. Given the concert was in the same venue, and fandom speculation is that the usual stage area for the bears has had to be cut to adapt the smaller stage, this makes sense!
+
+Hopefully we'll see the bears for the Boston concert!

@@ -1,0 +1,7 @@
+---
+title: Tweet 10
+date: 2015-10-21 01:00
+tweet: 656837821240623104
+props: []
+---
+The official RBB/SBB account posted a picture of the current date on a calculator: 21 - 10 - 15 = -4. Based on the [5]({{ site.baseurl}}{% post_url 2015-10-20-tweet-9 %}){:target="_blank"}, it is speculated that there is a countdown for the 25th of October.

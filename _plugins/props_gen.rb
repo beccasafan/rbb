@@ -29,7 +29,7 @@ module Jekyll
     end
 
     def groupVariable(site, isCollection, collectionParent, varName, template, sortBy, permalink, saveContent)
-      allItems = (isCollection ? site.collections[collectionParent].docs : site.posts).flat_map { |p| p.data[varName] }.uniq
+      allItems = (isCollection ? site.collections[collectionParent].docs : site.posts.docs).flat_map { |p| p.data[varName] }.uniq
       allItems.delete(nil)
       allItems = allItems.sort_by(&:downcase)
       categoryName = template + "Categories"

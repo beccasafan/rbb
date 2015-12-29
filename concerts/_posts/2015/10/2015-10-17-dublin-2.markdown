@@ -1,0 +1,9 @@
+---
+title: Dublin 2
+date: 2015-10-17 13:00
+images: [horse.jpg, horse-closeup.jpg, pail-and-money.jpg]
+props: [pink-hello-kitty-chair, horse, saddle-and-bridle, pail, money, zloty, cell-phone, nokia-phone, custom-label]
+---
+After the concert, it was discovered that the bears were not at the concert, but a setup was on display. The [pink chair]({{site.baseurl}}props/pink-hello-kitty-chair){:target="_blank"} and [horse]({{site.baseurl}}props/horse){:target="_blank"} were there. Hello, fandom freakout! The only other time we've seen this is [the show after the Babygate news broke]({{site.baseurl}}{% post_url 2015-07-15-seattle %}){:target="_blank"}. This time, it looks like the horse might have a [saddle]({{site.baseurl}}props/saddle-and-bridle){:target="_blank"} and we also have the [pail]({{site.baseurl}}props/pail){:target="_blank"} with [Zloty (Polish money)]({{site.baseurl}}props/zloty){:target="_blank"} in the pail. We've seen Zloty [before]({{site.baseurl}}props/zloty){:target="_blank"}. Fandom speculation and the Polish money again raises the question of the boys leaving Simon and his money.
+
+There is also a [phone]({{site.baseurl}}props/cell-phone){:target="_blank"}, a [Nokia]({{site.baseurl}}props/nokia-phone){:target="_blank"} again. Still leak speculation? The phone has a custom [label]({{site.baseurl}}props/custom-label){:target="_blank"} that reads "Nut Tree". A number of possibilities have been mentioned, but nothing that seems to be popular for a consensus.

@@ -1,0 +1,7 @@
+---
+title: Tweet 19
+date: 2015-10-30 13:00
+tweet: 660249148487294976
+props: [iphone, cell-phone]
+---
+After the [Sheffield 2 concert]({{site.baseurl}}{% post_url 2015-10-30-sheffield-2 %}){:target="_blank"}, RBB tweeted the iPhone screen, showing 11480 text messages. The Passbook app was also visible, meaning that this is an iPhone 4 still on iOS7.
