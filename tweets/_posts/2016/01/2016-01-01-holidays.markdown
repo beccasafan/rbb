@@ -2,6 +2,6 @@
 title: Holidays
 date: 2016-01-01 13:00
 tweet: 683018975148666880
-props: [rbb, aviators, studded-black-choker, red-sweater, blue-scarf, overalls, heeled-black-boots, earrings]
+props: [rbb, aviators, studded-black-choker, red-sweater, blue-hat, blue-scarf, overalls, heeled-black-boots, earrings]
 ---
 RBB is still in the holiday spirit!
