@@ -2,7 +2,7 @@
 title: Christmas Gifts
 date: 2015-12-24 13:00
 tweet: 680076312137064448
-props: [rbb, sb, divine-eyebrows, earrings, aviators, freddie-mustache, bondage-gear, red-sweater, overalls, tinsel, pen, scissors, wrapping-paper, heeled-black-boots, tape, potato-peeler, potato-masher, salon-chair, green-angry-sticker, handwriting, 1d-potato]
+props: [rbb, sb, angry-eyebrows, earrings, aviators, freddie-mustache, bondage-gear, red-sweater, overalls, tinsel, pen, scissors, wrapping-paper, heeled-black-boots, tape, potato-peeler, potato-masher, salon-chair, green-angry-sticker, handwriting, 1d-potato]
 ---
 RBB and SBB are celebrating the holidays by sending Christmas gifts. Oh man, do they hold a grudge! They are sending the [1D Potato]({{site.baseurl}}props/1d-potato){:target="_blank"}, from the Jimmy Kimmel Live show, a potato peeler and a potato masher. YIKES! The potato originally represented JKL making fun of the fans, but it could also represent a more general nod to the fandom manipulation that has occurred for years, coming from 1DHQ.
 

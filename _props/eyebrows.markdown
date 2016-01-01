@@ -1,0 +1,4 @@
+---
+title: Eyebrows
+propCategories: [accessories]
+---

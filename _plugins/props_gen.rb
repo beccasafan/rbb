@@ -33,8 +33,8 @@ module Jekyll
       allItems.delete(nil)
       allItems = allItems.sort_by(&:downcase)
       categoryName = template + "Categories"
-
-      itemsData = site.collections[varName].docs.map { |doc| Hash["code", doc.basename_without_ext, "title", doc.data["title"], "url", doc.url, "image", doc.data.key?("images") ? "%s/%s/%s" % [varName, doc.basename_without_ext, doc.data["images"][0]] : "no-image.jpg", categoryName, doc.data[categoryName], "content", saveContent ? doc.content : "", "order", doc.data["order"] ]}
+      parentName = template + "Parent"
+      itemsData = site.collections[varName].docs.map { |doc| Hash["code", doc.basename_without_ext, "title", doc.data["title"], "url", doc.url, "image", doc.data.key?("images") ? "%s/%s/%s" % [varName, doc.basename_without_ext, doc.data["images"][0]] : "no-image.jpg", parentName, doc.data[parentName], categoryName, doc.data[categoryName], "content", saveContent ? doc.content : "", "order", doc.data["order"] ]}
       itemsHash = itemsData.map { |p| [p["code"], p]}.to_h
 
       existingItems = site.collections[varName].docs.map { |d| d.basename_without_ext }

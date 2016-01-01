@@ -1,7 +1,6 @@
 {% assign propData = site.allprops[include.prop] %}
 {% assign propInclude = propData %}
-
-<li class="item">
+<li class="item prop" data-parents="{%for p in propInclude['propParent'] %}{{ site.allprops[p]['title'] }}{%unless forloop.last %}, {%endunless %}{%endfor%}">
     <div class="itemContainer">
         <div class="imgContainer">
             <div class="imgWrapper" data-equalizer-watch="image">

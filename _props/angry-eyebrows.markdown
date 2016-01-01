@@ -1,5 +1,5 @@
 ---
-title: Divine Eyebrows
+title: Angry Eyebrows
 propCategories: [accessories]
 propParent: [eyebrows]
 ---

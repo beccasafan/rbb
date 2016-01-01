@@ -44,11 +44,11 @@ excerpt: All the props that have ever been seen with RBB or SBB.
               {% if propCategoryData.content %}<p>{{ propCategoryData.content }}</p>{% endif %}
               <div data-equalizer="title">
                 <ul class="itemsSection small-block-grid-2 medium-block-grid-3 large-block-grid-4" data-equalizer="image">
-                  {% for currentProp in site.props %}
+                  {% for currentPropData in site.allprops %}
+                    {% assign currentProp = currentPropData[1] %}
                     {% if currentProp["propCategories"] == nil %}{% assign propCategories = "untagged" %}{% else %}{% assign propCategories = currentProp["propCategories"] %}{% endif %}
                     {% if propCategories contains propCategoryData["code"] %}
-                      {% assign _propFolder = "_props/" %}
-                      {% assign _propCode = currentProp.relative_path | replace:_propFolder,"" | replace:".markdown","" %}
+                      {% assign _propCode = currentPropData[0] %}
                       {% include prop.html prop=_propCode %}
                     {% endif %}
                   {% endfor %}

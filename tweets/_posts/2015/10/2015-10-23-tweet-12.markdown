@@ -2,7 +2,7 @@
 title: Tweet 12
 date: 2015-10-23 01:00
 tweet: 657537811411783680
-props: [iphone, cell-phone]
+props: [iphone]
 ---
 The countdown continues! The background on the phone screenshot is a rainbow 2. The screenshot is from an iPhone 5, and this is the 5th page of apps. Oh my my, these apps! Here's a list of the apps. I'm also adding titles, descriptions, links to the iTunes store, and meanings for each app (because yeah...), but give me a bit to do that, oy!!
 

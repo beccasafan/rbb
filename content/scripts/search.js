@@ -68,7 +68,9 @@ imagesLoaded($(".page .items"), function() {
       itemSelector: ".item",
       layoutMode: "masonry",
       filter: function() {
-        return $(this).find(".title").text().toLowerCase().indexOf(searchText) >= 0;
+        var title = $(this).find(".title").text().toLowerCase();
+        var parentProps = $(this).data("parents").toLowerCase();
+        return title.indexOf(searchText) >= 0 || (parentProps != null && parentProps.indexOf(searchText) >= 0);
       }
     });
     isotopes.push(isotope);
@@ -78,7 +80,7 @@ imagesLoaded($(".page .items"), function() {
 $("#searchText").keyup(Foundation.utils.debounce(function() {
   searchText = $(this).val().toLowerCase();
   _.forEach(panels, function(panel) { $(panel).isotope(); });
-}, 100));
+}, 250));
 
 $(".accordion", ".page").on("toggled", function() {
   _.forEach(isotopes, function(isotope) {

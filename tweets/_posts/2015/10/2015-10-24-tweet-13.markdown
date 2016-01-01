@@ -2,7 +2,7 @@
 title: Tweet 13
 date: 2015-10-24
 tweet: 657918084532051968
-props: [iphone, cell-phone]
+props: [iphone]
 ---
 One! The bear has 1 message. Everyone paying attention??
 
