@@ -69,7 +69,7 @@ imagesLoaded($(".page .items"), function() {
       layoutMode: "masonry",
       filter: function() {
         var title = $(this).find(".title").text().toLowerCase();
-        var parentProps = $(this).data("parents").toLowerCase();
+        var parentProps = ($(this).data("parents") || "").toLowerCase();
         return title.indexOf(searchText) >= 0 || (parentProps != null && parentProps.indexOf(searchText) >= 0);
       }
     });
