@@ -2,7 +2,7 @@
 title: Chicago
 date: 2015-08-23
 images: [both-front.jpg, rbb.jpg, beaver.jpg]
-props: [rbb, sb, black-boots, heeled-black-boots, rainbow-tutu, dalmation-fur-coat, silver-sparkly-fedora, black-white-fedora, studded-black-choker, aviators, rockstar-gold-necklace, $-gold-necklace, watch, staff, cigar, baby-bottle, flower-lights, champagne-flute, diamond-bedazzled-kanye-glasses, money, green-surprised-sticker, blue-sad-sticker, freddie-mustache, pearl-necklace, pink-hello-kitty-chair, wood-chair, table, beaver, hand]
+props: [rbb, sb, black-boots, heeled-black-boots, rainbow-tutu, dalmation-fur-coat, silver-sparkly-fedora, black-white-fedora, studded-black-choker, aviators, rockstar-gold-necklace, $-gold-necklace, watch, gold-scepter, cigar, baby-bottle, flower-lights, champagne-flute, diamond-bedazzled-kanye-glasses, money, green-surprised-sticker, blue-sad-sticker, freddie-mustache, pearl-necklace, pink-hello-kitty-chair, wood-chair, table, beaver, hand]
 ---
 So much going on today!
 

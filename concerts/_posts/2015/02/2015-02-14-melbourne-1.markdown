@@ -2,5 +2,5 @@
 title: Melbourne 1
 date: 2015-02-14
 images: [front.jpg, side.jpg]
-props: [rbb, camo-shorts, black-lace-up-boots, black-flat-brim-hat, studded-black-choker, studded-armband, aviators, diamond-bedazzled-kanye-glasses, rockstar-gold-necklace, $-gold-necklace, pink-hello-kitty-chair, staff, freddie-mustache]
+props: [rbb, camo-shorts, black-lace-up-boots, black-flat-brim-hat, studded-black-choker, studded-armband, aviators, diamond-bedazzled-kanye-glasses, rockstar-gold-necklace, $-gold-necklace, pink-hello-kitty-chair, gold-scepter, freddie-mustache]
 ---
