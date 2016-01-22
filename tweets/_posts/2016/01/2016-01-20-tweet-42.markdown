@@ -1,0 +1,15 @@
+---
+title: Tweet 42
+date: 2016-01-20
+tweet: 689841512897708032
+props: [rbb, sb, police-hat, aviators, freddie-mustache, harley-jacket]
+---
+The time on the player is 02:01. The most common reference here is Harry's birthday on February 1st. Possibly a bit weird as that's not how Brits would write the date. February 1st is also National Freedom Day in the United Statese.
+
+Quite the extensive CD collection the bears have! It's hard to identify a number of the cds, but [some have been identified](http://beccasafan.tumblr.com/post/137795175242/misspebbles2010-cds-on-rbb-and-sbbs-shelf-so){:target="_blank"}.
+
+<div markdown="1" class="listWithMargin">
+- Erasure, Pop 20 Hits: After putting up an [Erasure profile picture]({{site.baseurl}}{% post_url 2016-01-18-andy-bell %}){:target="_blank"} a couple days ago, the bears are now listening to their music.
+- Culture Club: Boy George, the lead singer, is an androgenous icon of the 1980s that came out as gay. He has speculated that Harry is sexually ambiguous and compared him and Louis to Mick Jagger and David Bowie. Their hit song Karma Chameleon, has lyrics that speak of sexuality and closeting.
+- ...
+</div>
