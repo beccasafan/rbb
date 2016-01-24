@@ -1,6 +1,6 @@
 ---
 title: Baaba Maal
-date: 2016-01-24
+date: 2016-01-24 01:00
 tweet: 691228113141927936
 props: [rbb, angry-eyebrows, black-teddie-mercury-hat, aviators, freddie-mustache, studded-black-choker, harley-jacket, leather-chaps, heeled-black-boots, camo-shorts, salon-chair]
 ---
