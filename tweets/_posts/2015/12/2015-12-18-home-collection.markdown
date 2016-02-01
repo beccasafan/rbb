@@ -20,7 +20,7 @@ A glimpse into the lives of the bears, we are being treated to a portion of thei
 - [Worzel Gummidge - Tales From Ten Acre Field](http://www.amazon.co.uk/Worzel-Gummidge-Tales-From-Field/dp/B0017D5RG6){:target="_blank"}.
 - [Freddie Mercury: The Definitive Biography](http://www.amazon.com/Freddie-Mercury-The-Definitive-Biography/dp/1444733672){:target="_blank"}.
 - [Myths, Lies, and Downright Stupid](http://www.amazon.com/Myths-Lies-Downright-Stupidity-Shovel--Why/dp/1401302548){:target="_blank"}. *Myth: The media will check it out and give you the objective truth.* (where's the Sure, Jan gif??)
-- [Hotel Babylon](http://www.amazon.com/Hotel-Babylon-Imogen-Edwards-Jones/dp/0593052722){:target="_blank"}. Part of a series on various industries. [The Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1026464/The-golden-rules-Pop-Babylon---A-cynical-insiders-guide-manufacturing-boy-band.html){:target="_blank"} has previously published an article from Pop Babylon on how to manufacture a boy band.
+- [Hotel Babylon](http://www.amazon.com/Hotel-Babylon-Imogen-Edwards-Jones/dp/0593052722){:target="_blank"}. Part of a series on various industries. [The Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1026464/The-golden-rules-Pop-Babylon---A-cynical-insiders-guide-manufacturing-boy-band.html){:target="_blank"} has previously published an article from Pop Babylon on how to manufacture a boy band. Part of the plot involves a pregnancy with an unknown father.
 - [Mercury and Me](http://www.amazon.com/Mercury-Me-Jim-Hutton/dp/0747519226){:target="_blank"}. Written by Mercury's partner.
 - ??? Undentified, but starts with *Qu*, possibly *Queen*? The font is consistent.
 </div>
