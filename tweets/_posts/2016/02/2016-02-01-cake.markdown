@@ -1,0 +1,13 @@
+---
+title: Cake!
+date: 2016-02-01 13:00
+tweet: 694215192771706880
+props: [rbb, sb, bondage-gear, birthday-cake]
+---
+The bears are having their cake and eating it too, and still holding hands! Ya know what this pic reminds me of?
+
+<div markdown="1" class="text-center">
+![]({{site.baseurl}}content/media/tweets/2016/02/cake/harry-cake.jpg)
+</div>
+
+They've made quite a mess with the birthday cake. Do you think it will all come out in the wash??!
