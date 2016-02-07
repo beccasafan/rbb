@@ -4,3 +4,4 @@ date: 2015-08-29
 images: [both-front.jpg, both-front-2.jpg, both-side.jpg, sb-front.jpg, both-happy-stickers.jpg]
 props: [rbb, sb, us-marine-corps-costume, bondage-gear, black-lace-up-boots, sparkly-bowtie, gold-crown, silver-sparkly-crown, studded-black-choker, watch, aviators, toothbrush, toothpaste, bible, green-happy-sticker, blue-happy-sticker, wood-chair, freddie-mustache, custom-label]
 ---
+Anybody thinking of A Few Good Men right now? *"...you can't handle the truth!"*
