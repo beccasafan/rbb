@@ -103,6 +103,9 @@ nav.top-bar {
                 }
             }
         }
+        video {
+          max-width: 100%;
+        }
 
         button.small, .button.small {
             @media (max-width: 385px) {
