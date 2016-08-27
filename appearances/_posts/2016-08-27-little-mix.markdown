@@ -13,7 +13,7 @@ The [last time we saw RBB/SBB]({{site.baseurl}}{% post_url 2016-02-01-cake %}){:
 Today, RBB has shown up at a Little Mix concert. Note both the blue and green happy stickers! Check out [this video](https://twitter.com/mcfIeur/status/769504074312085504){:target="_blank"} taken by a fan. The concert hasn't happened yet, but RBB was out there hours before.
 
 <div class="text-center">
-  <video controls="controls"><source type="video/mp4" src="{{site.baseurl}}content/media/appearances/2016/08/little-mix/main.mp4" /></video>
+  <video controls="controls"><source type="video/mp4" src="{{site.baseurl}}content/media/appearances/2016/08/little-mix/main2.mp4" /></video>
 </div>
 
 A week ago, Louis liked a picture of a Little Mix concert that Perrie posted. For more context, [here's a post with some details/pics](https://beccasafan.tumblr.com/post/149558668792){:target="_blank"}.
